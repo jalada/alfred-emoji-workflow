@@ -37,7 +37,7 @@ the whole list of emoji will be presented.__
 
 There are two steps to developing...
 
-1. Run the generate.rb script to produce `related.json` & `symbols.json`
+1. Run the `generate.rb` script to produce `related.json` & `symbols.json` (and any new images)
         
         ruby generate.rb
         
