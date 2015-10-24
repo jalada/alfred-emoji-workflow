@@ -11,6 +11,8 @@ rows = doc.xpath('//table/tr')
 related = {}
 symbols = {}
 
+custom_related = JSON.load(File.read('custom_related.json'))
+
 rows.each do |row|
   # Skip header row of table
   next if 'Count' == row.at_xpath('th[1]/text()').to_s.strip
@@ -23,11 +25,14 @@ rows.each do |row|
   File.open("images/#{filename}.png", 'wb') { |f| f.write(icon) }
 
   # Use annotations for related words
-  related[filename] = row.css('td[16]/a').children.collect { |a| a.to_s }
+  annotations = row.css('td[16]/a').children.collect { |a| a.to_s }
+  # Combine annotations with custom related words
+  related[filename] = annotations.concat(custom_related[filename] || []).uniq
 
   # Read the unicode symbol
   symbols[filename] = [row.at_xpath('td[2]/a/text()').to_s[2..-1].to_s.hex].pack('U')
 end
+
 
 # Write data files used by emoji.rb
 File.open('symbols.json', 'wb') { |f| f.write(JSON.pretty_generate(symbols)) }

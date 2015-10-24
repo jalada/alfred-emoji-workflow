@@ -29,6 +29,8 @@ the whole list of emoji will be presented.__
 
 * __You can also search an emoji using related words.__
 
+* __You can add your own related words by editing custom_related.json and re-running generate.rb.__
+
 ![](http://i.imgur.com/g0GbJUY.png)
 
 ## Generating the Emoji and Related Words
@@ -37,4 +39,4 @@ The `generate.rb` script pulls the official [full emoji list](http://unicode.org
 
 - Extracts the Apple icons
 - Generates the symbols.json file with a map of names to symbols
-- Generates the related.json file with a map of names to annotation keywords
+- Generates the related.json file with a map of names to annotation keywords & custom related words from custom_related.json
