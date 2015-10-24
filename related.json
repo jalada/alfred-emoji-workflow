@@ -1,0 +1,8879 @@
+{
+  "grinning_face": [
+    "face",
+    "grin",
+    "person"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "eye",
+    "face",
+    "grin",
+    "person",
+    "smile"
+  ],
+  "face_with_tears_of_joy": [
+    "face",
+    "joy",
+    "person",
+    "tear"
+  ],
+  "smiling_face_with_open_mouth": [
+    "face",
+    "mouth",
+    "open",
+    "person",
+    "smile"
+  ],
+  "smiling_face_with_open_mouth_and_smiling_eyes": [
+    "eye",
+    "face",
+    "mouth",
+    "open",
+    "person",
+    "smile"
+  ],
+  "smiling_face_with_open_mouth_and_cold_sweat": [
+    "cold",
+    "face",
+    "open",
+    "person",
+    "smile",
+    "sweat"
+  ],
+  "smiling_face_with_open_mouth_and_tightly-closed_eyes": [
+    "face",
+    "laugh",
+    "mouth",
+    "open",
+    "person",
+    "satisfied",
+    "smile"
+  ],
+  "winking_face": [
+    "face",
+    "person",
+    "wink"
+  ],
+  "smiling_face_with_smiling_eyes": [
+    "blush",
+    "eye",
+    "face",
+    "person",
+    "smile"
+  ],
+  "face_savouring_delicious_food": [
+    "delicious",
+    "face",
+    "food",
+    "person",
+    "savouring",
+    "smile",
+    "um",
+    "yum"
+  ],
+  "smiling_face_with_sunglasses": [
+    "bright",
+    "cool",
+    "eye",
+    "eyewear",
+    "face",
+    "glasses",
+    "person",
+    "smile",
+    "sun",
+    "sunglasses",
+    "weather"
+  ],
+  "smiling_face_with_heart-shaped_eyes": [
+    "eye",
+    "face",
+    "heart",
+    "love",
+    "person",
+    "smile"
+  ],
+  "face_throwing_a_kiss": [
+    "face",
+    "heart",
+    "kiss",
+    "person"
+  ],
+  "kissing_face": [
+    "face",
+    "kiss",
+    "person"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "eye",
+    "face",
+    "kiss",
+    "person",
+    "smile"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "closed",
+    "eye",
+    "face",
+    "kiss",
+    "person"
+  ],
+  "white_smiling_face": [
+    "face",
+    "outlined",
+    "person",
+    "relaxed",
+    "smile"
+  ],
+  "slightly_smiling_face": [
+    "face",
+    "person",
+    "smile"
+  ],
+  "hugging_face": [
+    "face",
+    "hug",
+    "hugging",
+    "person"
+  ],
+  "smiling_face_with_halo": [
+    "angel",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "halo",
+    "innocent",
+    "person",
+    "smile"
+  ],
+  "thinking_face": [
+    "face",
+    "person",
+    "thinking"
+  ],
+  "neutral_face": [
+    "deadpan",
+    "face",
+    "neutral",
+    "person"
+  ],
+  "expressionless_face": [
+    "expressionless",
+    "face",
+    "inexpressive",
+    "person",
+    "unexpressive"
+  ],
+  "face_without_mouth": [
+    "face",
+    "mouth",
+    "person",
+    "quiet",
+    "silent"
+  ],
+  "face_with_rolling_eyes": [
+    "eyes",
+    "face",
+    "person",
+    "rolling"
+  ],
+  "smirking_face": [
+    "face",
+    "person",
+    "smirk"
+  ],
+  "persevering_face": [
+    "face",
+    "persevere",
+    "person"
+  ],
+  "disappointed_but_relieved_face": [
+    "disappointed",
+    "face",
+    "person",
+    "relieved",
+    "whew"
+  ],
+  "face_with_open_mouth": [
+    "face",
+    "mouth",
+    "open",
+    "person",
+    "sympathy"
+  ],
+  "zipper-mouth_face": [
+    "face",
+    "mouth",
+    "person",
+    "zipper"
+  ],
+  "hushed_face": [
+    "face",
+    "hushed",
+    "person",
+    "stunned",
+    "surprised"
+  ],
+  "sleepy_face": [
+    "face",
+    "person",
+    "sleep"
+  ],
+  "tired_face": [
+    "face",
+    "person",
+    "tired"
+  ],
+  "sleeping_face": [
+    "face",
+    "person",
+    "sleep",
+    "zzz"
+  ],
+  "relieved_face": [
+    "face",
+    "person",
+    "relieved"
+  ],
+  "nerd_face": [
+    "face",
+    "geek",
+    "nerd",
+    "person"
+  ],
+  "face_with_stuck-out_tongue": [
+    "face",
+    "person",
+    "tongue"
+  ],
+  "face_with_stuck-out_tongue_and_winking_eye": [
+    "eye",
+    "face",
+    "joke",
+    "person",
+    "tongue",
+    "wink"
+  ],
+  "face_with_stuck-out_tongue_and_tightly-closed_eyes": [
+    "eye",
+    "face",
+    "horrible",
+    "person",
+    "taste",
+    "tongue"
+  ],
+  "white_frowning_face": [
+    "face",
+    "frown",
+    "person"
+  ],
+  "slightly_frowning_face": [
+    "face",
+    "frown",
+    "person"
+  ],
+  "unamused_face": [
+    "face",
+    "person",
+    "unamused",
+    "unhappy"
+  ],
+  "face_with_cold_sweat": [
+    "cold",
+    "face",
+    "person",
+    "sweat"
+  ],
+  "pensive_face": [
+    "dejected",
+    "face",
+    "pensive",
+    "person"
+  ],
+  "confused_face": [
+    "confused",
+    "face",
+    "person"
+  ],
+  "confounded_face": [
+    "confounded",
+    "face",
+    "person"
+  ],
+  "upside-down_face": [
+    "face",
+    "person",
+    "upside-down"
+  ],
+  "face_with_medical_mask": [
+    "cold",
+    "doctor",
+    "face",
+    "mask",
+    "medicine",
+    "person",
+    "sick"
+  ],
+  "face_with_thermometer": [
+    "face",
+    "ill",
+    "person",
+    "sick",
+    "thermometer"
+  ],
+  "face_with_head-bandage": [
+    "bandage",
+    "face",
+    "hurt",
+    "injury",
+    "person"
+  ],
+  "money-mouth_face": [
+    "face",
+    "money",
+    "mouth",
+    "person"
+  ],
+  "astonished_face": [
+    "astonished",
+    "face",
+    "person",
+    "shocked",
+    "totally"
+  ],
+  "disappointed_face": [
+    "disappointed",
+    "face",
+    "person"
+  ],
+  "worried_face": [
+    "face",
+    "person",
+    "worried"
+  ],
+  "face_with_look_of_triumph": [
+    "face",
+    "person",
+    "triumph",
+    "won"
+  ],
+  "crying_face": [
+    "cry",
+    "face",
+    "person",
+    "sad",
+    "tear"
+  ],
+  "loudly_crying_face": [
+    "cry",
+    "face",
+    "person",
+    "sad",
+    "sob",
+    "tear"
+  ],
+  "frowning_face_with_open_mouth": [
+    "face",
+    "frown",
+    "mouth",
+    "open",
+    "person"
+  ],
+  "anguished_face": [
+    "anguished",
+    "face",
+    "person"
+  ],
+  "fearful_face": [
+    "face",
+    "fear",
+    "fearful",
+    "person",
+    "scared"
+  ],
+  "weary_face": [
+    "face",
+    "person",
+    "tired",
+    "weary"
+  ],
+  "grimacing_face": [
+    "face",
+    "grimace",
+    "person"
+  ],
+  "face_with_open_mouth_and_cold_sweat": [
+    "blue",
+    "cold",
+    "face",
+    "mouth",
+    "open",
+    "person",
+    "rushed",
+    "sweat"
+  ],
+  "face_screaming_in_fear": [
+    "face",
+    "fear",
+    "fearful",
+    "munch",
+    "person",
+    "scared",
+    "scream"
+  ],
+  "flushed_face": [
+    "dazed",
+    "face",
+    "flushed",
+    "person"
+  ],
+  "dizzy_face": [
+    "dizzy",
+    "face",
+    "person"
+  ],
+  "pouting_face": [
+    "angry",
+    "face",
+    "mad",
+    "person",
+    "pouting",
+    "rage",
+    "red"
+  ],
+  "angry_face": [
+    "angry",
+    "face",
+    "mad",
+    "person"
+  ],
+  "imp": [
+    "devil",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "imp",
+    "person"
+  ],
+  "smiling_face_with_horns": [
+    "face",
+    "fairy tale",
+    "fantasy",
+    "horns",
+    "person",
+    "smile"
+  ],
+  "boy": [
+    "boy",
+    "person"
+  ],
+  "girl": [
+    "girl",
+    "maiden",
+    "person",
+    "virgin",
+    "virgo",
+    "zodiac"
+  ],
+  "man": [
+    "man",
+    "person"
+  ],
+  "woman": [
+    "person",
+    "woman"
+  ],
+  "older_man": [
+    "man",
+    "old",
+    "person"
+  ],
+  "older_woman": [
+    "old",
+    "person",
+    "woman"
+  ],
+  "baby": [
+    "baby",
+    "person"
+  ],
+  "person_with_blond_hair": [
+    "blond",
+    "person"
+  ],
+  "police_officer": [
+    "cop",
+    "officer",
+    "person",
+    "police"
+  ],
+  "man_with_gua_pi_mao": [
+    "gua pi mao",
+    "hat",
+    "man",
+    "person"
+  ],
+  "man_with_turban": [
+    "man",
+    "person",
+    "turban"
+  ],
+  "construction_worker": [
+    "construction",
+    "hat",
+    "person",
+    "worker"
+  ],
+  "helmet_with_white_cross": [
+    "aid",
+    "cross",
+    "face",
+    "hat",
+    "helmet",
+    "person"
+  ],
+  "princess": [
+    "fairy tale",
+    "fantasy",
+    "person",
+    "princess"
+  ],
+  "guardsman": [
+    "guard",
+    "guardsman",
+    "person"
+  ],
+  "father_christmas": [
+    "activity",
+    "celebration",
+    "christmas",
+    "fairy tale",
+    "fantasy",
+    "father",
+    "person",
+    "santa"
+  ],
+  "baby_angel": [
+    "angel",
+    "baby",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "person"
+  ],
+  "sleuth_or_spy": [
+    "person",
+    "sleuth",
+    "spy"
+  ],
+  "woman_with_bunny_ears": [
+    "bunny",
+    "dancer",
+    "ear",
+    "girl",
+    "person",
+    "woman"
+  ],
+  "face_massage": [
+    "massage",
+    "person",
+    "salon"
+  ],
+  "haircut": [
+    "barber",
+    "beauty",
+    "haircut",
+    "parlor",
+    "person"
+  ],
+  "bride_with_veil": [
+    "bride",
+    "person",
+    "veil",
+    "wedding"
+  ],
+  "person_frowning": [
+    "frown",
+    "gesture",
+    "person"
+  ],
+  "person_with_pouting_face": [
+    "gesture",
+    "person",
+    "pouting"
+  ],
+  "face_with_no_good_gesture": [
+    "forbidden",
+    "gesture",
+    "hand",
+    "no",
+    "not",
+    "person",
+    "prohibited"
+  ],
+  "face_with_ok_gesture": [
+    "gesture",
+    "hand",
+    "ok",
+    "person"
+  ],
+  "information_desk_person": [
+    "hand",
+    "help",
+    "information",
+    "person",
+    "sassy"
+  ],
+  "happy_person_raising_one_hand": [
+    "gesture",
+    "hand",
+    "happy",
+    "person",
+    "raised"
+  ],
+  "person_bowing_deeply": [
+    "apology",
+    "bow",
+    "gesture",
+    "person",
+    "sorry"
+  ],
+  "person_raising_both_hands_in_celebration": [
+    "body",
+    "celebration",
+    "gesture",
+    "hand",
+    "hooray",
+    "person",
+    "raised"
+  ],
+  "person_with_folded_hands": [
+    "ask",
+    "body",
+    "bow",
+    "folded",
+    "gesture",
+    "hand",
+    "person",
+    "please",
+    "pray",
+    "thanks"
+  ],
+  "speaking_head_in_silhouette": [
+    "face",
+    "head",
+    "person",
+    "silhouette",
+    "speak",
+    "speaking"
+  ],
+  "bust_in_silhouette": [
+    "bust",
+    "person",
+    "silhouette"
+  ],
+  "busts_in_silhouette": [
+    "bust",
+    "person",
+    "silhouette"
+  ],
+  "pedestrian": [
+    "hike",
+    "pedestrian",
+    "person",
+    "walk",
+    "walking"
+  ],
+  "runner": [
+    "marathon",
+    "person",
+    "runner",
+    "running"
+  ],
+  "dancer": [
+    "dancer",
+    "person"
+  ],
+  "man_in_business_suit_levitating": [
+    "business",
+    "man",
+    "person",
+    "suit"
+  ],
+  "kiss": [
+    "couple",
+    "kiss",
+    "person",
+    "romance"
+  ],
+  "couple_with_heart": [
+    "couple",
+    "heart",
+    "love",
+    "person",
+    "romance"
+  ],
+  "family": [
+    "child",
+    "family",
+    "father",
+    "mother",
+    "person"
+  ],
+  "man_and_woman_holding_hands": [
+    "couple",
+    "hand",
+    "hold",
+    "man",
+    "person",
+    "woman"
+  ],
+  "two_men_holding_hands": [
+    "couple",
+    "gemini",
+    "hand",
+    "hold",
+    "man",
+    "person",
+    "twins",
+    "zodiac"
+  ],
+  "two_women_holding_hands": [
+    "couple",
+    "hand",
+    "hold",
+    "person",
+    "woman"
+  ],
+  "emoji_modifier_fitzpatrick_type-1-2": [
+    "emoji modifier",
+    "fitzpatrick",
+    "skin",
+    "symbol",
+    "tone"
+  ],
+  "emoji_modifier_fitzpatrick_type-3": [
+    "emoji modifier",
+    "fitzpatrick",
+    "skin",
+    "symbol",
+    "tone"
+  ],
+  "emoji_modifier_fitzpatrick_type-4": [
+    "emoji modifier",
+    "fitzpatrick",
+    "skin",
+    "symbol",
+    "tone"
+  ],
+  "emoji_modifier_fitzpatrick_type-5": [
+    "emoji modifier",
+    "fitzpatrick",
+    "skin",
+    "symbol",
+    "tone"
+  ],
+  "emoji_modifier_fitzpatrick_type-6": [
+    "emoji modifier",
+    "fitzpatrick",
+    "skin",
+    "symbol",
+    "tone"
+  ],
+  "flexed_biceps": [
+    "biceps",
+    "body",
+    "comic",
+    "flex",
+    "muscle",
+    "person"
+  ],
+  "white_left_pointing_backhand_index": [
+    "backhand",
+    "body",
+    "finger",
+    "hand",
+    "index",
+    "person",
+    "point"
+  ],
+  "white_right_pointing_backhand_index": [
+    "backhand",
+    "body",
+    "finger",
+    "hand",
+    "index",
+    "person",
+    "point"
+  ],
+  "white_up_pointing_index": [
+    "body",
+    "finger",
+    "hand",
+    "index",
+    "person",
+    "point",
+    "up"
+  ],
+  "white_up_pointing_backhand_index": [
+    "backhand",
+    "body",
+    "finger",
+    "hand",
+    "index",
+    "person",
+    "point",
+    "up"
+  ],
+  "reversed_hand_with_middle_finger_extended": [
+    "body",
+    "finger",
+    "hand",
+    "middle finger",
+    "person"
+  ],
+  "white_down_pointing_backhand_index": [
+    "backhand",
+    "body",
+    "down",
+    "finger",
+    "hand",
+    "index",
+    "person",
+    "point"
+  ],
+  "victory_hand": [
+    "body",
+    "hand",
+    "person",
+    "v",
+    "victory"
+  ],
+  "raised_hand_with_part_between_middle_and_ring_fingers": [
+    "body",
+    "finger",
+    "hand",
+    "person",
+    "spock",
+    "vulcan"
+  ],
+  "sign_of_the_horns": [
+    "body",
+    "finger",
+    "hand",
+    "horns",
+    "person",
+    "rock-on"
+  ],
+  "raised_hand_with_fingers_splayed": [
+    "body",
+    "finger",
+    "hand",
+    "person",
+    "splayed"
+  ],
+  "raised_fist": [
+    "body",
+    "clenched",
+    "fist",
+    "hand",
+    "person",
+    "punch"
+  ],
+  "raised_hand": [
+    "body",
+    "hand",
+    "person"
+  ],
+  "fisted_hand_sign": [
+    "body",
+    "clenched",
+    "fist",
+    "hand",
+    "person",
+    "punch"
+  ],
+  "ok_hand_sign": [
+    "body",
+    "hand",
+    "ok",
+    "person"
+  ],
+  "thumbs_up_sign": [
+    "+1",
+    "body",
+    "hand",
+    "person",
+    "thumb",
+    "thumbs up",
+    "up"
+  ],
+  "thumbs_down_sign": [
+    "-1",
+    "body",
+    "down",
+    "hand",
+    "person",
+    "thumb",
+    "thumbs down"
+  ],
+  "waving_hand_sign": [
+    "body",
+    "hand",
+    "person",
+    "wave",
+    "waving"
+  ],
+  "clapping_hands_sign": [
+    "body",
+    "clap",
+    "hand",
+    "person"
+  ],
+  "open_hands_sign": [
+    "body",
+    "hand",
+    "open",
+    "person"
+  ],
+  "writing_hand": [
+    "body",
+    "education",
+    "hand",
+    "person",
+    "write"
+  ],
+  "nail_polish": [
+    "body",
+    "care",
+    "cosmetics",
+    "manicure",
+    "nail",
+    "person",
+    "polish"
+  ],
+  "footprints": [
+    "body",
+    "clothing",
+    "footprint",
+    "person",
+    "print"
+  ],
+  "eyes": [
+    "body",
+    "eye",
+    "face",
+    "person"
+  ],
+  "eye": [
+    "body",
+    "eye",
+    "person"
+  ],
+  "ear": [
+    "body",
+    "ear",
+    "person"
+  ],
+  "nose": [
+    "body",
+    "nose",
+    "person"
+  ],
+  "tongue": [
+    "body",
+    "person",
+    "tongue"
+  ],
+  "mouth": [
+    "body",
+    "lips",
+    "mouth",
+    "person"
+  ],
+  "kiss_mark": [
+    "emotion",
+    "heart",
+    "kiss",
+    "lips",
+    "mark",
+    "person",
+    "romance"
+  ],
+  "heart_with_arrow": [
+    "arrow",
+    "cupid",
+    "emotion",
+    "heart",
+    "person",
+    "romance"
+  ],
+  "heavy_black_heart": [
+    "emotion",
+    "heart",
+    "person"
+  ],
+  "beating_heart": [
+    "beating",
+    "emotion",
+    "heart",
+    "heartbeat",
+    "person",
+    "pulsating"
+  ],
+  "broken_heart": [
+    "break",
+    "broken",
+    "emotion",
+    "heart",
+    "person"
+  ],
+  "two_hearts": [
+    "emotion",
+    "heart",
+    "love",
+    "person"
+  ],
+  "sparkling_heart": [
+    "emotion",
+    "excited",
+    "heart",
+    "person",
+    "sparkle"
+  ],
+  "growing_heart": [
+    "emotion",
+    "excited",
+    "growing",
+    "heart",
+    "heartpulse",
+    "nervous",
+    "person"
+  ],
+  "blue_heart": [
+    "blue",
+    "emotion",
+    "heart",
+    "person"
+  ],
+  "green_heart": [
+    "emotion",
+    "green",
+    "heart",
+    "person"
+  ],
+  "yellow_heart": [
+    "emotion",
+    "heart",
+    "person",
+    "yellow"
+  ],
+  "purple_heart": [
+    "emotion",
+    "heart",
+    "person",
+    "purple"
+  ],
+  "heart_with_ribbon": [
+    "emotion",
+    "heart",
+    "object",
+    "person",
+    "ribbon",
+    "valentine"
+  ],
+  "revolving_hearts": [
+    "emotion",
+    "heart",
+    "person",
+    "revolving"
+  ],
+  "heart_decoration": [
+    "emotion",
+    "heart",
+    "person",
+    "symbol"
+  ],
+  "heavy_heart_exclamation_mark_ornament": [
+    "emotion",
+    "exclamation",
+    "heart",
+    "mark",
+    "punctuation",
+    "symbol"
+  ],
+  "love_letter": [
+    "emotion",
+    "heart",
+    "letter",
+    "love",
+    "mail",
+    "person",
+    "romance"
+  ],
+  "droplet": [
+    "cold",
+    "comic",
+    "drop",
+    "emotion",
+    "nature",
+    "object",
+    "person",
+    "sweat",
+    "weather"
+  ],
+  "sleeping_symbol": [
+    "comic",
+    "emotion",
+    "person",
+    "sleep",
+    "symbol",
+    "word",
+    "zzz"
+  ],
+  "anger_symbol": [
+    "angry",
+    "comic",
+    "emotion",
+    "mad",
+    "person",
+    "symbol"
+  ],
+  "bomb": [
+    "bomb",
+    "comic",
+    "object"
+  ],
+  "collision_symbol": [
+    "boom",
+    "collision",
+    "comic",
+    "emotion",
+    "person"
+  ],
+  "splashing_sweat_symbol": [
+    "comic",
+    "emotion",
+    "object",
+    "person",
+    "splashing",
+    "sweat"
+  ],
+  "dash_symbol": [
+    "comic",
+    "dash",
+    "emotion",
+    "object",
+    "person",
+    "running"
+  ],
+  "dizzy_symbol": [
+    "comic",
+    "dizzy",
+    "emotion",
+    "person",
+    "star"
+  ],
+  "speech_balloon": [
+    "balloon",
+    "bubble",
+    "comic",
+    "dialog",
+    "emotion",
+    "object",
+    "person",
+    "speech"
+  ],
+  "right_anger_bubble": [
+    "angry",
+    "balloon",
+    "bubble",
+    "emotion",
+    "mad",
+    "symbol"
+  ],
+  "thought_balloon": [
+    "balloon",
+    "bubble",
+    "comic",
+    "emotion",
+    "object",
+    "person",
+    "thought"
+  ],
+  "hole": [
+    "hole",
+    "symbol"
+  ],
+  "eyeglasses": [
+    "clothing",
+    "eye",
+    "eyeglasses",
+    "eyewear",
+    "glasses",
+    "object",
+    "person"
+  ],
+  "dark_sunglasses": [
+    "dark",
+    "eye",
+    "eyewear",
+    "glasses",
+    "object",
+    "sunglasses"
+  ],
+  "necktie": [
+    "clothing",
+    "necktie",
+    "object",
+    "person"
+  ],
+  "t-shirt": [
+    "clothing",
+    "object",
+    "person",
+    "shirt",
+    "tshirt"
+  ],
+  "jeans": [
+    "clothing",
+    "jeans",
+    "object",
+    "pants",
+    "person",
+    "trousers"
+  ],
+  "dress": [
+    "clothing",
+    "dress",
+    "object",
+    "person"
+  ],
+  "kimono": [
+    "clothing",
+    "kimono",
+    "object",
+    "person"
+  ],
+  "bikini": [
+    "bikini",
+    "clothing",
+    "object",
+    "person",
+    "swim"
+  ],
+  "womans_clothes": [
+    "clothing",
+    "object",
+    "person",
+    "woman"
+  ],
+  "purse": [
+    "clothing",
+    "coin",
+    "object",
+    "person",
+    "purse"
+  ],
+  "handbag": [
+    "bag",
+    "clothing",
+    "handbag",
+    "object",
+    "person"
+  ],
+  "pouch": [
+    "bag",
+    "clothing",
+    "object",
+    "person",
+    "pouch"
+  ],
+  "shopping_bags": [
+    "bag",
+    "hotel",
+    "object",
+    "shopping"
+  ],
+  "school_satchel": [
+    "activity",
+    "bag",
+    "education",
+    "object",
+    "satchel",
+    "school"
+  ],
+  "mans_shoe": [
+    "clothing",
+    "man",
+    "object",
+    "person",
+    "shoe"
+  ],
+  "athletic_shoe": [
+    "athletic",
+    "clothing",
+    "object",
+    "person",
+    "shoe",
+    "sneaker"
+  ],
+  "high-heeled_shoe": [
+    "clothing",
+    "heel",
+    "object",
+    "person",
+    "shoe",
+    "woman"
+  ],
+  "womans_sandal": [
+    "clothing",
+    "object",
+    "person",
+    "sandal",
+    "shoe",
+    "woman"
+  ],
+  "womans_boots": [
+    "boot",
+    "clothing",
+    "object",
+    "person",
+    "shoe",
+    "woman"
+  ],
+  "crown": [
+    "clothing",
+    "crown",
+    "king",
+    "object",
+    "person",
+    "queen"
+  ],
+  "womans_hat": [
+    "clothing",
+    "hat",
+    "object",
+    "person",
+    "woman"
+  ],
+  "top_hat": [
+    "activity",
+    "clothing",
+    "entertainment",
+    "hat",
+    "object",
+    "person",
+    "top",
+    "tophat"
+  ],
+  "prayer_beads": [
+    "beads",
+    "clothing",
+    "necklace",
+    "object",
+    "person",
+    "prayer",
+    "religion"
+  ],
+  "lipstick": [
+    "cosmetics",
+    "lipstick",
+    "makeup",
+    "object",
+    "person"
+  ],
+  "ring": [
+    "diamond",
+    "emotion",
+    "object",
+    "person",
+    "ring",
+    "romance"
+  ],
+  "gem_stone": [
+    "diamond",
+    "emotion",
+    "gem",
+    "jewel",
+    "object",
+    "person",
+    "romance"
+  ],
+  "japanese_ogre": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "japanese",
+    "monster",
+    "ogre",
+    "person"
+  ],
+  "japanese_goblin": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "goblin",
+    "japanese",
+    "monster",
+    "person"
+  ],
+  "ghost": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "ghost",
+    "monster",
+    "person"
+  ],
+  "skull": [
+    "body",
+    "death",
+    "face",
+    "fairy tale",
+    "monster",
+    "person",
+    "skull"
+  ],
+  "skull_and_crossbones": [
+    "body",
+    "crossbones",
+    "death",
+    "face",
+    "monster",
+    "person",
+    "skull"
+  ],
+  "extraterrestrial_alien": [
+    "alien",
+    "creature",
+    "extraterrestrial",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "monster",
+    "nature",
+    "person",
+    "space",
+    "ufo"
+  ],
+  "alien_monster": [
+    "alien",
+    "creature",
+    "extraterrestrial",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "monster",
+    "nature",
+    "person",
+    "space",
+    "ufo"
+  ],
+  "robot_face": [
+    "face",
+    "monster",
+    "person",
+    "robot"
+  ],
+  "pile_of_poo": [
+    "comic",
+    "dung",
+    "face",
+    "monster",
+    "nature",
+    "object",
+    "poo",
+    "poop"
+  ],
+  "monkey_face": [
+    "animal",
+    "face",
+    "monkey",
+    "nature"
+  ],
+  "see-no-evil_monkey": [
+    "animal",
+    "evil",
+    "face",
+    "forbidden",
+    "gesture",
+    "monkey",
+    "nature",
+    "no",
+    "not",
+    "prohibited",
+    "see"
+  ],
+  "hear-no-evil_monkey": [
+    "animal",
+    "evil",
+    "face",
+    "forbidden",
+    "gesture",
+    "hear",
+    "monkey",
+    "nature",
+    "no",
+    "not",
+    "prohibited"
+  ],
+  "speak-no-evil_monkey": [
+    "animal",
+    "evil",
+    "face",
+    "forbidden",
+    "gesture",
+    "monkey",
+    "nature",
+    "no",
+    "not",
+    "prohibited",
+    "speak"
+  ],
+  "monkey": [
+    "animal",
+    "monkey",
+    "nature"
+  ],
+  "dog_face": [
+    "animal",
+    "dog",
+    "face",
+    "nature",
+    "pet"
+  ],
+  "dog": [
+    "animal",
+    "dog",
+    "nature",
+    "pet"
+  ],
+  "poodle": [
+    "animal",
+    "dog",
+    "nature",
+    "poodle"
+  ],
+  "wolf_face": [
+    "animal",
+    "face",
+    "nature",
+    "wolf"
+  ],
+  "cat_face": [
+    "animal",
+    "cat",
+    "face",
+    "nature",
+    "pet"
+  ],
+  "grinning_cat_face_with_smiling_eyes": [
+    "animal",
+    "cat",
+    "eye",
+    "face",
+    "grin",
+    "nature",
+    "smile"
+  ],
+  "cat_face_with_tears_of_joy": [
+    "animal",
+    "cat",
+    "face",
+    "joy",
+    "nature",
+    "tear"
+  ],
+  "smiling_cat_face_with_open_mouth": [
+    "animal",
+    "cat",
+    "face",
+    "mouth",
+    "nature",
+    "open",
+    "smile"
+  ],
+  "smiling_cat_face_with_heart-shaped_eyes": [
+    "animal",
+    "cat",
+    "eye",
+    "face",
+    "heart",
+    "love",
+    "nature",
+    "smile"
+  ],
+  "cat_face_with_wry_smile": [
+    "animal",
+    "cat",
+    "face",
+    "ironic",
+    "nature",
+    "smile",
+    "wry"
+  ],
+  "kissing_cat_face_with_closed_eyes": [
+    "animal",
+    "cat",
+    "eye",
+    "face",
+    "kiss",
+    "nature"
+  ],
+  "pouting_cat_face": [
+    "animal",
+    "cat",
+    "face",
+    "nature",
+    "pouting"
+  ],
+  "crying_cat_face": [
+    "animal",
+    "cat",
+    "cry",
+    "face",
+    "nature",
+    "sad",
+    "tear"
+  ],
+  "weary_cat_face": [
+    "animal",
+    "cat",
+    "face",
+    "nature",
+    "oh",
+    "surprised",
+    "weary"
+  ],
+  "cat": [
+    "animal",
+    "cat",
+    "nature",
+    "pet"
+  ],
+  "lion_face": [
+    "animal",
+    "face",
+    "leo",
+    "lion",
+    "nature",
+    "zodiac"
+  ],
+  "tiger_face": [
+    "animal",
+    "face",
+    "nature",
+    "tiger"
+  ],
+  "tiger": [
+    "animal",
+    "nature",
+    "tiger"
+  ],
+  "leopard": [
+    "animal",
+    "leopard",
+    "nature"
+  ],
+  "horse_face": [
+    "animal",
+    "face",
+    "horse",
+    "nature"
+  ],
+  "horse": [
+    "animal",
+    "horse",
+    "nature",
+    "place",
+    "racehorse",
+    "racing"
+  ],
+  "unicorn_face": [
+    "animal",
+    "face",
+    "nature",
+    "unicorn"
+  ],
+  "cow_face": [
+    "animal",
+    "cow",
+    "face",
+    "nature"
+  ],
+  "ox": [
+    "animal",
+    "bull",
+    "nature",
+    "ox",
+    "taurus",
+    "zodiac"
+  ],
+  "water_buffalo": [
+    "animal",
+    "buffalo",
+    "nature",
+    "water"
+  ],
+  "cow": [
+    "animal",
+    "cow",
+    "nature"
+  ],
+  "pig_face": [
+    "animal",
+    "face",
+    "nature",
+    "pig"
+  ],
+  "pig": [
+    "animal",
+    "nature",
+    "pig",
+    "sow"
+  ],
+  "boar": [
+    "animal",
+    "boar",
+    "nature",
+    "pig"
+  ],
+  "pig_nose": [
+    "animal",
+    "face",
+    "nature",
+    "nose",
+    "pig"
+  ],
+  "ram": [
+    "animal",
+    "aries",
+    "nature",
+    "ram",
+    "sheep",
+    "zodiac"
+  ],
+  "sheep": [
+    "animal",
+    "ewe",
+    "nature",
+    "sheep"
+  ],
+  "goat": [
+    "animal",
+    "capricorn",
+    "goat",
+    "nature",
+    "zodiac"
+  ],
+  "dromedary_camel": [
+    "animal",
+    "camel",
+    "dromedary",
+    "hump",
+    "nature"
+  ],
+  "bactrian_camel": [
+    "animal",
+    "bactrian",
+    "camel",
+    "hump",
+    "nature"
+  ],
+  "elephant": [
+    "animal",
+    "elephant",
+    "nature"
+  ],
+  "mouse_face": [
+    "animal",
+    "face",
+    "mouse",
+    "nature"
+  ],
+  "mouse": [
+    "animal",
+    "mouse",
+    "nature"
+  ],
+  "rat": [
+    "animal",
+    "nature",
+    "rat"
+  ],
+  "hamster_face": [
+    "animal",
+    "face",
+    "hamster",
+    "nature",
+    "pet"
+  ],
+  "rabbit_face": [
+    "animal",
+    "bunny",
+    "face",
+    "nature",
+    "pet",
+    "rabbit"
+  ],
+  "rabbit": [
+    "animal",
+    "bunny",
+    "nature",
+    "pet",
+    "rabbit"
+  ],
+  "chipmunk": [
+    "animal",
+    "chipmunk",
+    "nature"
+  ],
+  "bear_face": [
+    "animal",
+    "bear",
+    "face",
+    "nature"
+  ],
+  "koala": [
+    "animal",
+    "bear",
+    "koala",
+    "nature"
+  ],
+  "panda_face": [
+    "animal",
+    "face",
+    "nature",
+    "panda"
+  ],
+  "paw_prints": [
+    "animal",
+    "feet",
+    "nature",
+    "paw",
+    "print"
+  ],
+  "turkey": [
+    "animal",
+    "nature",
+    "turkey"
+  ],
+  "chicken": [
+    "animal",
+    "chicken",
+    "nature"
+  ],
+  "rooster": [
+    "animal",
+    "nature",
+    "rooster"
+  ],
+  "hatching_chick": [
+    "animal",
+    "baby",
+    "chick",
+    "hatching",
+    "nature"
+  ],
+  "baby_chick": [
+    "animal",
+    "baby",
+    "chick",
+    "nature"
+  ],
+  "front-facing_baby_chick": [
+    "animal",
+    "baby",
+    "chick",
+    "nature"
+  ],
+  "bird": [
+    "animal",
+    "bird",
+    "nature"
+  ],
+  "penguin": [
+    "animal",
+    "nature",
+    "penguin"
+  ],
+  "dove_of_peace": [
+    "animal",
+    "bird",
+    "dove",
+    "fly",
+    "nature",
+    "peace"
+  ],
+  "frog_face": [
+    "animal",
+    "face",
+    "frog",
+    "nature"
+  ],
+  "crocodile": [
+    "animal",
+    "crocodile",
+    "nature"
+  ],
+  "turtle": [
+    "animal",
+    "nature",
+    "turtle"
+  ],
+  "snake": [
+    "animal",
+    "bearer",
+    "nature",
+    "ophiuchus",
+    "serpent",
+    "snake",
+    "zodiac"
+  ],
+  "dragon_face": [
+    "animal",
+    "dragon",
+    "face",
+    "fairy tale",
+    "nature"
+  ],
+  "dragon": [
+    "animal",
+    "dragon",
+    "fairy tale",
+    "nature"
+  ],
+  "spouting_whale": [
+    "animal",
+    "face",
+    "nature",
+    "spouting",
+    "whale"
+  ],
+  "whale": [
+    "animal",
+    "nature",
+    "whale"
+  ],
+  "dolphin": [
+    "animal",
+    "dolphin",
+    "flipper",
+    "nature"
+  ],
+  "fish": [
+    "animal",
+    "fish",
+    "nature",
+    "pisces",
+    "zodiac"
+  ],
+  "tropical_fish": [
+    "animal",
+    "fish",
+    "nature",
+    "tropical"
+  ],
+  "blowfish": [
+    "animal",
+    "blowfish",
+    "fish",
+    "nature"
+  ],
+  "octopus": [
+    "animal",
+    "nature",
+    "octopus"
+  ],
+  "spiral_shell": [
+    "animal",
+    "nature",
+    "shell",
+    "spiral"
+  ],
+  "crab": [
+    "animal",
+    "cancer",
+    "crab",
+    "nature",
+    "zodiac"
+  ],
+  "snail": [
+    "animal",
+    "nature",
+    "snail"
+  ],
+  "bug": [
+    "animal",
+    "bug",
+    "insect",
+    "nature"
+  ],
+  "ant": [
+    "animal",
+    "ant",
+    "insect",
+    "nature"
+  ],
+  "honeybee": [
+    "animal",
+    "bee",
+    "honeybee",
+    "insect",
+    "nature"
+  ],
+  "lady_beetle": [
+    "animal",
+    "beetle",
+    "insect",
+    "lady beetle",
+    "ladybird",
+    "ladybug",
+    "nature"
+  ],
+  "spider": [
+    "animal",
+    "insect",
+    "object",
+    "spider"
+  ],
+  "spider_web": [
+    "animal",
+    "object",
+    "spider",
+    "web"
+  ],
+  "scorpion": [
+    "animal",
+    "nature",
+    "scorpio",
+    "scorpion",
+    "scorpius",
+    "zodiac"
+  ],
+  "bouquet": [
+    "bouquet",
+    "flower",
+    "nature",
+    "object",
+    "place",
+    "plant",
+    "romance"
+  ],
+  "cherry_blossom": [
+    "blossom",
+    "cherry",
+    "flower",
+    "nature",
+    "plant"
+  ],
+  "white_flower": [
+    "flower",
+    "object",
+    "symbol"
+  ],
+  "rosette": [
+    "nature",
+    "plant",
+    "rosette"
+  ],
+  "rose": [
+    "flower",
+    "nature",
+    "plant",
+    "rose"
+  ],
+  "hibiscus": [
+    "flower",
+    "hibiscus",
+    "nature",
+    "plant"
+  ],
+  "sunflower": [
+    "flower",
+    "nature",
+    "plant",
+    "sun",
+    "sunflower"
+  ],
+  "blossom": [
+    "blossom",
+    "flower",
+    "nature",
+    "plant"
+  ],
+  "tulip": [
+    "flower",
+    "nature",
+    "plant",
+    "tulip"
+  ],
+  "shamrock": [
+    "nature",
+    "plant",
+    "shamrock"
+  ],
+  "seedling": [
+    "nature",
+    "plant",
+    "seedling",
+    "young"
+  ],
+  "evergreen_tree": [
+    "evergreen",
+    "nature",
+    "plant",
+    "tree"
+  ],
+  "deciduous_tree": [
+    "deciduous",
+    "nature",
+    "plant",
+    "shedding",
+    "tree"
+  ],
+  "palm_tree": [
+    "nature",
+    "palm",
+    "plant",
+    "tree"
+  ],
+  "cactus": [
+    "cactus",
+    "nature",
+    "plant"
+  ],
+  "ear_of_rice": [
+    "ear",
+    "nature",
+    "plant",
+    "rice"
+  ],
+  "herb": [
+    "herb",
+    "leaf",
+    "nature",
+    "plant"
+  ],
+  "four_leaf_clover": [
+    "4",
+    "clover",
+    "four",
+    "leaf",
+    "nature",
+    "plant"
+  ],
+  "maple_leaf": [
+    "falling",
+    "leaf",
+    "maple",
+    "nature",
+    "plant"
+  ],
+  "fallen_leaf": [
+    "falling",
+    "leaf",
+    "nature",
+    "plant"
+  ],
+  "leaf_fluttering_in_wind": [
+    "blow",
+    "flutter",
+    "leaf",
+    "nature",
+    "plant",
+    "wind"
+  ],
+  "grapes": [
+    "food",
+    "fruit",
+    "grape",
+    "nature",
+    "object",
+    "plant"
+  ],
+  "melon": [
+    "food",
+    "fruit",
+    "melon",
+    "nature",
+    "object",
+    "plant"
+  ],
+  "watermelon": [
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "plant",
+    "watermelon"
+  ],
+  "tangerine": [
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "orange",
+    "plant",
+    "tangerine"
+  ],
+  "lemon": [
+    "citrus",
+    "food",
+    "fruit",
+    "lemon",
+    "nature",
+    "object",
+    "plant"
+  ],
+  "banana": [
+    "banana",
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "plant"
+  ],
+  "pineapple": [
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "pineapple",
+    "plant"
+  ],
+  "red_apple": [
+    "apple",
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "plant",
+    "red"
+  ],
+  "green_apple": [
+    "apple",
+    "food",
+    "fruit",
+    "green",
+    "nature",
+    "object",
+    "plant"
+  ],
+  "pear": [
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "pear",
+    "plant"
+  ],
+  "peach": [
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "peach",
+    "plant"
+  ],
+  "cherries": [
+    "cherry",
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "plant"
+  ],
+  "strawberry": [
+    "berry",
+    "food",
+    "fruit",
+    "nature",
+    "object",
+    "plant",
+    "strawberry"
+  ],
+  "tomato": [
+    "food",
+    "nature",
+    "object",
+    "plant",
+    "tomato",
+    "vegetable"
+  ],
+  "aubergine": [
+    "aubergine",
+    "eggplant",
+    "food",
+    "nature",
+    "object",
+    "plant",
+    "vegetable"
+  ],
+  "ear_of_maize": [
+    "corn",
+    "ear",
+    "maize",
+    "maze",
+    "nature",
+    "object",
+    "plant"
+  ],
+  "hot_pepper": [
+    "food",
+    "hot",
+    "nature",
+    "pepper",
+    "plant"
+  ],
+  "mushroom": [
+    "mushroom",
+    "nature",
+    "plant"
+  ],
+  "chestnut": [
+    "chestnut",
+    "nature",
+    "plant"
+  ],
+  "bread": [
+    "bread",
+    "food",
+    "loaf",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "cheese_wedge": [
+    "cheese",
+    "food",
+    "nature"
+  ],
+  "meat_on_bone": [
+    "bone",
+    "food",
+    "meat",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "poultry_leg": [
+    "bone",
+    "chicken",
+    "food",
+    "leg",
+    "nature",
+    "object",
+    "poultry",
+    "restaurant"
+  ],
+  "hamburger": [
+    "burger",
+    "food",
+    "hamburger",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "french_fries": [
+    "food",
+    "french",
+    "fries",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "slice_of_pizza": [
+    "food",
+    "nature",
+    "object",
+    "pizza",
+    "restaurant",
+    "slice"
+  ],
+  "hot_dog": [
+    "food",
+    "frankfurter",
+    "hot dog",
+    "hotdog",
+    "nature",
+    "sausage"
+  ],
+  "taco": [
+    "food",
+    "mexican",
+    "nature",
+    "taco"
+  ],
+  "burrito": [
+    "burrito",
+    "food",
+    "mexican",
+    "nature"
+  ],
+  "popcorn": [
+    "food",
+    "nature",
+    "popcorn"
+  ],
+  "pot_of_food": [
+    "food",
+    "nature",
+    "object",
+    "pot",
+    "restaurant",
+    "stew"
+  ],
+  "bento_box": [
+    "bento",
+    "box",
+    "food",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "rice_cracker": [
+    "cracker",
+    "food",
+    "nature",
+    "object",
+    "restaurant",
+    "rice"
+  ],
+  "rice_ball": [
+    "ball",
+    "food",
+    "japanese",
+    "nature",
+    "object",
+    "restaurant",
+    "rice"
+  ],
+  "cooked_rice": [
+    "cooked",
+    "food",
+    "nature",
+    "object",
+    "restaurant",
+    "rice"
+  ],
+  "curry_and_rice": [
+    "curry",
+    "food",
+    "nature",
+    "object",
+    "restaurant",
+    "rice"
+  ],
+  "steaming_bowl": [
+    "bowl",
+    "food",
+    "nature",
+    "noodle",
+    "object",
+    "ramen",
+    "restaurant",
+    "steaming"
+  ],
+  "spaghetti": [
+    "food",
+    "nature",
+    "object",
+    "pasta",
+    "restaurant",
+    "spaghetti"
+  ],
+  "roasted_sweet_potato": [
+    "food",
+    "nature",
+    "object",
+    "potato",
+    "restaurant",
+    "roasted",
+    "sweet"
+  ],
+  "oden": [
+    "food",
+    "kebab",
+    "nature",
+    "object",
+    "oden",
+    "restaurant",
+    "seafood",
+    "skewer",
+    "stick"
+  ],
+  "sushi": [
+    "food",
+    "nature",
+    "object",
+    "restaurant",
+    "sushi"
+  ],
+  "fried_shrimp": [
+    "food",
+    "fried",
+    "nature",
+    "object",
+    "prawn",
+    "restaurant",
+    "shrimp",
+    "tempura"
+  ],
+  "fish_cake_with_swirl_design": [
+    "cake",
+    "fish",
+    "food",
+    "nature",
+    "object",
+    "pastry",
+    "restaurant",
+    "swirl"
+  ],
+  "dango": [
+    "dango",
+    "dessert",
+    "food",
+    "japanese",
+    "nature",
+    "object",
+    "restaurant",
+    "skewer",
+    "stick",
+    "sweet"
+  ],
+  "soft_ice_cream": [
+    "cream",
+    "dessert",
+    "food",
+    "ice",
+    "icecream",
+    "nature",
+    "object",
+    "restaurant",
+    "soft",
+    "sweet"
+  ],
+  "shaved_ice": [
+    "dessert",
+    "food",
+    "ice",
+    "nature",
+    "object",
+    "restaurant",
+    "shaved",
+    "sweet"
+  ],
+  "ice_cream": [
+    "cream",
+    "dessert",
+    "food",
+    "ice",
+    "nature",
+    "object",
+    "restaurant",
+    "sweet"
+  ],
+  "doughnut": [
+    "dessert",
+    "donut",
+    "doughnut",
+    "food",
+    "nature",
+    "object",
+    "restaurant",
+    "sweet"
+  ],
+  "cookie": [
+    "cookie",
+    "dessert",
+    "food",
+    "nature",
+    "object",
+    "restaurant",
+    "sweet"
+  ],
+  "birthday_cake": [
+    "birthday",
+    "cake",
+    "celebration",
+    "dessert",
+    "food",
+    "object",
+    "pastry",
+    "sweet"
+  ],
+  "shortcake": [
+    "cake",
+    "dessert",
+    "food",
+    "nature",
+    "object",
+    "pastry",
+    "restaurant",
+    "shortcake",
+    "slice",
+    "sweet"
+  ],
+  "chocolate_bar": [
+    "bar",
+    "chocolate",
+    "dessert",
+    "food",
+    "nature",
+    "object",
+    "restaurant",
+    "sweet"
+  ],
+  "candy": [
+    "candy",
+    "dessert",
+    "food",
+    "nature",
+    "object",
+    "restaurant",
+    "sweet"
+  ],
+  "lollipop": [
+    "candy",
+    "dessert",
+    "food",
+    "lollipop",
+    "nature",
+    "object",
+    "restaurant",
+    "sweet"
+  ],
+  "custard": [
+    "custard",
+    "dessert",
+    "food",
+    "nature",
+    "object",
+    "pudding",
+    "restaurant",
+    "sweet"
+  ],
+  "honey_pot": [
+    "food",
+    "honey",
+    "honeypot",
+    "nature",
+    "object",
+    "pot",
+    "restaurant",
+    "sweet"
+  ],
+  "baby_bottle": [
+    "baby",
+    "bottle",
+    "drink",
+    "milk",
+    "nature",
+    "object"
+  ],
+  "hot_beverage": [
+    "beverage",
+    "coffee",
+    "drink",
+    "hot",
+    "nature",
+    "object",
+    "steaming",
+    "tea"
+  ],
+  "teacup_without_handle": [
+    "beverage",
+    "cup",
+    "drink",
+    "nature",
+    "object",
+    "tea",
+    "teacup"
+  ],
+  "sake_bottle_and_cup": [
+    "bar",
+    "beverage",
+    "bottle",
+    "cup",
+    "drink",
+    "nature",
+    "object",
+    "restaurant",
+    "sake"
+  ],
+  "bottle_with_popping_cork": [
+    "bar",
+    "bottle",
+    "cork",
+    "drink",
+    "nature",
+    "popping"
+  ],
+  "wine_glass": [
+    "bar",
+    "beverage",
+    "drink",
+    "glass",
+    "nature",
+    "object",
+    "restaurant",
+    "wine"
+  ],
+  "cocktail_glass": [
+    "bar",
+    "cocktail",
+    "drink",
+    "glass",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "tropical_drink": [
+    "bar",
+    "drink",
+    "nature",
+    "object",
+    "restaurant",
+    "tropical"
+  ],
+  "beer_mug": [
+    "bar",
+    "beer",
+    "drink",
+    "mug",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "clinking_beer_mugs": [
+    "bar",
+    "beer",
+    "clink",
+    "drink",
+    "mug",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "fork_and_knife_with_plate": [
+    "cooking",
+    "fork",
+    "knife",
+    "object",
+    "place",
+    "plate",
+    "restaurant"
+  ],
+  "fork_and_knife": [
+    "cooking",
+    "food",
+    "fork",
+    "knife",
+    "nature",
+    "object",
+    "restaurant"
+  ],
+  "cooking": [
+    "cooking",
+    "egg",
+    "food",
+    "frying",
+    "nature",
+    "object",
+    "pan",
+    "restaurant"
+  ],
+  "amphora": [
+    "amphora",
+    "aquarius",
+    "cooking",
+    "drink",
+    "jug",
+    "nature",
+    "tool",
+    "weapon",
+    "zodiac"
+  ],
+  "earth_globe_europe-africa": [
+    "africa",
+    "earth",
+    "europe",
+    "globe",
+    "nature",
+    "place",
+    "world"
+  ],
+  "earth_globe_americas": [
+    "americas",
+    "earth",
+    "globe",
+    "nature",
+    "place",
+    "world"
+  ],
+  "earth_globe_asia-australia": [
+    "asia",
+    "australia",
+    "earth",
+    "globe",
+    "nature",
+    "place",
+    "world"
+  ],
+  "globe_with_meridians": [
+    "earth",
+    "globe",
+    "meridians",
+    "nature",
+    "place",
+    "world"
+  ],
+  "world_map": [
+    "map",
+    "place",
+    "world"
+  ],
+  "snow_capped_mountain": [
+    "cold",
+    "mountain",
+    "nature",
+    "place",
+    "snow"
+  ],
+  "mountain": [
+    "mountain",
+    "place"
+  ],
+  "volcano": [
+    "eruption",
+    "mountain",
+    "nature",
+    "place",
+    "volcano",
+    "weather"
+  ],
+  "mount_fuji": [
+    "fuji",
+    "mountain",
+    "nature",
+    "place"
+  ],
+  "camping": [
+    "camping",
+    "nature",
+    "place"
+  ],
+  "beach_with_umbrella": [
+    "beach",
+    "nature",
+    "place",
+    "umbrella"
+  ],
+  "desert": [
+    "desert",
+    "nature",
+    "place"
+  ],
+  "desert_island": [
+    "desert",
+    "island",
+    "nature",
+    "place"
+  ],
+  "national_park": [
+    "national park",
+    "nature",
+    "park",
+    "place"
+  ],
+  "stadium": [
+    "place",
+    "stadium"
+  ],
+  "classical_building": [
+    "building",
+    "classical",
+    "place"
+  ],
+  "building_construction": [
+    "building",
+    "construction",
+    "place"
+  ],
+  "house_buildings": [
+    "building",
+    "house",
+    "place"
+  ],
+  "cityscape": [
+    "building",
+    "city",
+    "place"
+  ],
+  "derelict_house_building": [
+    "building",
+    "derelict",
+    "house",
+    "place"
+  ],
+  "house_building": [
+    "building",
+    "home",
+    "house",
+    "place"
+  ],
+  "house_with_garden": [
+    "building",
+    "garden",
+    "home",
+    "house",
+    "place"
+  ],
+  "place_of_worship": [
+    "place",
+    "religion",
+    "worship"
+  ],
+  "church": [
+    "building",
+    "christian",
+    "church",
+    "cross",
+    "place",
+    "religion"
+  ],
+  "kaaba": [
+    "islam",
+    "kaaba",
+    "muslim",
+    "place",
+    "religion"
+  ],
+  "mosque": [
+    "islam",
+    "mosque",
+    "muslim",
+    "place",
+    "religion"
+  ],
+  "synagogue": [
+    "jew",
+    "jewish",
+    "place",
+    "religion",
+    "synagogue",
+    "temple"
+  ],
+  "office_building": [
+    "building",
+    "office",
+    "place"
+  ],
+  "japanese_post_office": [
+    "building",
+    "japanese",
+    "office",
+    "place",
+    "post"
+  ],
+  "european_post_office": [
+    "building",
+    "european",
+    "office",
+    "place",
+    "post"
+  ],
+  "hospital": [
+    "building",
+    "doctor",
+    "hospital",
+    "medicine",
+    "place"
+  ],
+  "bank": [
+    "bank",
+    "building",
+    "place"
+  ],
+  "hotel": [
+    "building",
+    "hotel",
+    "place"
+  ],
+  "love_hotel": [
+    "building",
+    "hotel",
+    "love",
+    "place"
+  ],
+  "convenience_store": [
+    "building",
+    "convenience",
+    "place",
+    "store"
+  ],
+  "school": [
+    "building",
+    "education",
+    "place",
+    "school"
+  ],
+  "department_store": [
+    "building",
+    "department",
+    "place",
+    "store"
+  ],
+  "factory": [
+    "building",
+    "factory",
+    "place"
+  ],
+  "japanese_castle": [
+    "building",
+    "castle",
+    "japanese",
+    "place"
+  ],
+  "european_castle": [
+    "building",
+    "castle",
+    "european",
+    "place"
+  ],
+  "wedding": [
+    "activity",
+    "chapel",
+    "place",
+    "romance",
+    "wedding"
+  ],
+  "tokyo_tower": [
+    "place",
+    "tokyo",
+    "tower"
+  ],
+  "statue_of_liberty": [
+    "liberty",
+    "place",
+    "statue"
+  ],
+  "silhouette_of_japan": [
+    "japan",
+    "map",
+    "place"
+  ],
+  "fountain": [
+    "fountain",
+    "object",
+    "place"
+  ],
+  "tent": [
+    "camping",
+    "object",
+    "place",
+    "tent"
+  ],
+  "foggy": [
+    "fog",
+    "nature",
+    "place",
+    "weather"
+  ],
+  "night_with_stars": [
+    "nature",
+    "night",
+    "place",
+    "star",
+    "weather"
+  ],
+  "sunrise_over_mountains": [
+    "morning",
+    "mountain",
+    "nature",
+    "place",
+    "sun",
+    "sunrise",
+    "time",
+    "weather"
+  ],
+  "sunrise": [
+    "morning",
+    "nature",
+    "place",
+    "sun",
+    "sunrise",
+    "time",
+    "weather"
+  ],
+  "cityscape_at_dusk": [
+    "building",
+    "city",
+    "dusk",
+    "evening",
+    "landscape",
+    "nature",
+    "place",
+    "sun",
+    "sunset",
+    "time",
+    "weather"
+  ],
+  "sunset_over_buildings": [
+    "building",
+    "dusk",
+    "nature",
+    "place",
+    "sun",
+    "sunset",
+    "time",
+    "weather"
+  ],
+  "bridge_at_night": [
+    "bridge",
+    "nature",
+    "night",
+    "place",
+    "weather"
+  ],
+  "water_wave": [
+    "nature",
+    "ocean",
+    "place",
+    "water",
+    "wave",
+    "weather"
+  ],
+  "hot_springs": [
+    "hot",
+    "hotsprings",
+    "place",
+    "springs",
+    "steaming"
+  ],
+  "moyai": [
+    "face",
+    "moyai",
+    "place",
+    "statue",
+    "travel"
+  ],
+  "milky_way": [
+    "milky way",
+    "nature",
+    "place",
+    "space",
+    "weather"
+  ],
+  "carousel_horse": [
+    "activity",
+    "carousel",
+    "entertainment",
+    "horse",
+    "place"
+  ],
+  "ferris_wheel": [
+    "activity",
+    "amusement park",
+    "entertainment",
+    "ferris",
+    "place",
+    "wheel"
+  ],
+  "roller_coaster": [
+    "activity",
+    "amusement park",
+    "coaster",
+    "entertainment",
+    "place",
+    "roller"
+  ],
+  "barber_pole": [
+    "barber",
+    "haircut",
+    "place",
+    "pole"
+  ],
+  "circus_tent": [
+    "activity",
+    "circus",
+    "entertainment",
+    "place",
+    "tent"
+  ],
+  "performing_arts": [
+    "activity",
+    "art",
+    "entertainment",
+    "mask",
+    "object",
+    "performing",
+    "place",
+    "theater",
+    "theatre"
+  ],
+  "frame_with_picture": [
+    "art",
+    "frame",
+    "museum",
+    "object",
+    "office",
+    "painting",
+    "picture"
+  ],
+  "artist_palette": [
+    "activity",
+    "art",
+    "entertainment",
+    "museum",
+    "object",
+    "painting",
+    "palette"
+  ],
+  "slot_machine": [
+    "activity",
+    "game",
+    "object",
+    "place",
+    "slot"
+  ],
+  "steam_locomotive": [
+    "engine",
+    "locomotive",
+    "place",
+    "railway",
+    "steam",
+    "train",
+    "travel",
+    "vehicle"
+  ],
+  "railway_car": [
+    "car",
+    "electric",
+    "place",
+    "railway",
+    "train",
+    "tram",
+    "travel",
+    "trolleybus",
+    "vehicle"
+  ],
+  "high-speed_train": [
+    "place",
+    "railway",
+    "shinkansen",
+    "speed",
+    "train",
+    "travel",
+    "vehicle"
+  ],
+  "high-speed_train_with_bullet_nose": [
+    "bullet",
+    "place",
+    "railway",
+    "shinkansen",
+    "speed",
+    "train",
+    "travel",
+    "vehicle"
+  ],
+  "train": [
+    "place",
+    "railway",
+    "train",
+    "travel",
+    "vehicle"
+  ],
+  "metro": [
+    "metro",
+    "place",
+    "subway",
+    "travel",
+    "vehicle"
+  ],
+  "light_rail": [
+    "place",
+    "railway",
+    "travel",
+    "vehicle"
+  ],
+  "station": [
+    "place",
+    "railway",
+    "station",
+    "train",
+    "travel",
+    "vehicle"
+  ],
+  "tram": [
+    "place",
+    "tram",
+    "travel",
+    "trolleybus",
+    "vehicle"
+  ],
+  "monorail": [
+    "monorail",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "mountain_railway": [
+    "car",
+    "mountain",
+    "place",
+    "railway",
+    "travel",
+    "vehicle"
+  ],
+  "tram_car": [
+    "car",
+    "place",
+    "tram",
+    "travel",
+    "trolleybus",
+    "vehicle"
+  ],
+  "bus": [
+    "bus",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "oncoming_bus": [
+    "bus",
+    "oncoming",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "trolleybus": [
+    "bus",
+    "place",
+    "tram",
+    "travel",
+    "trolley",
+    "trolleybus",
+    "vehicle"
+  ],
+  "bus_stop": [
+    "bus",
+    "busstop",
+    "place",
+    "stop",
+    "travel"
+  ],
+  "minibus": [
+    "bus",
+    "minibus",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "ambulance": [
+    "ambulance",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "fire_engine": [
+    "engine",
+    "fire",
+    "place",
+    "travel",
+    "truck",
+    "vehicle"
+  ],
+  "police_car": [
+    "car",
+    "patrol",
+    "place",
+    "police",
+    "travel",
+    "vehicle"
+  ],
+  "oncoming_police_car": [
+    "car",
+    "oncoming",
+    "place",
+    "police",
+    "travel",
+    "vehicle"
+  ],
+  "taxi": [
+    "place",
+    "taxi",
+    "travel",
+    "vehicle"
+  ],
+  "oncoming_taxi": [
+    "oncoming",
+    "place",
+    "taxi",
+    "travel",
+    "vehicle"
+  ],
+  "automobile": [
+    "automobile",
+    "car",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "oncoming_automobile": [
+    "automobile",
+    "car",
+    "oncoming",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "recreational_vehicle": [
+    "place",
+    "recreational",
+    "rv",
+    "travel",
+    "vehicle"
+  ],
+  "delivery_truck": [
+    "delivery",
+    "place",
+    "travel",
+    "truck",
+    "vehicle"
+  ],
+  "articulated_lorry": [
+    "lorry",
+    "place",
+    "semi",
+    "travel",
+    "truck",
+    "vehicle"
+  ],
+  "tractor": [
+    "place",
+    "tractor",
+    "travel",
+    "vehicle"
+  ],
+  "bicycle": [
+    "bicycle",
+    "bike",
+    "place",
+    "sport",
+    "travel",
+    "vehicle"
+  ],
+  "no_bicycles": [
+    "bicycle",
+    "bike",
+    "forbidden",
+    "no",
+    "not",
+    "place",
+    "prohibited",
+    "sign",
+    "sport",
+    "symbol",
+    "travel",
+    "vehicle"
+  ],
+  "fuel_pump": [
+    "fuel",
+    "fuelpump",
+    "gas",
+    "place",
+    "pump",
+    "station",
+    "travel"
+  ],
+  "oil_drum": [
+    "drum",
+    "object",
+    "oil"
+  ],
+  "motorway": [
+    "highway",
+    "motorway",
+    "place",
+    "road",
+    "travel"
+  ],
+  "railway_track": [
+    "place",
+    "railway",
+    "train",
+    "travel"
+  ],
+  "police_cars_revolving_light": [
+    "beacon",
+    "car",
+    "light",
+    "place",
+    "police",
+    "revolving",
+    "travel",
+    "vehicle"
+  ],
+  "anchor": [
+    "anchor",
+    "place",
+    "ship",
+    "tool",
+    "travel"
+  ],
+  "trident_emblem": [
+    "anchor",
+    "emblem",
+    "object",
+    "ship",
+    "symbol",
+    "tool",
+    "trident"
+  ],
+  "sailboat": [
+    "boat",
+    "place",
+    "resort",
+    "sailboat",
+    "sea",
+    "travel",
+    "vehicle",
+    "yacht"
+  ],
+  "rowboat": [
+    "boat",
+    "place",
+    "rowboat",
+    "travel",
+    "vehicle"
+  ],
+  "speedboat": [
+    "boat",
+    "place",
+    "speedboat",
+    "travel",
+    "vehicle"
+  ],
+  "passenger_ship": [
+    "passenger",
+    "place",
+    "ship",
+    "travel",
+    "vehicle"
+  ],
+  "ferry": [
+    "boat",
+    "ferry",
+    "place",
+    "travel"
+  ],
+  "motor_boat": [
+    "boat",
+    "motorboat",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "ship": [
+    "place",
+    "ship",
+    "travel",
+    "vehicle"
+  ],
+  "airplane": [
+    "airplane",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "small_airplane": [
+    "airplane",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "airplane_departure": [
+    "airplane",
+    "check-in",
+    "departure",
+    "departures",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "airplane_arriving": [
+    "airplane",
+    "arrivals",
+    "arriving",
+    "landing",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "seat": [
+    "chair",
+    "object",
+    "office",
+    "place",
+    "seat",
+    "travel"
+  ],
+  "helicopter": [
+    "helicopter",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "suspension_railway": [
+    "place",
+    "railway",
+    "suspension",
+    "travel",
+    "vehicle"
+  ],
+  "mountain_cableway": [
+    "cable",
+    "gondola",
+    "mountain",
+    "place",
+    "travel",
+    "vehicle"
+  ],
+  "aerial_tramway": [
+    "aerial",
+    "cable",
+    "car",
+    "gondola",
+    "place",
+    "ropeway",
+    "tramway",
+    "travel",
+    "vehicle"
+  ],
+  "rocket": [
+    "place",
+    "rocket",
+    "space",
+    "travel",
+    "vehicle"
+  ],
+  "satellite": [
+    "place",
+    "satellite",
+    "space",
+    "vehicle"
+  ],
+  "automated_teller_machine": [
+    "atm",
+    "automated",
+    "bank",
+    "place",
+    "sign",
+    "symbol",
+    "teller"
+  ],
+  "put_litter_in_its_place_symbol": [
+    "litter",
+    "litterbox",
+    "place",
+    "symbol",
+    "travel"
+  ],
+  "horizontal_traffic_light": [
+    "light",
+    "place",
+    "signal",
+    "traffic",
+    "travel"
+  ],
+  "vertical_traffic_light": [
+    "light",
+    "place",
+    "signal",
+    "traffic",
+    "travel"
+  ],
+  "construction_sign": [
+    "barrier",
+    "construction",
+    "place",
+    "travel"
+  ],
+  "no_entry_sign": [
+    "entry",
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "symbol",
+    "travel"
+  ],
+  "no_smoking_symbol": [
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "sign",
+    "smoking",
+    "symbol",
+    "travel"
+  ],
+  "do_not_litter_symbol": [
+    "forbidden",
+    "litter",
+    "no",
+    "not",
+    "prohibited",
+    "sign",
+    "symbol",
+    "travel"
+  ],
+  "potable_water_symbol": [
+    "drink",
+    "potable",
+    "sign",
+    "symbol",
+    "travel",
+    "water"
+  ],
+  "non-potable_water_symbol": [
+    "drink",
+    "forbidden",
+    "no",
+    "not",
+    "potable",
+    "prohibited",
+    "sign",
+    "symbol",
+    "travel",
+    "water"
+  ],
+  "no_pedestrians": [
+    "forbidden",
+    "no",
+    "not",
+    "pedestrian",
+    "place",
+    "prohibited",
+    "sign",
+    "symbol",
+    "travel"
+  ],
+  "children_crossing": [
+    "child",
+    "crossing",
+    "pedestrian",
+    "place",
+    "sign",
+    "symbol",
+    "traffic",
+    "travel"
+  ],
+  "wheelchair_symbol": [
+    "access",
+    "sign",
+    "symbol",
+    "travel",
+    "wheelchair"
+  ],
+  "mens_symbol": [
+    "lavatory",
+    "man",
+    "restroom",
+    "sign",
+    "symbol",
+    "travel",
+    "wc"
+  ],
+  "womens_symbol": [
+    "lavatory",
+    "restroom",
+    "sign",
+    "symbol",
+    "travel",
+    "wc",
+    "woman"
+  ],
+  "restroom": [
+    "lavatory",
+    "restroom",
+    "sign",
+    "symbol",
+    "travel",
+    "wc"
+  ],
+  "baby_symbol": [
+    "baby",
+    "changing",
+    "sign",
+    "symbol",
+    "travel"
+  ],
+  "water_closet": [
+    "closet",
+    "lavatory",
+    "place",
+    "restroom",
+    "sign",
+    "symbol",
+    "travel",
+    "water",
+    "wc"
+  ],
+  "passport_control": [
+    "control",
+    "passport",
+    "place",
+    "sign",
+    "symbol",
+    "travel"
+  ],
+  "customs": [
+    "customs",
+    "place",
+    "sign",
+    "symbol",
+    "travel"
+  ],
+  "baggage_claim": [
+    "baggage",
+    "claim",
+    "place",
+    "sign",
+    "symbol",
+    "travel"
+  ],
+  "left_luggage": [
+    "baggage",
+    "left luggage",
+    "locker",
+    "luggage",
+    "place",
+    "sign",
+    "symbol",
+    "travel"
+  ],
+  "warning_sign": [
+    "place",
+    "symbol",
+    "travel",
+    "warning"
+  ],
+  "no_entry": [
+    "entry",
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "symbol",
+    "traffic",
+    "travel"
+  ],
+  "bellhop_bell": [
+    "bell",
+    "bellhop",
+    "hotel",
+    "object"
+  ],
+  "door": [
+    "door",
+    "object",
+    "travel"
+  ],
+  "sleeping_accommodation": [
+    "hotel",
+    "object",
+    "sleep"
+  ],
+  "bed": [
+    "bed",
+    "hotel",
+    "object",
+    "sleep"
+  ],
+  "couch_and_lamp": [
+    "couch",
+    "hotel",
+    "lamp",
+    "object"
+  ],
+  "toilet": [
+    "object",
+    "place",
+    "toilet",
+    "travel"
+  ],
+  "shower": [
+    "object",
+    "place",
+    "shower",
+    "travel",
+    "water"
+  ],
+  "bath": [
+    "bath",
+    "bathtub",
+    "object",
+    "place",
+    "travel"
+  ],
+  "bathtub": [
+    "bath",
+    "bathtub",
+    "object",
+    "place",
+    "travel"
+  ],
+  "hourglass": [
+    "hourglass",
+    "object",
+    "sand",
+    "time",
+    "timer"
+  ],
+  "hourglass_with_flowing_sand": [
+    "hourglass",
+    "object",
+    "sand",
+    "time",
+    "timer"
+  ],
+  "watch": [
+    "clock",
+    "object",
+    "time",
+    "watch"
+  ],
+  "alarm_clock": [
+    "alarm",
+    "clock",
+    "object",
+    "time"
+  ],
+  "stopwatch": [
+    "clock",
+    "object",
+    "stopwatch",
+    "time"
+  ],
+  "timer_clock": [
+    "clock",
+    "object",
+    "time",
+    "timer"
+  ],
+  "mantelpiece_clock": [
+    "clock",
+    "object"
+  ],
+  "clock_face_twelve_oclock": [
+    "00",
+    "12",
+    "12:00",
+    "clock",
+    "o’clock",
+    "symbol",
+    "time",
+    "twelve"
+  ],
+  "clock_face_twelve-thirty": [
+    "12",
+    "12:30",
+    "30",
+    "clock",
+    "symbol",
+    "thirty",
+    "time",
+    "twelve"
+  ],
+  "clock_face_one_oclock": [
+    "00",
+    "1",
+    "1:00",
+    "clock",
+    "o’clock",
+    "one",
+    "symbol",
+    "time"
+  ],
+  "clock_face_one-thirty": [
+    "1",
+    "1:30",
+    "30",
+    "clock",
+    "one",
+    "symbol",
+    "thirty",
+    "time"
+  ],
+  "clock_face_two_oclock": [
+    "00",
+    "2",
+    "2:00",
+    "clock",
+    "o’clock",
+    "symbol",
+    "time",
+    "two"
+  ],
+  "clock_face_two-thirty": [
+    "2",
+    "2:30",
+    "30",
+    "clock",
+    "symbol",
+    "thirty",
+    "time",
+    "two"
+  ],
+  "clock_face_three_oclock": [
+    "00",
+    "3",
+    "3:00",
+    "clock",
+    "o’clock",
+    "symbol",
+    "three",
+    "time"
+  ],
+  "clock_face_three-thirty": [
+    "3",
+    "3:30",
+    "30",
+    "clock",
+    "symbol",
+    "thirty",
+    "three",
+    "time"
+  ],
+  "clock_face_four_oclock": [
+    "00",
+    "4",
+    "4:00",
+    "clock",
+    "four",
+    "o’clock",
+    "symbol",
+    "time"
+  ],
+  "clock_face_four-thirty": [
+    "30",
+    "4",
+    "4:30",
+    "clock",
+    "four",
+    "symbol",
+    "thirty",
+    "time"
+  ],
+  "clock_face_five_oclock": [
+    "00",
+    "5",
+    "5:00",
+    "clock",
+    "five",
+    "o’clock",
+    "symbol",
+    "time"
+  ],
+  "clock_face_five-thirty": [
+    "30",
+    "5",
+    "5:30",
+    "clock",
+    "five",
+    "symbol",
+    "thirty",
+    "time"
+  ],
+  "clock_face_six_oclock": [
+    "00",
+    "6",
+    "6:00",
+    "clock",
+    "o’clock",
+    "six",
+    "symbol",
+    "time"
+  ],
+  "clock_face_six-thirty": [
+    "30",
+    "6",
+    "6:30",
+    "clock",
+    "six",
+    "symbol",
+    "thirty",
+    "time"
+  ],
+  "clock_face_seven_oclock": [
+    "00",
+    "7",
+    "7:00",
+    "clock",
+    "o’clock",
+    "seven",
+    "symbol",
+    "time"
+  ],
+  "clock_face_seven-thirty": [
+    "30",
+    "7",
+    "7:30",
+    "clock",
+    "seven",
+    "symbol",
+    "thirty",
+    "time"
+  ],
+  "clock_face_eight_oclock": [
+    "00",
+    "8",
+    "8:00",
+    "clock",
+    "eight",
+    "o’clock",
+    "symbol",
+    "time"
+  ],
+  "clock_face_eight-thirty": [
+    "30",
+    "8",
+    "8:30",
+    "clock",
+    "eight",
+    "symbol",
+    "thirty",
+    "time"
+  ],
+  "clock_face_nine_oclock": [
+    "00",
+    "9",
+    "9:00",
+    "clock",
+    "nine",
+    "o’clock",
+    "symbol",
+    "time"
+  ],
+  "clock_face_nine-thirty": [
+    "30",
+    "9",
+    "9:30",
+    "clock",
+    "nine",
+    "symbol",
+    "thirty",
+    "time"
+  ],
+  "clock_face_ten_oclock": [
+    "00",
+    "10",
+    "10:00",
+    "clock",
+    "o’clock",
+    "symbol",
+    "ten",
+    "time"
+  ],
+  "clock_face_ten-thirty": [
+    "10",
+    "10:30",
+    "30",
+    "clock",
+    "symbol",
+    "ten",
+    "thirty",
+    "time"
+  ],
+  "clock_face_eleven_oclock": [
+    "00",
+    "11",
+    "11:00",
+    "clock",
+    "eleven",
+    "o’clock",
+    "symbol",
+    "time"
+  ],
+  "clock_face_eleven-thirty": [
+    "11",
+    "11:30",
+    "30",
+    "clock",
+    "eleven",
+    "symbol",
+    "thirty",
+    "time"
+  ],
+  "aries": [
+    "aries",
+    "ram",
+    "symbol",
+    "time",
+    "zodiac"
+  ],
+  "taurus": [
+    "bull",
+    "ox",
+    "symbol",
+    "taurus",
+    "time",
+    "zodiac"
+  ],
+  "gemini": [
+    "gemini",
+    "symbol",
+    "time",
+    "twins",
+    "zodiac"
+  ],
+  "cancer": [
+    "cancer",
+    "crab",
+    "symbol",
+    "time",
+    "zodiac"
+  ],
+  "leo": [
+    "leo",
+    "lion",
+    "symbol",
+    "time",
+    "zodiac"
+  ],
+  "virgo": [
+    "maiden",
+    "symbol",
+    "time",
+    "virgin",
+    "virgo",
+    "zodiac"
+  ],
+  "libra": [
+    "balance",
+    "justice",
+    "libra",
+    "scales",
+    "symbol",
+    "time",
+    "zodiac"
+  ],
+  "scorpius": [
+    "scorpio",
+    "scorpion",
+    "scorpius",
+    "symbol",
+    "time",
+    "zodiac"
+  ],
+  "sagittarius": [
+    "archer",
+    "sagittarius",
+    "symbol",
+    "time",
+    "zodiac"
+  ],
+  "capricorn": [
+    "capricorn",
+    "goat",
+    "symbol",
+    "time",
+    "zodiac"
+  ],
+  "aquarius": [
+    "aquarius",
+    "bearer",
+    "symbol",
+    "time",
+    "water",
+    "zodiac"
+  ],
+  "pisces": [
+    "fish",
+    "pisces",
+    "symbol",
+    "time",
+    "zodiac"
+  ],
+  "ophiuchus": [
+    "bearer",
+    "ophiuchus",
+    "serpent",
+    "snake",
+    "symbol",
+    "zodiac"
+  ],
+  "new_moon_symbol": [
+    "dark",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "time",
+    "weather"
+  ],
+  "waxing_crescent_moon_symbol": [
+    "crescent",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "time",
+    "waxing",
+    "weather"
+  ],
+  "first_quarter_moon_symbol": [
+    "moon",
+    "nature",
+    "place",
+    "quarter",
+    "space",
+    "time",
+    "weather"
+  ],
+  "waxing_gibbous_moon_symbol": [
+    "gibbous",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "time",
+    "waxing",
+    "weather"
+  ],
+  "full_moon_symbol": [
+    "full",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "time",
+    "weather"
+  ],
+  "waning_gibbous_moon_symbol": [
+    "gibbous",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "time",
+    "waning",
+    "weather"
+  ],
+  "last_quarter_moon_symbol": [
+    "moon",
+    "nature",
+    "place",
+    "quarter",
+    "space",
+    "time",
+    "weather"
+  ],
+  "waning_crescent_moon_symbol": [
+    "crescent",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "time",
+    "waning",
+    "weather"
+  ],
+  "crescent_moon": [
+    "crescent",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "time",
+    "weather"
+  ],
+  "new_moon_with_face": [
+    "face",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "time",
+    "weather"
+  ],
+  "first_quarter_moon_with_face": [
+    "face",
+    "moon",
+    "nature",
+    "place",
+    "quarter",
+    "space",
+    "weather"
+  ],
+  "last_quarter_moon_with_face": [
+    "face",
+    "moon",
+    "nature",
+    "place",
+    "quarter",
+    "space",
+    "weather"
+  ],
+  "thermometer": [
+    "nature",
+    "thermometer",
+    "weather"
+  ],
+  "black_sun_with_rays": [
+    "bright",
+    "nature",
+    "rays",
+    "space",
+    "sun",
+    "sunny",
+    "weather"
+  ],
+  "full_moon_with_face": [
+    "bright",
+    "face",
+    "full",
+    "moon",
+    "nature",
+    "place",
+    "space",
+    "weather"
+  ],
+  "sun_with_face": [
+    "bright",
+    "face",
+    "nature",
+    "place",
+    "space",
+    "sun",
+    "weather"
+  ],
+  "cloud": [
+    "cloud",
+    "nature",
+    "weather"
+  ],
+  "sun_behind_cloud": [
+    "cloud",
+    "nature",
+    "sun",
+    "weather"
+  ],
+  "thunder_cloud_and_rain": [
+    "cloud",
+    "nature",
+    "rain",
+    "thunder",
+    "weather"
+  ],
+  "white_sun_with_small_cloud": [
+    "cloud",
+    "nature",
+    "sun",
+    "weather"
+  ],
+  "white_sun_behind_cloud": [
+    "cloud",
+    "nature",
+    "sun",
+    "weather"
+  ],
+  "white_sun_behind_cloud_with_rain": [
+    "cloud",
+    "nature",
+    "rain",
+    "sun",
+    "weather"
+  ],
+  "cloud_with_rain": [
+    "cloud",
+    "nature",
+    "rain",
+    "weather"
+  ],
+  "cloud_with_snow": [
+    "cloud",
+    "cold",
+    "nature",
+    "snow",
+    "weather"
+  ],
+  "cloud_with_lightning": [
+    "cloud",
+    "lightning",
+    "nature",
+    "weather"
+  ],
+  "cloud_with_tornado": [
+    "cloud",
+    "nature",
+    "tornado",
+    "weather"
+  ],
+  "fog": [
+    "cloud",
+    "fog",
+    "nature",
+    "weather"
+  ],
+  "wind_blowing_face": [
+    "blow",
+    "cloud",
+    "face",
+    "nature",
+    "weather",
+    "wind"
+  ],
+  "cyclone": [
+    "cyclone",
+    "dizzy",
+    "nature",
+    "twister",
+    "typhoon",
+    "weather"
+  ],
+  "rainbow": [
+    "nature",
+    "rain",
+    "rainbow",
+    "weather"
+  ],
+  "closed_umbrella": [
+    "clothing",
+    "nature",
+    "person",
+    "rain",
+    "umbrella",
+    "weather"
+  ],
+  "umbrella": [
+    "clothing",
+    "nature",
+    "rain",
+    "umbrella",
+    "weather"
+  ],
+  "umbrella_with_rain_drops": [
+    "clothing",
+    "drop",
+    "nature",
+    "rain",
+    "umbrella",
+    "weather"
+  ],
+  "umbrella_on_ground": [
+    "nature",
+    "rain",
+    "sun",
+    "travel",
+    "umbrella",
+    "weather"
+  ],
+  "snowflake": [
+    "cold",
+    "nature",
+    "snow",
+    "snowflake",
+    "weather"
+  ],
+  "snowman": [
+    "cold",
+    "nature",
+    "snow",
+    "snowman",
+    "weather"
+  ],
+  "snowman_without_snow": [
+    "cold",
+    "nature",
+    "snow",
+    "snowman",
+    "weather"
+  ],
+  "glowing_star": [
+    "glittery",
+    "glow",
+    "object",
+    "place",
+    "shining",
+    "sparkle",
+    "star"
+  ],
+  "shooting_star": [
+    "activity",
+    "falling",
+    "nature",
+    "place",
+    "shooting",
+    "space",
+    "star"
+  ],
+  "comet": [
+    "comet",
+    "object",
+    "space"
+  ],
+  "fire": [
+    "fire",
+    "flame",
+    "object",
+    "tool"
+  ],
+  "jack-o-lantern": [
+    "activity",
+    "celebration",
+    "entertainment",
+    "halloween",
+    "jack",
+    "lantern",
+    "object"
+  ],
+  "christmas_tree": [
+    "activity",
+    "celebration",
+    "christmas",
+    "entertainment",
+    "object",
+    "tree"
+  ],
+  "menorah_with_nine_branches": [
+    "candelabrum",
+    "candlestick",
+    "menorah",
+    "object",
+    "place",
+    "religion"
+  ],
+  "fireworks": [
+    "activity",
+    "celebration",
+    "entertainment",
+    "fireworks",
+    "object"
+  ],
+  "firework_sparkler": [
+    "activity",
+    "celebration",
+    "entertainment",
+    "fireworks",
+    "object",
+    "sparkle"
+  ],
+  "sparkles": [
+    "emotion",
+    "entertainment",
+    "object",
+    "sign",
+    "sparkle",
+    "star"
+  ],
+  "balloon": [
+    "activity",
+    "balloon",
+    "celebration",
+    "entertainment",
+    "object"
+  ],
+  "party_popper": [
+    "activity",
+    "celebration",
+    "entertainment",
+    "object",
+    "party",
+    "popper",
+    "tada"
+  ],
+  "confetti_ball": [
+    "activity",
+    "ball",
+    "celebration",
+    "confetti",
+    "entertainment",
+    "object"
+  ],
+  "tanabata_tree": [
+    "activity",
+    "banner",
+    "celebration",
+    "entertainment",
+    "japanese",
+    "object",
+    "tree"
+  ],
+  "crossed_flags": [
+    "activity",
+    "celebration",
+    "cross",
+    "crossed",
+    "flag",
+    "japanese",
+    "object"
+  ],
+  "pine_decoration": [
+    "activity",
+    "bamboo",
+    "celebration",
+    "japanese",
+    "object",
+    "pine",
+    "plant"
+  ],
+  "japanese_dolls": [
+    "activity",
+    "celebration",
+    "doll",
+    "entertainment",
+    "festival",
+    "japanese",
+    "object"
+  ],
+  "carp_streamer": [
+    "activity",
+    "carp",
+    "celebration",
+    "entertainment",
+    "flag",
+    "object",
+    "streamer"
+  ],
+  "wind_chime": [
+    "activity",
+    "bell",
+    "celebration",
+    "chime",
+    "entertainment",
+    "object",
+    "wind"
+  ],
+  "moon_viewing_ceremony": [
+    "activity",
+    "celebration",
+    "ceremony",
+    "entertainment",
+    "moon",
+    "nature",
+    "object"
+  ],
+  "graduation_cap": [
+    "activity",
+    "cap",
+    "celebration",
+    "clothing",
+    "education",
+    "graduation",
+    "hat",
+    "object"
+  ],
+  "direct_hit": [
+    "activity",
+    "bull",
+    "bullseye",
+    "dart",
+    "entertainment",
+    "eye",
+    "game",
+    "hit",
+    "object",
+    "target"
+  ],
+  "flower_playing_cards": [
+    "activity",
+    "card",
+    "entertainment",
+    "flower",
+    "game",
+    "japanese",
+    "object",
+    "playing"
+  ],
+  "ribbon": [
+    "celebration",
+    "emotion",
+    "object",
+    "person",
+    "ribbon"
+  ],
+  "wrapped_present": [
+    "box",
+    "celebration",
+    "entertainment",
+    "gift",
+    "object",
+    "present",
+    "wrapped"
+  ],
+  "military_medal": [
+    "celebration",
+    "medal",
+    "military",
+    "object"
+  ],
+  "reminder_ribbon": [
+    "celebration",
+    "object",
+    "reminder",
+    "ribbon"
+  ],
+  "film_frames": [
+    "cinema",
+    "entertainment",
+    "film",
+    "frames",
+    "movie",
+    "object"
+  ],
+  "admission_tickets": [
+    "admission",
+    "entertainment",
+    "object",
+    "ticket"
+  ],
+  "ticket": [
+    "activity",
+    "admission",
+    "entertainment",
+    "object",
+    "place",
+    "ticket"
+  ],
+  "label": [
+    "label",
+    "object"
+  ],
+  "soccer_ball": [
+    "ball",
+    "object",
+    "place",
+    "soccer",
+    "sport"
+  ],
+  "baseball": [
+    "ball",
+    "baseball",
+    "object",
+    "place",
+    "sport"
+  ],
+  "basketball_and_hoop": [
+    "ball",
+    "basketball",
+    "hoop",
+    "object",
+    "place",
+    "sport"
+  ],
+  "american_football": [
+    "american",
+    "ball",
+    "football",
+    "object",
+    "place",
+    "sport"
+  ],
+  "rugby_football": [
+    "ball",
+    "football",
+    "object",
+    "place",
+    "rugby",
+    "sport"
+  ],
+  "tennis_racquet_and_ball": [
+    "ball",
+    "object",
+    "place",
+    "racquet",
+    "sport",
+    "tennis"
+  ],
+  "billiards": [
+    "8",
+    "8 ball",
+    "ball",
+    "billiard",
+    "eight",
+    "game",
+    "object",
+    "place",
+    "sport"
+  ],
+  "bowling": [
+    "ball",
+    "bowling",
+    "game",
+    "object",
+    "place",
+    "sport"
+  ],
+  "flag_in_hole": [
+    "flag",
+    "golf",
+    "hole",
+    "object",
+    "place",
+    "sport",
+    "travel"
+  ],
+  "golfer": [
+    "ball",
+    "golf",
+    "person",
+    "sport"
+  ],
+  "ice_skate": [
+    "ice",
+    "place",
+    "skate",
+    "sport",
+    "travel"
+  ],
+  "fishing_pole_and_fish": [
+    "entertainment",
+    "fish",
+    "object",
+    "place",
+    "pole",
+    "sport"
+  ],
+  "running_shirt_with_sash": [
+    "person",
+    "place",
+    "running",
+    "sash",
+    "shirt",
+    "sport"
+  ],
+  "ski_and_ski_boot": [
+    "object",
+    "ski",
+    "snow",
+    "sport"
+  ],
+  "skier": [
+    "person",
+    "ski",
+    "snow",
+    "sport",
+    "travel"
+  ],
+  "snowboarder": [
+    "person",
+    "ski",
+    "snow",
+    "snowboard",
+    "sport"
+  ],
+  "surfer": [
+    "person",
+    "sport",
+    "surfer",
+    "surfing"
+  ],
+  "horse_racing": [
+    "horse",
+    "jockey",
+    "person",
+    "racehorse",
+    "racing",
+    "sport",
+    "travel"
+  ],
+  "swimmer": [
+    "person",
+    "sport",
+    "swim",
+    "swimmer",
+    "travel"
+  ],
+  "person_with_ball": [
+    "ball",
+    "person",
+    "sport",
+    "travel"
+  ],
+  "weight_lifter": [
+    "lifter",
+    "person",
+    "sport",
+    "weight"
+  ],
+  "bicyclist": [
+    "bicycle",
+    "bicyclist",
+    "bike",
+    "cyclist",
+    "person",
+    "place",
+    "sport",
+    "travel"
+  ],
+  "mountain_bicyclist": [
+    "bicycle",
+    "bicyclist",
+    "bike",
+    "cyclist",
+    "mountain",
+    "person",
+    "place",
+    "sport",
+    "travel"
+  ],
+  "racing_car": [
+    "car",
+    "place",
+    "racing",
+    "sport",
+    "travel"
+  ],
+  "racing_motorcycle": [
+    "motorcycle",
+    "person",
+    "racing",
+    "sport",
+    "travel"
+  ],
+  "sports_medal": [
+    "medal",
+    "object",
+    "sport"
+  ],
+  "trophy": [
+    "object",
+    "place",
+    "prize",
+    "sport",
+    "trophy"
+  ],
+  "cricket_bat_and_ball": [
+    "ball",
+    "bat",
+    "cricket",
+    "game",
+    "object",
+    "sport"
+  ],
+  "volleyball": [
+    "ball",
+    "game",
+    "object",
+    "sport",
+    "volleyball"
+  ],
+  "field_hockey_stick_and_ball": [
+    "ball",
+    "field",
+    "game",
+    "hockey",
+    "object",
+    "sport",
+    "stick"
+  ],
+  "ice_hockey_stick_and_puck": [
+    "game",
+    "hockey",
+    "ice",
+    "object",
+    "puck",
+    "sport",
+    "stick"
+  ],
+  "table_tennis_paddle_and_ball": [
+    "ball",
+    "bat",
+    "game",
+    "object",
+    "paddle",
+    "sport",
+    "table tennis"
+  ],
+  "badminton_racquet_and_shuttlecock": [
+    "badminton",
+    "birdie",
+    "game",
+    "object",
+    "racquet",
+    "shuttlecock",
+    "sport"
+  ],
+  "video_game": [
+    "controller",
+    "entertainment",
+    "game",
+    "object",
+    "video game"
+  ],
+  "joystick": [
+    "entertainment",
+    "game",
+    "joystick",
+    "object",
+    "video game"
+  ],
+  "game_die": [
+    "dice",
+    "die",
+    "entertainment",
+    "game",
+    "object"
+  ],
+  "black_spade_suit": [
+    "card",
+    "game",
+    "spade",
+    "suit",
+    "symbol"
+  ],
+  "black_heart_suit": [
+    "card",
+    "emotion",
+    "game",
+    "heart",
+    "hearts",
+    "suit",
+    "symbol"
+  ],
+  "black_diamond_suit": [
+    "card",
+    "diamond",
+    "diamonds",
+    "game",
+    "suit",
+    "symbol"
+  ],
+  "black_club_suit": [
+    "card",
+    "club",
+    "clubs",
+    "game",
+    "suit",
+    "symbol"
+  ],
+  "playing_card_black_joker": [
+    "card",
+    "entertainment",
+    "game",
+    "joker",
+    "object",
+    "playing"
+  ],
+  "mahjong_tile_red_dragon": [
+    "game",
+    "mahjong",
+    "object",
+    "red"
+  ],
+  "speaker_with_cancellation_stroke": [
+    "mute",
+    "object",
+    "quiet",
+    "silent",
+    "sound",
+    "speaker",
+    "volume"
+  ],
+  "speaker": [
+    "object",
+    "sound",
+    "speaker",
+    "volume"
+  ],
+  "speaker_with_one_sound_wave": [
+    "low",
+    "object",
+    "sound",
+    "speaker",
+    "volume",
+    "wave"
+  ],
+  "speaker_with_three_sound_waves": [
+    "3",
+    "entertainment",
+    "high",
+    "loud",
+    "object",
+    "sound",
+    "speaker",
+    "three",
+    "volume"
+  ],
+  "public_address_loudspeaker": [
+    "communication",
+    "loud",
+    "loudspeaker",
+    "object",
+    "public address",
+    "sound"
+  ],
+  "cheering_megaphone": [
+    "cheering",
+    "communication",
+    "megaphone",
+    "object",
+    "sound"
+  ],
+  "postal_horn": [
+    "communication",
+    "entertainment",
+    "horn",
+    "object",
+    "post",
+    "postal",
+    "sound"
+  ],
+  "bell": [
+    "bell",
+    "object",
+    "sound"
+  ],
+  "bell_with_cancellation_stroke": [
+    "bell",
+    "forbidden",
+    "mute",
+    "no",
+    "not",
+    "object",
+    "prohibited",
+    "quiet",
+    "silent",
+    "sound"
+  ],
+  "twisted_rightwards_arrows": [
+    "arrow",
+    "crossed",
+    "symbol"
+  ],
+  "clockwise_rightwards_and_leftwards_open_circle_arrows": [
+    "arrow",
+    "clockwise",
+    "repeat",
+    "symbol"
+  ],
+  "clockwise_rightwards_and_leftwards_open_circle_arrows_with_circled_one_overlay": [
+    "arrow",
+    "clockwise",
+    "once",
+    "symbol"
+  ],
+  "black_right-pointing_triangle": [
+    "arrow",
+    "play",
+    "right",
+    "sound",
+    "symbol",
+    "triangle"
+  ],
+  "black_right-pointing_double_triangle": [
+    "arrow",
+    "double",
+    "fast",
+    "forward",
+    "sound",
+    "symbol"
+  ],
+  "black_right-pointing_double_triangle_with_vertical_bar": [
+    "arrow",
+    "next scene",
+    "next track",
+    "sound",
+    "symbol",
+    "triangle"
+  ],
+  "black_right-pointing_triangle_with_double_vertical_bar": [
+    "arrow",
+    "pause",
+    "play",
+    "right",
+    "sound",
+    "symbol",
+    "triangle"
+  ],
+  "black_left-pointing_triangle": [
+    "arrow",
+    "left",
+    "reverse",
+    "sound",
+    "symbol",
+    "triangle"
+  ],
+  "black_left-pointing_double_triangle": [
+    "arrow",
+    "double",
+    "rewind",
+    "sound",
+    "symbol"
+  ],
+  "black_left-pointing_double_triangle_with_vertical_bar": [
+    "arrow",
+    "previous scene",
+    "previous track",
+    "sound",
+    "symbol",
+    "triangle"
+  ],
+  "up-pointing_small_red_triangle": [
+    "arrow",
+    "button",
+    "red",
+    "symbol"
+  ],
+  "black_up-pointing_double_triangle": [
+    "arrow",
+    "double",
+    "sound",
+    "symbol"
+  ],
+  "down-pointing_small_red_triangle": [
+    "arrow",
+    "button",
+    "down",
+    "red",
+    "symbol"
+  ],
+  "black_down-pointing_double_triangle": [
+    "arrow",
+    "double",
+    "down",
+    "sound",
+    "symbol"
+  ],
+  "double_vertical_bar": [
+    "bar",
+    "double",
+    "pause",
+    "sound",
+    "symbol",
+    "vertical"
+  ],
+  "black_square_for_stop": [
+    "sound",
+    "square",
+    "stop",
+    "symbol"
+  ],
+  "black_circle_for_record": [
+    "circle",
+    "record",
+    "sound",
+    "symbol"
+  ],
+  "eject_symbol": [
+    "eject",
+    "sound",
+    "symbol"
+  ],
+  "musical_score": [
+    "activity",
+    "entertainment",
+    "music",
+    "object",
+    "score",
+    "sound"
+  ],
+  "musical_note": [
+    "activity",
+    "entertainment",
+    "music",
+    "note",
+    "object",
+    "sound"
+  ],
+  "multiple_musical_notes": [
+    "activity",
+    "entertainment",
+    "music",
+    "note",
+    "notes",
+    "object",
+    "sound"
+  ],
+  "studio_microphone": [
+    "mic",
+    "microphone",
+    "music",
+    "object",
+    "sound",
+    "studio"
+  ],
+  "level_slider": [
+    "level",
+    "music",
+    "object",
+    "slider",
+    "sound"
+  ],
+  "control_knobs": [
+    "control",
+    "knobs",
+    "music",
+    "object",
+    "sound"
+  ],
+  "microphone": [
+    "activity",
+    "entertainment",
+    "karaoke",
+    "mic",
+    "microphone",
+    "object",
+    "sound"
+  ],
+  "headphone": [
+    "activity",
+    "earbud",
+    "entertainment",
+    "headphone",
+    "object",
+    "sound"
+  ],
+  "saxophone": [
+    "activity",
+    "entertainment",
+    "instrument",
+    "music",
+    "object",
+    "sax",
+    "saxophone",
+    "sound"
+  ],
+  "guitar": [
+    "activity",
+    "entertainment",
+    "guitar",
+    "instrument",
+    "music",
+    "object",
+    "sound"
+  ],
+  "musical_keyboard": [
+    "activity",
+    "entertainment",
+    "instrument",
+    "keyboard",
+    "music",
+    "object",
+    "piano",
+    "sound"
+  ],
+  "trumpet": [
+    "activity",
+    "entertainment",
+    "instrument",
+    "music",
+    "object",
+    "sound",
+    "trumpet"
+  ],
+  "violin": [
+    "activity",
+    "entertainment",
+    "instrument",
+    "music",
+    "object",
+    "sound",
+    "violin"
+  ],
+  "radio": [
+    "entertainment",
+    "object",
+    "radio",
+    "video"
+  ],
+  "mobile_phone": [
+    "cell",
+    "communication",
+    "mobile",
+    "object",
+    "phone",
+    "telephone"
+  ],
+  "vibration_mode": [
+    "cell",
+    "communication",
+    "mobile",
+    "mode",
+    "object",
+    "phone",
+    "symbol",
+    "telephone",
+    "vibration"
+  ],
+  "mobile_phone_off": [
+    "cell",
+    "communication",
+    "mobile",
+    "object",
+    "off",
+    "phone",
+    "symbol",
+    "telephone"
+  ],
+  "mobile_phone_with_rightwards_arrow_at_left": [
+    "arrow",
+    "call",
+    "cell",
+    "communication",
+    "mobile",
+    "object",
+    "phone",
+    "receive",
+    "telephone"
+  ],
+  "no_mobile_phones": [
+    "cell",
+    "communication",
+    "forbidden",
+    "mobile",
+    "no",
+    "not",
+    "object",
+    "phone",
+    "prohibited",
+    "symbol",
+    "telephone"
+  ],
+  "black_telephone": [
+    "object",
+    "office",
+    "phone",
+    "sound",
+    "telephone"
+  ],
+  "telephone_receiver": [
+    "communication",
+    "object",
+    "phone",
+    "receiver",
+    "sound",
+    "telephone"
+  ],
+  "keycap_number_sign": [
+    "hash",
+    "keycap",
+    "pound",
+    "symbol",
+    "word"
+  ],
+  "keycap_asterisk": [
+    "asterisk",
+    "keycap",
+    "star",
+    "symbol"
+  ],
+  "keycap_digit_zero": [
+    "0",
+    "keycap",
+    "symbol",
+    "word",
+    "zero"
+  ],
+  "keycap_digit_one": [
+    "1",
+    "keycap",
+    "one",
+    "symbol",
+    "word"
+  ],
+  "keycap_digit_two": [
+    "2",
+    "keycap",
+    "symbol",
+    "two",
+    "word"
+  ],
+  "keycap_digit_three": [
+    "3",
+    "keycap",
+    "symbol",
+    "three",
+    "word"
+  ],
+  "keycap_digit_four": [
+    "4",
+    "four",
+    "keycap",
+    "symbol",
+    "word"
+  ],
+  "keycap_digit_five": [
+    "5",
+    "five",
+    "keycap",
+    "symbol",
+    "word"
+  ],
+  "keycap_digit_six": [
+    "6",
+    "keycap",
+    "six",
+    "symbol",
+    "word"
+  ],
+  "keycap_digit_seven": [
+    "7",
+    "keycap",
+    "seven",
+    "symbol",
+    "word"
+  ],
+  "keycap_digit_eight": [
+    "8",
+    "eight",
+    "keycap",
+    "symbol",
+    "word"
+  ],
+  "keycap_digit_nine": [
+    "9",
+    "keycap",
+    "nine",
+    "symbol",
+    "word"
+  ],
+  "keycap_ten": [
+    "10",
+    "keycap",
+    "symbol",
+    "ten",
+    "word"
+  ],
+  "antenna_with_bars": [
+    "antenna",
+    "bar",
+    "cell",
+    "communication",
+    "mobile",
+    "object",
+    "phone",
+    "signal",
+    "symbol",
+    "telephone"
+  ],
+  "pager": [
+    "communication",
+    "object",
+    "office",
+    "pager"
+  ],
+  "fax_machine": [
+    "communication",
+    "fax",
+    "object",
+    "office"
+  ],
+  "battery": [
+    "battery",
+    "object"
+  ],
+  "electric_plug": [
+    "electric",
+    "electricity",
+    "object",
+    "plug"
+  ],
+  "personal_computer": [
+    "computer",
+    "object",
+    "office",
+    "pc",
+    "personal"
+  ],
+  "desktop_computer": [
+    "computer",
+    "desktop",
+    "object",
+    "office"
+  ],
+  "printer": [
+    "computer",
+    "object",
+    "office",
+    "printer"
+  ],
+  "keyboard": [
+    "computer",
+    "keyboard",
+    "object",
+    "sign"
+  ],
+  "three_button_mouse": [
+    "3",
+    "button",
+    "computer",
+    "mouse",
+    "object",
+    "office",
+    "three"
+  ],
+  "trackball": [
+    "computer",
+    "object",
+    "office",
+    "trackball"
+  ],
+  "minidisc": [
+    "computer",
+    "disk",
+    "entertainment",
+    "minidisk",
+    "object",
+    "office",
+    "optical"
+  ],
+  "floppy_disk": [
+    "computer",
+    "disk",
+    "floppy",
+    "object",
+    "office"
+  ],
+  "optical_disc": [
+    "blu-ray",
+    "cd",
+    "computer",
+    "disk",
+    "dvd",
+    "object",
+    "office",
+    "optical"
+  ],
+  "dvd": [
+    "blu-ray",
+    "cd",
+    "computer",
+    "disk",
+    "dvd",
+    "entertainment",
+    "object",
+    "office",
+    "optical"
+  ],
+  "movie_camera": [
+    "activity",
+    "camera",
+    "cinema",
+    "entertainment",
+    "movie",
+    "object"
+  ],
+  "cinema": [
+    "activity",
+    "camera",
+    "cinema",
+    "entertainment",
+    "film",
+    "movie",
+    "object",
+    "symbol"
+  ],
+  "clapper_board": [
+    "activity",
+    "clapper",
+    "entertainment",
+    "movie",
+    "object"
+  ],
+  "film_projector": [
+    "cinema",
+    "entertainment",
+    "film",
+    "movie",
+    "object",
+    "projector",
+    "video"
+  ],
+  "television": [
+    "entertainment",
+    "object",
+    "television",
+    "tv",
+    "video"
+  ],
+  "camera": [
+    "camera",
+    "entertainment",
+    "object",
+    "video"
+  ],
+  "camera_with_flash": [
+    "camera",
+    "flash",
+    "object",
+    "video"
+  ],
+  "video_camera": [
+    "camera",
+    "entertainment",
+    "object",
+    "video"
+  ],
+  "videocassette": [
+    "entertainment",
+    "object",
+    "tape",
+    "vhs",
+    "video",
+    "videocassette"
+  ],
+  "low_brightness_symbol": [
+    "brightness",
+    "dim",
+    "low",
+    "sign",
+    "symbol"
+  ],
+  "high_brightness_symbol": [
+    "bright",
+    "brightness",
+    "sign",
+    "symbol"
+  ],
+  "left-pointing_magnifying_glass": [
+    "glass",
+    "magnifying",
+    "object",
+    "search",
+    "tool"
+  ],
+  "right-pointing_magnifying_glass": [
+    "glass",
+    "magnifying",
+    "object",
+    "search",
+    "tool"
+  ],
+  "microscope": [
+    "microscope",
+    "object",
+    "tool"
+  ],
+  "telescope": [
+    "object",
+    "telescope",
+    "tool"
+  ],
+  "satellite_antenna": [
+    "antenna",
+    "communication",
+    "dish",
+    "object",
+    "office",
+    "satellite"
+  ],
+  "candle": [
+    "candle",
+    "light",
+    "object"
+  ],
+  "electric_light_bulb": [
+    "bulb",
+    "comic",
+    "electric",
+    "idea",
+    "light",
+    "object"
+  ],
+  "electric_torch": [
+    "electric",
+    "flashlight",
+    "light",
+    "object",
+    "tool",
+    "torch"
+  ],
+  "izakaya_lantern": [
+    "bar",
+    "japanese",
+    "lantern",
+    "light",
+    "place",
+    "red",
+    "restaurant"
+  ],
+  "notebook_with_decorative_cover": [
+    "book",
+    "cover",
+    "decorated",
+    "education",
+    "notebook",
+    "object",
+    "office"
+  ],
+  "closed_book": [
+    "book",
+    "closed",
+    "education",
+    "object",
+    "office"
+  ],
+  "open_book": [
+    "book",
+    "education",
+    "object",
+    "office",
+    "open"
+  ],
+  "green_book": [
+    "book",
+    "education",
+    "green",
+    "object",
+    "office"
+  ],
+  "blue_book": [
+    "blue",
+    "book",
+    "education",
+    "object",
+    "office"
+  ],
+  "orange_book": [
+    "book",
+    "education",
+    "object",
+    "office",
+    "orange"
+  ],
+  "books": [
+    "book",
+    "books",
+    "education",
+    "object",
+    "office"
+  ],
+  "notebook": [
+    "notebook",
+    "object",
+    "office"
+  ],
+  "ledger": [
+    "ledger",
+    "notebook",
+    "object",
+    "office"
+  ],
+  "page_with_curl": [
+    "curl",
+    "document",
+    "object",
+    "office",
+    "page"
+  ],
+  "scroll": [
+    "object",
+    "office",
+    "paper",
+    "scroll"
+  ],
+  "page_facing_up": [
+    "document",
+    "object",
+    "office",
+    "page"
+  ],
+  "newspaper": [
+    "communication",
+    "news",
+    "newspaper",
+    "object",
+    "paper"
+  ],
+  "rolled-up_newspaper": [
+    "news",
+    "newspaper",
+    "object",
+    "paper",
+    "rolled"
+  ],
+  "bookmark_tabs": [
+    "bookmark",
+    "mark",
+    "marker",
+    "object",
+    "office",
+    "tabs"
+  ],
+  "bookmark": [
+    "bookmark",
+    "mark",
+    "object"
+  ],
+  "money_bag": [
+    "bag",
+    "dollar",
+    "money",
+    "moneybag",
+    "object",
+    "office"
+  ],
+  "banknote_with_yen_sign": [
+    "bank",
+    "banknote",
+    "bill",
+    "currency",
+    "money",
+    "note",
+    "object",
+    "office",
+    "yen"
+  ],
+  "banknote_with_dollar_sign": [
+    "bank",
+    "banknote",
+    "bill",
+    "currency",
+    "dollar",
+    "money",
+    "note",
+    "object",
+    "office"
+  ],
+  "banknote_with_euro_sign": [
+    "bank",
+    "banknote",
+    "bill",
+    "currency",
+    "euro",
+    "money",
+    "note",
+    "object",
+    "office"
+  ],
+  "banknote_with_pound_sign": [
+    "bank",
+    "banknote",
+    "bill",
+    "currency",
+    "money",
+    "note",
+    "object",
+    "office",
+    "pound"
+  ],
+  "money_with_wings": [
+    "bank",
+    "banknote",
+    "bill",
+    "dollar",
+    "fly",
+    "money",
+    "note",
+    "object",
+    "office",
+    "wings"
+  ],
+  "currency_exchange": [
+    "bank",
+    "currency",
+    "exchange",
+    "money",
+    "object",
+    "office",
+    "symbol"
+  ],
+  "heavy_dollar_sign": [
+    "currency",
+    "dollar",
+    "money",
+    "object",
+    "office",
+    "symbol"
+  ],
+  "credit_card": [
+    "bank",
+    "card",
+    "credit",
+    "money",
+    "object",
+    "office"
+  ],
+  "chart_with_upwards_trend_and_yen_sign": [
+    "bank",
+    "chart",
+    "currency",
+    "graph",
+    "growth",
+    "market",
+    "money",
+    "object",
+    "office",
+    "rise",
+    "symbol",
+    "trend",
+    "upward",
+    "yen"
+  ],
+  "envelope": [
+    "e-mail",
+    "email",
+    "envelope",
+    "object",
+    "office"
+  ],
+  "e-mail_symbol": [
+    "communication",
+    "e-mail",
+    "email",
+    "letter",
+    "mail",
+    "object",
+    "office"
+  ],
+  "incoming_envelope": [
+    "communication",
+    "e-mail",
+    "email",
+    "envelope",
+    "incoming",
+    "letter",
+    "mail",
+    "object",
+    "office",
+    "receive"
+  ],
+  "envelope_with_downwards_arrow_above": [
+    "arrow",
+    "communication",
+    "down",
+    "e-mail",
+    "email",
+    "envelope",
+    "letter",
+    "mail",
+    "object",
+    "office",
+    "outgoing",
+    "sent"
+  ],
+  "outbox_tray": [
+    "box",
+    "communication",
+    "letter",
+    "mail",
+    "object",
+    "office",
+    "outbox",
+    "sent",
+    "tray"
+  ],
+  "inbox_tray": [
+    "box",
+    "communication",
+    "inbox",
+    "letter",
+    "mail",
+    "object",
+    "office",
+    "receive",
+    "tray"
+  ],
+  "package": [
+    "box",
+    "communication",
+    "object",
+    "office",
+    "package",
+    "parcel"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "closed",
+    "communication",
+    "flag",
+    "mail",
+    "mailbox",
+    "object",
+    "office",
+    "postbox"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "closed",
+    "communication",
+    "flag",
+    "lowered",
+    "mail",
+    "mailbox",
+    "object",
+    "office",
+    "postbox"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "communication",
+    "flag",
+    "mail",
+    "mailbox",
+    "object",
+    "office",
+    "open",
+    "postbox"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "communication",
+    "flag",
+    "lowered",
+    "mail",
+    "mailbox",
+    "object",
+    "office",
+    "open",
+    "postbox"
+  ],
+  "postbox": [
+    "communication",
+    "mail",
+    "mailbox",
+    "object",
+    "office",
+    "postbox"
+  ],
+  "ballot_box_with_ballot": [
+    "ballot",
+    "box",
+    "object"
+  ],
+  "pencil": [
+    "object",
+    "office",
+    "pencil"
+  ],
+  "black_nib": [
+    "nib",
+    "object",
+    "office",
+    "pen"
+  ],
+  "lower_left_fountain_pen": [
+    "communication",
+    "fountain",
+    "object",
+    "office",
+    "pen"
+  ],
+  "lower_left_ballpoint_pen": [
+    "ballpoint",
+    "communication",
+    "object",
+    "office",
+    "pen"
+  ],
+  "lower_left_paintbrush": [
+    "communication",
+    "object",
+    "office",
+    "paintbrush",
+    "painting"
+  ],
+  "lower_left_crayon": [
+    "communication",
+    "crayon",
+    "object",
+    "office"
+  ],
+  "memo": [
+    "communication",
+    "memo",
+    "object",
+    "office",
+    "pencil"
+  ],
+  "briefcase": [
+    "briefcase",
+    "object",
+    "office",
+    "person"
+  ],
+  "file_folder": [
+    "file",
+    "folder",
+    "object",
+    "office"
+  ],
+  "open_file_folder": [
+    "file",
+    "folder",
+    "object",
+    "office",
+    "open"
+  ],
+  "card_index_dividers": [
+    "card",
+    "dividers",
+    "index",
+    "object",
+    "office"
+  ],
+  "calendar": [
+    "calendar",
+    "date",
+    "object",
+    "office"
+  ],
+  "tear-off_calendar": [
+    "calendar",
+    "object",
+    "office"
+  ],
+  "spiral_note_pad": [
+    "note",
+    "object",
+    "office",
+    "pad",
+    "spiral"
+  ],
+  "spiral_calendar_pad": [
+    "calendar",
+    "object",
+    "office",
+    "pad",
+    "spiral"
+  ],
+  "card_index": [
+    "card",
+    "index",
+    "object",
+    "office",
+    "rolodex"
+  ],
+  "chart_with_upwards_trend": [
+    "chart",
+    "graph",
+    "growth",
+    "object",
+    "office",
+    "trend",
+    "upward"
+  ],
+  "chart_with_downwards_trend": [
+    "chart",
+    "down",
+    "graph",
+    "object",
+    "office",
+    "trend"
+  ],
+  "bar_chart": [
+    "bar",
+    "chart",
+    "graph",
+    "object",
+    "office"
+  ],
+  "clipboard": [
+    "clipboard",
+    "object",
+    "office"
+  ],
+  "pushpin": [
+    "object",
+    "office",
+    "pin",
+    "pushpin"
+  ],
+  "round_pushpin": [
+    "object",
+    "office",
+    "pin",
+    "place",
+    "pushpin"
+  ],
+  "paperclip": [
+    "object",
+    "office",
+    "paperclip"
+  ],
+  "linked_paperclips": [
+    "communication",
+    "link",
+    "object",
+    "office",
+    "paperclip"
+  ],
+  "straight_ruler": [
+    "object",
+    "office",
+    "ruler",
+    "straight edge"
+  ],
+  "triangular_ruler": [
+    "object",
+    "office",
+    "ruler",
+    "set",
+    "triangle"
+  ],
+  "name_badge": [
+    "badge",
+    "name",
+    "object",
+    "office"
+  ],
+  "black_scissors": [
+    "object",
+    "office",
+    "scissors",
+    "tool"
+  ],
+  "card_file_box": [
+    "box",
+    "card",
+    "file",
+    "object",
+    "office"
+  ],
+  "file_cabinet": [
+    "cabinet",
+    "file",
+    "object",
+    "office"
+  ],
+  "wastebasket": [
+    "object",
+    "office",
+    "wastebasket"
+  ],
+  "lock": [
+    "closed",
+    "lock",
+    "object"
+  ],
+  "open_lock": [
+    "lock",
+    "object",
+    "open",
+    "unlock"
+  ],
+  "lock_with_ink_pen": [
+    "ink",
+    "lock",
+    "nib",
+    "object",
+    "pen",
+    "privacy"
+  ],
+  "closed_lock_with_key": [
+    "closed",
+    "key",
+    "lock",
+    "object",
+    "secure"
+  ],
+  "key": [
+    "key",
+    "lock",
+    "object",
+    "password"
+  ],
+  "old_key": [
+    "clue",
+    "key",
+    "lock",
+    "object",
+    "old"
+  ],
+  "hammer": [
+    "hammer",
+    "object",
+    "tool"
+  ],
+  "pick": [
+    "mining",
+    "object",
+    "pick",
+    "tool"
+  ],
+  "hammer_and_pick": [
+    "hammer",
+    "object",
+    "pick",
+    "tool"
+  ],
+  "hammer_and_wrench": [
+    "hammer",
+    "object",
+    "tool",
+    "wrench"
+  ],
+  "wrench": [
+    "object",
+    "tool",
+    "wrench"
+  ],
+  "nut_and_bolt": [
+    "bolt",
+    "nut",
+    "object",
+    "tool"
+  ],
+  "gear": [
+    "gear",
+    "object",
+    "tool"
+  ],
+  "compression": [
+    "compression",
+    "object",
+    "tool",
+    "vice"
+  ],
+  "alembic": [
+    "alembic",
+    "chemistry",
+    "object",
+    "tool"
+  ],
+  "scales": [
+    "balance",
+    "justice",
+    "libra",
+    "object",
+    "scales",
+    "tool",
+    "weight",
+    "zodiac"
+  ],
+  "link_symbol": [
+    "link",
+    "object",
+    "symbol"
+  ],
+  "chains": [
+    "chain",
+    "object"
+  ],
+  "syringe": [
+    "doctor",
+    "medicine",
+    "needle",
+    "object",
+    "shot",
+    "sick",
+    "syringe",
+    "tool"
+  ],
+  "pill": [
+    "doctor",
+    "medicine",
+    "object",
+    "pill",
+    "sick"
+  ],
+  "dagger_knife": [
+    "dagger",
+    "knife",
+    "object",
+    "weapon"
+  ],
+  "hocho": [
+    "cooking",
+    "hocho",
+    "knife",
+    "object",
+    "tool",
+    "weapon"
+  ],
+  "crossed_swords": [
+    "crossed",
+    "object",
+    "swords",
+    "weapon"
+  ],
+  "pistol": [
+    "gun",
+    "object",
+    "pistol",
+    "revolver",
+    "tool",
+    "weapon"
+  ],
+  "shield": [
+    "object",
+    "shield",
+    "weapon"
+  ],
+  "bow_and_arrow": [
+    "archer",
+    "arrow",
+    "bow",
+    "object",
+    "sagittarius",
+    "sport",
+    "tool",
+    "weapon",
+    "zodiac"
+  ],
+  "smoking_symbol": [
+    "activity",
+    "object",
+    "smoking"
+  ],
+  "coffin": [
+    "coffin",
+    "death",
+    "object"
+  ],
+  "funeral_urn": [
+    "death",
+    "funeral",
+    "object",
+    "urn"
+  ],
+  "chequered_flag": [
+    "checkered",
+    "chequered",
+    "flag",
+    "object",
+    "place",
+    "racing",
+    "sport"
+  ],
+  "waving_white_flag": [
+    "flag",
+    "object",
+    "waving"
+  ],
+  "waving_black_flag": [
+    "flag",
+    "object",
+    "waving"
+  ],
+  "triangular_flag_on_post": [
+    "flag",
+    "object",
+    "place",
+    "post",
+    "travel"
+  ],
+  "flag_for_ascension_island": [
+    "ascension",
+    "flag",
+    "island",
+    "other"
+  ],
+  "flag_for_andorra": [
+    "andorra",
+    "flag",
+    "other"
+  ],
+  "flag_for_united_arab_emirates": [
+    "emirates",
+    "flag",
+    "other",
+    "uae",
+    "united"
+  ],
+  "flag_for_afghanistan": [
+    "afghanistan",
+    "flag",
+    "other"
+  ],
+  "flag_for_antigua_&amp;_barbuda": [
+    "antigua",
+    "barbuda",
+    "flag",
+    "other"
+  ],
+  "flag_for_anguilla": [
+    "anguilla",
+    "flag",
+    "other"
+  ],
+  "flag_for_albania": [
+    "albania",
+    "flag",
+    "other"
+  ],
+  "flag_for_armenia": [
+    "armenia",
+    "flag",
+    "other"
+  ],
+  "flag_for_angola": [
+    "angola",
+    "flag",
+    "other"
+  ],
+  "flag_for_antarctica": [
+    "antarctica",
+    "flag",
+    "other"
+  ],
+  "flag_for_argentina": [
+    "argentina",
+    "flag",
+    "other"
+  ],
+  "flag_for_american_samoa": [
+    "american",
+    "flag",
+    "other",
+    "samoa"
+  ],
+  "flag_for_austria": [
+    "austria",
+    "flag",
+    "other"
+  ],
+  "flag_for_australia": [
+    "australia",
+    "flag",
+    "other"
+  ],
+  "flag_for_aruba": [
+    "aruba",
+    "flag",
+    "other"
+  ],
+  "flag_for_Åland_islands": [
+    "åland",
+    "flag",
+    "other"
+  ],
+  "flag_for_azerbaijan": [
+    "azerbaijan",
+    "flag",
+    "other"
+  ],
+  "flag_for_bosnia_&amp;_herzegovina": [
+    "bosnia",
+    "flag",
+    "herzegovina",
+    "other"
+  ],
+  "flag_for_barbados": [
+    "barbados",
+    "flag",
+    "other"
+  ],
+  "flag_for_bangladesh": [
+    "bangladesh",
+    "flag",
+    "other"
+  ],
+  "flag_for_belgium": [
+    "belgium",
+    "flag",
+    "other"
+  ],
+  "flag_for_burkina_faso": [
+    "burkina faso",
+    "flag",
+    "other"
+  ],
+  "flag_for_bulgaria": [
+    "bulgaria",
+    "flag",
+    "other"
+  ],
+  "flag_for_bahrain": [
+    "bahrain",
+    "flag",
+    "other"
+  ],
+  "flag_for_burundi": [
+    "burundi",
+    "flag",
+    "other"
+  ],
+  "flag_for_benin": [
+    "benin",
+    "flag",
+    "other"
+  ],
+  "flag_for_st._barthélemy": [
+    "barthelemy",
+    "barthélemy",
+    "flag",
+    "other",
+    "saint"
+  ],
+  "flag_for_bermuda": [
+    "bermuda",
+    "flag",
+    "other"
+  ],
+  "flag_for_brunei": [
+    "brunei",
+    "darussalam",
+    "flag",
+    "other"
+  ],
+  "flag_for_bolivia": [
+    "bolivia",
+    "flag",
+    "other"
+  ],
+  "flag_for_caribbean_netherlands": [
+    "bonaire",
+    "caribbean",
+    "eustatius",
+    "flag",
+    "netherlands",
+    "other",
+    "saba",
+    "sint"
+  ],
+  "flag_for_brazil": [
+    "brazil",
+    "flag",
+    "other"
+  ],
+  "flag_for_bahamas": [
+    "bahamas",
+    "flag",
+    "other"
+  ],
+  "flag_for_bhutan": [
+    "bhutan",
+    "flag",
+    "other"
+  ],
+  "flag_for_bouvet_island": [
+    "bouvet",
+    "flag",
+    "island",
+    "other"
+  ],
+  "flag_for_botswana": [
+    "botswana",
+    "flag",
+    "other"
+  ],
+  "flag_for_belarus": [
+    "belarus",
+    "flag",
+    "other"
+  ],
+  "flag_for_belize": [
+    "belize",
+    "flag",
+    "other"
+  ],
+  "flag_for_canada": [
+    "canada",
+    "flag",
+    "other"
+  ],
+  "flag_for_cocos_islands": [
+    "cocos",
+    "flag",
+    "island",
+    "keeling",
+    "other"
+  ],
+  "flag_for_congo_-_kinshasa": [
+    "congo",
+    "congo-kinshasa",
+    "democratic republic of congo",
+    "drc",
+    "flag",
+    "kinshasa",
+    "other",
+    "republic"
+  ],
+  "flag_for_central_african_republic": [
+    "central african republic",
+    "flag",
+    "other",
+    "republic"
+  ],
+  "flag_for_congo_-_brazzaville": [
+    "brazzaville",
+    "congo",
+    "congo republic",
+    "congo-brazzaville",
+    "flag",
+    "other",
+    "republic",
+    "republic of the congo"
+  ],
+  "flag_for_switzerland": [
+    "flag",
+    "other",
+    "switzerland"
+  ],
+  "flag_for_côte_d’ivoire": [
+    "cote ivoire",
+    "côte ivoire",
+    "flag",
+    "ivory coast",
+    "other"
+  ],
+  "flag_for_cook_islands": [
+    "cook",
+    "flag",
+    "island",
+    "other"
+  ],
+  "flag_for_chile": [
+    "chile",
+    "flag",
+    "other"
+  ],
+  "flag_for_cameroon": [
+    "cameroon",
+    "flag",
+    "other"
+  ],
+  "flag_for_china": [
+    "china",
+    "flag",
+    "other"
+  ],
+  "flag_for_colombia": [
+    "colombia",
+    "flag",
+    "other"
+  ],
+  "flag_for_clipperton_island": [
+    "clipperton",
+    "flag",
+    "island",
+    "other"
+  ],
+  "flag_for_costa_rica": [
+    "costa rica",
+    "flag",
+    "other"
+  ],
+  "flag_for_cuba": [
+    "cuba",
+    "flag",
+    "other"
+  ],
+  "flag_for_cape_verde": [
+    "cabo",
+    "cape",
+    "flag",
+    "other",
+    "verde"
+  ],
+  "flag_for_curaçao": [
+    "antilles",
+    "curacao",
+    "curaçao",
+    "flag",
+    "other"
+  ],
+  "flag_for_christmas_island": [
+    "christmas",
+    "flag",
+    "island",
+    "other"
+  ],
+  "flag_for_cyprus": [
+    "cyprus",
+    "flag",
+    "other"
+  ],
+  "flag_for_czech_republic": [
+    "czech republic",
+    "flag",
+    "other"
+  ],
+  "flag_for_germany": [
+    "flag",
+    "germany",
+    "other"
+  ],
+  "flag_for_diego_garcia": [
+    "diego garcia",
+    "flag",
+    "other"
+  ],
+  "flag_for_djibouti": [
+    "djibouti",
+    "flag",
+    "other"
+  ],
+  "flag_for_denmark": [
+    "denmark",
+    "flag",
+    "other"
+  ],
+  "flag_for_dominica": [
+    "dominica",
+    "flag",
+    "other"
+  ],
+  "flag_for_dominican_republic": [
+    "dominican republic",
+    "flag",
+    "other"
+  ],
+  "flag_for_algeria": [
+    "algeria",
+    "flag",
+    "other"
+  ],
+  "flag_for_ceuta_&amp;_melilla": [
+    "ceuta",
+    "flag",
+    "melilla",
+    "other"
+  ],
+  "flag_for_ecuador": [
+    "ecuador",
+    "flag",
+    "other"
+  ],
+  "flag_for_estonia": [
+    "estonia",
+    "flag",
+    "other"
+  ],
+  "flag_for_egypt": [
+    "egypt",
+    "flag",
+    "other"
+  ],
+  "flag_for_western_sahara": [
+    "flag",
+    "other",
+    "sahara",
+    "west",
+    "western sahara"
+  ],
+  "flag_for_eritrea": [
+    "eritrea",
+    "flag",
+    "other"
+  ],
+  "flag_for_spain": [
+    "flag",
+    "other",
+    "spain"
+  ],
+  "flag_for_ethiopia": [
+    "ethiopia",
+    "flag",
+    "other"
+  ],
+  "flag_for_european_union": [
+    "european union",
+    "flag",
+    "other"
+  ],
+  "flag_for_finland": [
+    "finland",
+    "flag",
+    "other"
+  ],
+  "flag_for_fiji": [
+    "fiji",
+    "flag",
+    "other"
+  ],
+  "flag_for_falkland_islands": [
+    "falkland",
+    "falklands",
+    "flag",
+    "island",
+    "islas",
+    "malvinas",
+    "other"
+  ],
+  "flag_for_micronesia": [
+    "flag",
+    "micronesia",
+    "other"
+  ],
+  "flag_for_faroe_islands": [
+    "faroe",
+    "flag",
+    "island",
+    "other"
+  ],
+  "flag_for_france": [
+    "flag",
+    "france",
+    "other"
+  ],
+  "flag_for_gabon": [
+    "flag",
+    "gabon",
+    "other"
+  ],
+  "flag_for_united_kingdom": [
+    "britain",
+    "british",
+    "cornwall",
+    "england",
+    "flag",
+    "great britain",
+    "ireland",
+    "northern ireland",
+    "other",
+    "scotland",
+    "uk",
+    "union jack",
+    "united",
+    "united kingdom",
+    "wales"
+  ],
+  "flag_for_grenada": [
+    "flag",
+    "grenada",
+    "other"
+  ],
+  "flag_for_georgia": [
+    "flag",
+    "georgia",
+    "other"
+  ],
+  "flag_for_french_guiana": [
+    "flag",
+    "french",
+    "guiana",
+    "other"
+  ],
+  "flag_for_guernsey": [
+    "flag",
+    "guernsey",
+    "other"
+  ],
+  "flag_for_ghana": [
+    "flag",
+    "ghana",
+    "other"
+  ],
+  "flag_for_gibraltar": [
+    "flag",
+    "gibraltar",
+    "other"
+  ],
+  "flag_for_greenland": [
+    "flag",
+    "greenland",
+    "other"
+  ],
+  "flag_for_gambia": [
+    "flag",
+    "gambia",
+    "other"
+  ],
+  "flag_for_guinea": [
+    "flag",
+    "guinea",
+    "other"
+  ],
+  "flag_for_guadeloupe": [
+    "flag",
+    "guadeloupe",
+    "other"
+  ],
+  "flag_for_equatorial_guinea": [
+    "equatorial guinea",
+    "flag",
+    "guinea",
+    "other"
+  ],
+  "flag_for_greece": [
+    "flag",
+    "greece",
+    "other"
+  ],
+  "flag_for_south_georgia_&amp;_south_sandwich_islands": [
+    "flag",
+    "georgia",
+    "island",
+    "other",
+    "south",
+    "south georgia",
+    "south sandwich"
+  ],
+  "flag_for_guatemala": [
+    "flag",
+    "guatemala",
+    "other"
+  ],
+  "flag_for_guam": [
+    "flag",
+    "guam",
+    "other"
+  ],
+  "flag_for_guinea-bissau": [
+    "bissau",
+    "flag",
+    "guinea",
+    "other"
+  ],
+  "flag_for_guyana": [
+    "flag",
+    "guyana",
+    "other"
+  ],
+  "flag_for_hong_kong": [
+    "china",
+    "flag",
+    "hong kong",
+    "other"
+  ],
+  "flag_for_heard_&amp;_mcdonald_islands": [
+    "flag",
+    "heard",
+    "island",
+    "mcdonald",
+    "other"
+  ],
+  "flag_for_honduras": [
+    "flag",
+    "honduras",
+    "other"
+  ],
+  "flag_for_croatia": [
+    "croatia",
+    "flag",
+    "other"
+  ],
+  "flag_for_haiti": [
+    "flag",
+    "haiti",
+    "other"
+  ],
+  "flag_for_hungary": [
+    "flag",
+    "hungary",
+    "other"
+  ],
+  "flag_for_canary_islands": [
+    "canary",
+    "flag",
+    "island",
+    "other"
+  ],
+  "flag_for_indonesia": [
+    "flag",
+    "indonesia",
+    "other"
+  ],
+  "flag_for_ireland": [
+    "flag",
+    "ireland",
+    "other"
+  ],
+  "flag_for_israel": [
+    "flag",
+    "israel",
+    "other"
+  ],
+  "flag_for_isle_of_man": [
+    "flag",
+    "isle of man",
+    "other"
+  ],
+  "flag_for_india": [
+    "flag",
+    "india",
+    "other"
+  ],
+  "flag_for_british_indian_ocean_territory": [
+    "british",
+    "chagos",
+    "flag",
+    "indian ocean",
+    "island",
+    "other"
+  ],
+  "flag_for_iraq": [
+    "flag",
+    "iraq",
+    "other"
+  ],
+  "flag_for_iran": [
+    "flag",
+    "iran",
+    "other"
+  ],
+  "flag_for_iceland": [
+    "flag",
+    "iceland",
+    "other"
+  ],
+  "flag_for_italy": [
+    "flag",
+    "italy",
+    "other"
+  ],
+  "flag_for_jersey": [
+    "flag",
+    "jersey",
+    "other"
+  ],
+  "flag_for_jamaica": [
+    "flag",
+    "jamaica",
+    "other"
+  ],
+  "flag_for_jordan": [
+    "flag",
+    "jordan",
+    "other"
+  ],
+  "flag_for_japan": [
+    "flag",
+    "japan",
+    "other"
+  ],
+  "flag_for_kenya": [
+    "flag",
+    "kenya",
+    "other"
+  ],
+  "flag_for_kyrgyzstan": [
+    "flag",
+    "kyrgyzstan",
+    "other"
+  ],
+  "flag_for_cambodia": [
+    "cambodia",
+    "flag",
+    "other"
+  ],
+  "flag_for_kiribati": [
+    "flag",
+    "kiribati",
+    "other"
+  ],
+  "flag_for_comoros": [
+    "comoros",
+    "flag",
+    "other"
+  ],
+  "flag_for_st._kitts_&amp;_nevis": [
+    "flag",
+    "kitts",
+    "nevis",
+    "other",
+    "saint"
+  ],
+  "flag_for_north_korea": [
+    "flag",
+    "korea",
+    "north",
+    "north korea",
+    "other"
+  ],
+  "flag_for_south_korea": [
+    "flag",
+    "korea",
+    "other",
+    "south",
+    "south korea"
+  ],
+  "flag_for_kuwait": [
+    "flag",
+    "kuwait",
+    "other"
+  ],
+  "flag_for_cayman_islands": [
+    "cayman",
+    "flag",
+    "island",
+    "other"
+  ],
+  "flag_for_kazakhstan": [
+    "flag",
+    "kazakhstan",
+    "other"
+  ],
+  "flag_for_laos": [
+    "flag",
+    "laos",
+    "other"
+  ],
+  "flag_for_lebanon": [
+    "flag",
+    "lebanon",
+    "other"
+  ],
+  "flag_for_st._lucia": [
+    "flag",
+    "lucia",
+    "other",
+    "saint"
+  ],
+  "flag_for_liechtenstein": [
+    "flag",
+    "liechtenstein",
+    "other"
+  ],
+  "flag_for_sri_lanka": [
+    "flag",
+    "other",
+    "sri lanka"
+  ],
+  "flag_for_liberia": [
+    "flag",
+    "liberia",
+    "other"
+  ],
+  "flag_for_lesotho": [
+    "flag",
+    "lesotho",
+    "other"
+  ],
+  "flag_for_lithuania": [
+    "flag",
+    "lithuania",
+    "other"
+  ],
+  "flag_for_luxembourg": [
+    "flag",
+    "luxembourg",
+    "other"
+  ],
+  "flag_for_latvia": [
+    "flag",
+    "latvia",
+    "other"
+  ],
+  "flag_for_libya": [
+    "flag",
+    "libya",
+    "other"
+  ],
+  "flag_for_morocco": [
+    "flag",
+    "morocco",
+    "other"
+  ],
+  "flag_for_monaco": [
+    "flag",
+    "monaco",
+    "other"
+  ],
+  "flag_for_moldova": [
+    "flag",
+    "moldova",
+    "other"
+  ],
+  "flag_for_montenegro": [
+    "flag",
+    "montenegro",
+    "other"
+  ],
+  "flag_for_st._martin": [
+    "flag",
+    "french",
+    "martin",
+    "other",
+    "saint"
+  ],
+  "flag_for_madagascar": [
+    "flag",
+    "madagascar",
+    "other"
+  ],
+  "flag_for_marshall_islands": [
+    "flag",
+    "island",
+    "marshall",
+    "other"
+  ],
+  "flag_for_macedonia": [
+    "flag",
+    "macedonia",
+    "other"
+  ],
+  "flag_for_mali": [
+    "flag",
+    "mali",
+    "other"
+  ],
+  "flag_for_myanmar": [
+    "burma",
+    "flag",
+    "myanmar",
+    "other"
+  ],
+  "flag_for_mongolia": [
+    "flag",
+    "mongolia",
+    "other"
+  ],
+  "flag_for_macau": [
+    "china",
+    "flag",
+    "macao",
+    "macau",
+    "other"
+  ],
+  "flag_for_northern_mariana_islands": [
+    "flag",
+    "island",
+    "mariana",
+    "north",
+    "northern mariana",
+    "other"
+  ],
+  "flag_for_martinique": [
+    "flag",
+    "martinique",
+    "other"
+  ],
+  "flag_for_mauritania": [
+    "flag",
+    "mauritania",
+    "other"
+  ],
+  "flag_for_montserrat": [
+    "flag",
+    "montserrat",
+    "other"
+  ],
+  "flag_for_malta": [
+    "flag",
+    "malta",
+    "other"
+  ],
+  "flag_for_mauritius": [
+    "flag",
+    "mauritius",
+    "other"
+  ],
+  "flag_for_maldives": [
+    "flag",
+    "maldives",
+    "other"
+  ],
+  "flag_for_malawi": [
+    "flag",
+    "malawi",
+    "other"
+  ],
+  "flag_for_mexico": [
+    "flag",
+    "mexico",
+    "other"
+  ],
+  "flag_for_malaysia": [
+    "flag",
+    "malaysia",
+    "other"
+  ],
+  "flag_for_mozambique": [
+    "flag",
+    "mozambique",
+    "other"
+  ],
+  "flag_for_namibia": [
+    "flag",
+    "namibia",
+    "other"
+  ],
+  "flag_for_new_caledonia": [
+    "flag",
+    "new",
+    "new caledonia",
+    "other"
+  ],
+  "flag_for_niger": [
+    "flag",
+    "niger",
+    "other"
+  ],
+  "flag_for_norfolk_island": [
+    "flag",
+    "island",
+    "norfolk",
+    "other"
+  ],
+  "flag_for_nigeria": [
+    "flag",
+    "nigeria",
+    "other"
+  ],
+  "flag_for_nicaragua": [
+    "flag",
+    "nicaragua",
+    "other"
+  ],
+  "flag_for_netherlands": [
+    "flag",
+    "netherlands",
+    "other"
+  ],
+  "flag_for_norway": [
+    "flag",
+    "norway",
+    "other"
+  ],
+  "flag_for_nepal": [
+    "flag",
+    "nepal",
+    "other"
+  ],
+  "flag_for_nauru": [
+    "flag",
+    "nauru",
+    "other"
+  ],
+  "flag_for_niue": [
+    "flag",
+    "niue",
+    "other"
+  ],
+  "flag_for_new_zealand": [
+    "flag",
+    "new",
+    "new zealand",
+    "other"
+  ],
+  "flag_for_oman": [
+    "flag",
+    "oman",
+    "other"
+  ],
+  "flag_for_panama": [
+    "flag",
+    "other",
+    "panama"
+  ],
+  "flag_for_peru": [
+    "flag",
+    "other",
+    "peru"
+  ],
+  "flag_for_french_polynesia": [
+    "flag",
+    "french",
+    "other",
+    "polynesia"
+  ],
+  "flag_for_papua_new_guinea": [
+    "flag",
+    "guinea",
+    "new",
+    "other",
+    "papua new guinea"
+  ],
+  "flag_for_philippines": [
+    "flag",
+    "other",
+    "philippines"
+  ],
+  "flag_for_pakistan": [
+    "flag",
+    "other",
+    "pakistan"
+  ],
+  "flag_for_poland": [
+    "flag",
+    "other",
+    "poland"
+  ],
+  "flag_for_st._pierre_&amp;_miquelon": [
+    "flag",
+    "miquelon",
+    "other",
+    "pierre",
+    "saint"
+  ],
+  "flag_for_pitcairn_islands": [
+    "flag",
+    "island",
+    "other",
+    "pitcairn"
+  ],
+  "flag_for_puerto_rico": [
+    "flag",
+    "other",
+    "puerto rico"
+  ],
+  "flag_for_palestinian_territories": [
+    "flag",
+    "other",
+    "palestine"
+  ],
+  "flag_for_portugal": [
+    "flag",
+    "other",
+    "portugal"
+  ],
+  "flag_for_palau": [
+    "flag",
+    "other",
+    "palau"
+  ],
+  "flag_for_paraguay": [
+    "flag",
+    "other",
+    "paraguay"
+  ],
+  "flag_for_qatar": [
+    "flag",
+    "other",
+    "qatar"
+  ],
+  "flag_for_réunion": [
+    "flag",
+    "other",
+    "reunion",
+    "réunion"
+  ],
+  "flag_for_romania": [
+    "flag",
+    "other",
+    "romania"
+  ],
+  "flag_for_serbia": [
+    "flag",
+    "other",
+    "serbia"
+  ],
+  "flag_for_russia": [
+    "flag",
+    "other",
+    "russia"
+  ],
+  "flag_for_rwanda": [
+    "flag",
+    "other",
+    "rwanda"
+  ],
+  "flag_for_saudi_arabia": [
+    "flag",
+    "other",
+    "saudi arabia"
+  ],
+  "flag_for_solomon_islands": [
+    "flag",
+    "island",
+    "other",
+    "solomon"
+  ],
+  "flag_for_seychelles": [
+    "flag",
+    "other",
+    "seychelles"
+  ],
+  "flag_for_sudan": [
+    "flag",
+    "other",
+    "sudan"
+  ],
+  "flag_for_sweden": [
+    "flag",
+    "other",
+    "sweden"
+  ],
+  "flag_for_singapore": [
+    "flag",
+    "other",
+    "singapore"
+  ],
+  "flag_for_st._helena": [
+    "flag",
+    "helena",
+    "other",
+    "saint"
+  ],
+  "flag_for_slovenia": [
+    "flag",
+    "other",
+    "slovenia"
+  ],
+  "flag_for_svalbard_&amp;_jan_mayen": [
+    "flag",
+    "jan mayen",
+    "other",
+    "svalbard"
+  ],
+  "flag_for_slovakia": [
+    "flag",
+    "other",
+    "slovakia"
+  ],
+  "flag_for_sierra_leone": [
+    "flag",
+    "other",
+    "sierra leone"
+  ],
+  "flag_for_san_marino": [
+    "flag",
+    "other",
+    "san marino"
+  ],
+  "flag_for_senegal": [
+    "flag",
+    "other",
+    "senegal"
+  ],
+  "flag_for_somalia": [
+    "flag",
+    "other",
+    "somalia"
+  ],
+  "flag_for_suriname": [
+    "flag",
+    "other",
+    "suriname"
+  ],
+  "flag_for_south_sudan": [
+    "flag",
+    "other",
+    "south",
+    "south sudan",
+    "sudan"
+  ],
+  "flag_for_são_tomé_&amp;_príncipe": [
+    "flag",
+    "other",
+    "principe",
+    "príncipe",
+    "sao tome",
+    "são tomé"
+  ],
+  "flag_for_el_salvador": [
+    "el salvador",
+    "flag",
+    "other"
+  ],
+  "flag_for_sint_maarten": [
+    "flag",
+    "maarten",
+    "other",
+    "sint"
+  ],
+  "flag_for_syria": [
+    "flag",
+    "other",
+    "syria"
+  ],
+  "flag_for_swaziland": [
+    "flag",
+    "other",
+    "swaziland"
+  ],
+  "flag_for_tristan_da_cunha": [
+    "flag",
+    "other",
+    "tristan da cunha"
+  ],
+  "flag_for_turks_&amp;_caicos_islands": [
+    "caicos",
+    "flag",
+    "island",
+    "other",
+    "turks"
+  ],
+  "flag_for_chad": [
+    "chad",
+    "flag",
+    "other"
+  ],
+  "flag_for_french_southern_territories": [
+    "antarctic",
+    "flag",
+    "french",
+    "other"
+  ],
+  "flag_for_togo": [
+    "flag",
+    "other",
+    "togo"
+  ],
+  "flag_for_thailand": [
+    "flag",
+    "other",
+    "thailand"
+  ],
+  "flag_for_tajikistan": [
+    "flag",
+    "other",
+    "tajikistan"
+  ],
+  "flag_for_tokelau": [
+    "flag",
+    "other",
+    "tokelau"
+  ],
+  "flag_for_timor-leste": [
+    "east",
+    "east timor",
+    "flag",
+    "other",
+    "timor-leste"
+  ],
+  "flag_for_turkmenistan": [
+    "flag",
+    "other",
+    "turkmenistan"
+  ],
+  "flag_for_tunisia": [
+    "flag",
+    "other",
+    "tunisia"
+  ],
+  "flag_for_tonga": [
+    "flag",
+    "other",
+    "tonga"
+  ],
+  "flag_for_turkey": [
+    "flag",
+    "other",
+    "turkey"
+  ],
+  "flag_for_trinidad_&amp;_tobago": [
+    "flag",
+    "other",
+    "tobago",
+    "trinidad"
+  ],
+  "flag_for_tuvalu": [
+    "flag",
+    "other",
+    "tuvalu"
+  ],
+  "flag_for_taiwan": [
+    "china",
+    "flag",
+    "other",
+    "taiwan"
+  ],
+  "flag_for_tanzania": [
+    "flag",
+    "other",
+    "tanzania"
+  ],
+  "flag_for_ukraine": [
+    "flag",
+    "other",
+    "ukraine"
+  ],
+  "flag_for_uganda": [
+    "flag",
+    "other",
+    "uganda"
+  ],
+  "flag_for_u.s._outlying_islands": [
+    "america",
+    "flag",
+    "island",
+    "minor outlying",
+    "other",
+    "united",
+    "united states",
+    "us",
+    "usa"
+  ],
+  "flag_for_united_states": [
+    "america",
+    "flag",
+    "other",
+    "stars and stripes",
+    "united",
+    "united states"
+  ],
+  "flag_for_uruguay": [
+    "flag",
+    "other",
+    "uruguay"
+  ],
+  "flag_for_uzbekistan": [
+    "flag",
+    "other",
+    "uzbekistan"
+  ],
+  "flag_for_vatican_city": [
+    "flag",
+    "other",
+    "vatican"
+  ],
+  "flag_for_st._vincent_&amp;_grenadines": [
+    "flag",
+    "grenadines",
+    "other",
+    "saint",
+    "vincent"
+  ],
+  "flag_for_venezuela": [
+    "flag",
+    "other",
+    "venezuela"
+  ],
+  "flag_for_british_virgin_islands": [
+    "british",
+    "flag",
+    "island",
+    "other",
+    "virgin"
+  ],
+  "flag_for_u.s._virgin_islands": [
+    "america",
+    "american",
+    "flag",
+    "island",
+    "other",
+    "united",
+    "united states",
+    "us",
+    "usa",
+    "virgin"
+  ],
+  "flag_for_vietnam": [
+    "flag",
+    "other",
+    "viet nam",
+    "vietnam"
+  ],
+  "flag_for_vanuatu": [
+    "flag",
+    "other",
+    "vanuatu"
+  ],
+  "flag_for_wallis_&amp;_futuna": [
+    "flag",
+    "futuna",
+    "other",
+    "wallis"
+  ],
+  "flag_for_samoa": [
+    "flag",
+    "other",
+    "samoa"
+  ],
+  "flag_for_kosovo": [
+    "flag",
+    "kosovo",
+    "other"
+  ],
+  "flag_for_yemen": [
+    "flag",
+    "other",
+    "yemen"
+  ],
+  "flag_for_mayotte": [
+    "flag",
+    "mayotte",
+    "other"
+  ],
+  "flag_for_south_africa": [
+    "flag",
+    "other",
+    "south",
+    "south africa"
+  ],
+  "flag_for_zambia": [
+    "flag",
+    "other",
+    "zambia"
+  ],
+  "flag_for_zimbabwe": [
+    "flag",
+    "other",
+    "zimbabwe"
+  ],
+  "upwards_black_arrow": [
+    "arrow",
+    "cardinal",
+    "direction",
+    "north",
+    "symbol"
+  ],
+  "north_east_arrow": [
+    "arrow",
+    "direction",
+    "intercardinal",
+    "northeast",
+    "symbol"
+  ],
+  "black_rightwards_arrow": [
+    "arrow",
+    "cardinal",
+    "direction",
+    "east",
+    "symbol"
+  ],
+  "south_east_arrow": [
+    "arrow",
+    "direction",
+    "intercardinal",
+    "southeast",
+    "symbol"
+  ],
+  "downwards_black_arrow": [
+    "arrow",
+    "cardinal",
+    "direction",
+    "down",
+    "south",
+    "symbol"
+  ],
+  "south_west_arrow": [
+    "arrow",
+    "direction",
+    "intercardinal",
+    "southwest",
+    "symbol"
+  ],
+  "leftwards_black_arrow": [
+    "arrow",
+    "cardinal",
+    "direction",
+    "symbol",
+    "west"
+  ],
+  "north_west_arrow": [
+    "arrow",
+    "direction",
+    "intercardinal",
+    "northwest",
+    "symbol"
+  ],
+  "up_down_arrow": [
+    "arrow",
+    "symbol"
+  ],
+  "left_right_arrow": [
+    "arrow",
+    "symbol"
+  ],
+  "leftwards_arrow_with_hook": [
+    "arrow",
+    "symbol"
+  ],
+  "rightwards_arrow_with_hook": [
+    "arrow",
+    "symbol"
+  ],
+  "arrow_pointing_rightwards_then_curving_upwards": [
+    "arrow",
+    "symbol"
+  ],
+  "arrow_pointing_rightwards_then_curving_downwards": [
+    "arrow",
+    "down",
+    "symbol"
+  ],
+  "clockwise_downwards_and_upwards_open_circle_arrows": [
+    "arrow",
+    "clockwise",
+    "reload",
+    "symbol"
+  ],
+  "anticlockwise_downwards_and_upwards_open_circle_arrows": [
+    "anticlockwise",
+    "arrow",
+    "counterclockwise",
+    "symbol",
+    "withershins"
+  ],
+  "back_with_leftwards_arrow_above": [
+    "arrow",
+    "back",
+    "symbol"
+  ],
+  "end_with_leftwards_arrow_above": [
+    "arrow",
+    "end",
+    "symbol"
+  ],
+  "on_with_exclamation_mark_with_left_right_arrow_above": [
+    "arrow",
+    "mark",
+    "on",
+    "symbol"
+  ],
+  "soon_with_rightwards_arrow_above": [
+    "arrow",
+    "soon",
+    "symbol"
+  ],
+  "top_with_upwards_arrow_above": [
+    "arrow",
+    "symbol",
+    "top",
+    "up"
+  ],
+  "fleur-de-lis": [
+    "fleur-de-lis",
+    "symbol"
+  ],
+  "japanese_symbol_for_beginner": [
+    "beginner",
+    "chevron",
+    "green",
+    "japanese",
+    "leaf",
+    "object",
+    "tool",
+    "yellow"
+  ],
+  "atom_symbol": [
+    "atheist",
+    "atom",
+    "symbol"
+  ],
+  "om_symbol": [
+    "hindu",
+    "om",
+    "religion",
+    "symbol"
+  ],
+  "star_of_david": [
+    "david",
+    "jew",
+    "jewish",
+    "religion",
+    "star",
+    "symbol"
+  ],
+  "wheel_of_dharma": [
+    "buddhist",
+    "dharma",
+    "religion",
+    "symbol",
+    "wheel"
+  ],
+  "yin_yang": [
+    "religion",
+    "sign",
+    "symbol",
+    "tao",
+    "taoist",
+    "yang",
+    "yin"
+  ],
+  "latin_cross": [
+    "christian",
+    "cross",
+    "religion",
+    "symbol"
+  ],
+  "orthodox_cross": [
+    "christian",
+    "cross",
+    "religion",
+    "symbol"
+  ],
+  "shinto_shrine": [
+    "religion",
+    "shinto",
+    "shrine",
+    "symbol"
+  ],
+  "star_and_crescent": [
+    "islam",
+    "muslim",
+    "religion",
+    "symbol"
+  ],
+  "peace_symbol": [
+    "peace",
+    "sign",
+    "symbol"
+  ],
+  "crystal_ball": [
+    "ball",
+    "crystal",
+    "fairy tale",
+    "fantasy",
+    "fortune",
+    "object",
+    "tool"
+  ],
+  "six_pointed_star_with_middle_dot": [
+    "fortune",
+    "object",
+    "star",
+    "symbol"
+  ],
+  "black_universal_recycling_symbol": [
+    "recycle",
+    "sign",
+    "symbol"
+  ],
+  "radioactive_sign": [
+    "radioactive",
+    "sign",
+    "symbol"
+  ],
+  "biohazard_sign": [
+    "biohazard",
+    "sign",
+    "symbol"
+  ],
+  "high_voltage_sign": [
+    "danger",
+    "electric",
+    "electricity",
+    "lightning",
+    "nature",
+    "symbol",
+    "voltage",
+    "zap"
+  ],
+  "white_medium_star": [
+    "nature",
+    "place",
+    "star"
+  ],
+  "heavy_large_circle": [
+    "circle",
+    "o",
+    "symbol",
+    "travel"
+  ],
+  "white_heavy_check_mark": [
+    "check",
+    "mark",
+    "sign",
+    "symbol"
+  ],
+  "ballot_box_with_check": [
+    "ballot",
+    "box",
+    "check",
+    "sign",
+    "symbol"
+  ],
+  "heavy_check_mark": [
+    "check",
+    "mark",
+    "sign",
+    "symbol"
+  ],
+  "heavy_multiplication_x": [
+    "cancel",
+    "multiplication",
+    "multiply",
+    "sign",
+    "symbol",
+    "x"
+  ],
+  "cross_mark": [
+    "cancel",
+    "mark",
+    "multiplication",
+    "multiply",
+    "sign",
+    "symbol",
+    "x"
+  ],
+  "negative_squared_cross_mark": [
+    "mark",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "heavy_plus_sign": [
+    "math",
+    "plus",
+    "sign",
+    "symbol"
+  ],
+  "heavy_minus_sign": [
+    "math",
+    "minus",
+    "sign",
+    "symbol"
+  ],
+  "heavy_division_sign": [
+    "division",
+    "math",
+    "sign",
+    "symbol"
+  ],
+  "curly_loop": [
+    "curl",
+    "loop",
+    "sign",
+    "symbol"
+  ],
+  "double_curly_loop": [
+    "curl",
+    "double",
+    "loop",
+    "sign",
+    "symbol"
+  ],
+  "part_alternation_mark": [
+    "mark",
+    "part",
+    "sign",
+    "symbol"
+  ],
+  "eight_spoked_asterisk": [
+    "asterisk",
+    "sign",
+    "symbol"
+  ],
+  "eight_pointed_black_star": [
+    "sign",
+    "star",
+    "symbol"
+  ],
+  "sparkle": [
+    "sign",
+    "sparkle",
+    "symbol"
+  ],
+  "double_exclamation_mark": [
+    "bangbang",
+    "exclamation",
+    "mark",
+    "punctuation",
+    "symbol",
+    "word"
+  ],
+  "exclamation_question_mark": [
+    "exclamation",
+    "interrobang",
+    "mark",
+    "punctuation",
+    "question",
+    "symbol",
+    "word"
+  ],
+  "black_question_mark_ornament": [
+    "mark",
+    "punctuation",
+    "question",
+    "symbol",
+    "word"
+  ],
+  "white_question_mark_ornament": [
+    "mark",
+    "outlined",
+    "punctuation",
+    "question",
+    "symbol",
+    "word"
+  ],
+  "white_exclamation_mark_ornament": [
+    "exclamation",
+    "mark",
+    "outlined",
+    "punctuation",
+    "symbol",
+    "word"
+  ],
+  "heavy_exclamation_mark_symbol": [
+    "exclamation",
+    "mark",
+    "punctuation",
+    "symbol",
+    "word"
+  ],
+  "wavy_dash": [
+    "dash",
+    "punctuation",
+    "sound",
+    "symbol",
+    "wavy"
+  ],
+  "copyright_sign": [
+    "copyright",
+    "symbol",
+    "word"
+  ],
+  "registered_sign": [
+    "registered",
+    "symbol",
+    "word"
+  ],
+  "trade_mark_sign": [
+    "mark",
+    "symbol",
+    "tm",
+    "trademark",
+    "word"
+  ],
+  "hundred_points_symbol": [
+    "100",
+    "full",
+    "hundred",
+    "office",
+    "score",
+    "symbol"
+  ],
+  "no_one_under_eighteen_symbol": [
+    "18",
+    "age restriction",
+    "eighteen",
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "symbol",
+    "underage",
+    "word"
+  ],
+  "input_symbol_for_latin_capital_letters": [
+    "input",
+    "latin",
+    "letters",
+    "symbol",
+    "uppercase",
+    "word"
+  ],
+  "input_symbol_for_latin_small_letters": [
+    "abcd",
+    "input",
+    "latin",
+    "letters",
+    "lowercase",
+    "symbol",
+    "word"
+  ],
+  "input_symbol_for_numbers": [
+    "1234",
+    "input",
+    "numbers",
+    "symbol",
+    "word"
+  ],
+  "input_symbol_for_symbols": [
+    "input",
+    "symbol",
+    "word"
+  ],
+  "input_symbol_for_latin_letters": [
+    "abc",
+    "alphabet",
+    "input",
+    "latin",
+    "letters",
+    "symbol",
+    "word"
+  ],
+  "negative_squared_latin_capital_letter_a": [
+    "a",
+    "blood",
+    "symbol",
+    "word"
+  ],
+  "negative_squared_ab": [
+    "ab",
+    "blood",
+    "symbol",
+    "word"
+  ],
+  "negative_squared_latin_capital_letter_b": [
+    "b",
+    "blood",
+    "symbol",
+    "word"
+  ],
+  "squared_cl": [
+    "cl",
+    "symbol",
+    "word"
+  ],
+  "squared_cool": [
+    "cool",
+    "symbol",
+    "word"
+  ],
+  "squared_free": [
+    "free",
+    "symbol",
+    "word"
+  ],
+  "information_source": [
+    "i",
+    "information",
+    "symbol",
+    "word"
+  ],
+  "squared_id": [
+    "id",
+    "identity",
+    "symbol",
+    "word"
+  ],
+  "circled_latin_capital_letter_m": [
+    "circle",
+    "m",
+    "place",
+    "symbol",
+    "word"
+  ],
+  "squared_new": [
+    "new",
+    "symbol",
+    "word"
+  ],
+  "squared_ng": [
+    "ng",
+    "symbol",
+    "word"
+  ],
+  "negative_squared_latin_capital_letter_o": [
+    "blood",
+    "o",
+    "symbol",
+    "word"
+  ],
+  "squared_ok": [
+    "ok",
+    "symbol",
+    "word"
+  ],
+  "negative_squared_latin_capital_letter_p": [
+    "parking",
+    "place",
+    "sign",
+    "symbol",
+    "word"
+  ],
+  "squared_sos": [
+    "help",
+    "sos",
+    "symbol",
+    "word"
+  ],
+  "squared_up_with_exclamation_mark": [
+    "mark",
+    "symbol",
+    "up",
+    "word"
+  ],
+  "squared_vs": [
+    "symbol",
+    "versus",
+    "vs",
+    "word"
+  ],
+  "squared_katakana_koko": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "squared_katakana_sa": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-6708": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-6709": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-6307": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "circled_ideograph_advantage": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-5272": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-7121": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-7981": [
+    "japanese",
+    "symbol",
+    "word"
+  ],
+  "circled_ideograph_accept": [
+    "chinese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-7533": [
+    "chinese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-5408": [
+    "chinese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-7a7a": [
+    "chinese",
+    "symbol",
+    "word"
+  ],
+  "circled_ideograph_congratulation": [
+    "chinese",
+    "congratulation",
+    "congratulations",
+    "ideograph",
+    "symbol",
+    "word"
+  ],
+  "circled_ideograph_secret": [
+    "chinese",
+    "ideograph",
+    "secret",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-55b6": [
+    "chinese",
+    "symbol",
+    "word"
+  ],
+  "squared_cjk_unified_ideograph-6e80": [
+    "chinese",
+    "symbol",
+    "word"
+  ],
+  "black_small_square": [
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "white_small_square": [
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "white_medium_square": [
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "black_medium_square": [
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "white_medium_small_square": [
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "black_medium_small_square": [
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "black_large_square": [
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "white_large_square": [
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "large_orange_diamond": [
+    "diamond",
+    "geometric",
+    "orange",
+    "sign",
+    "symbol"
+  ],
+  "large_blue_diamond": [
+    "blue",
+    "diamond",
+    "geometric",
+    "sign",
+    "symbol"
+  ],
+  "small_orange_diamond": [
+    "diamond",
+    "geometric",
+    "orange",
+    "sign",
+    "symbol"
+  ],
+  "small_blue_diamond": [
+    "blue",
+    "diamond",
+    "geometric",
+    "sign",
+    "symbol"
+  ],
+  "up-pointing_red_triangle": [
+    "geometric",
+    "red",
+    "sign",
+    "symbol"
+  ],
+  "down-pointing_red_triangle": [
+    "down",
+    "geometric",
+    "red",
+    "sign",
+    "symbol"
+  ],
+  "diamond_shape_with_a_dot_inside": [
+    "comic",
+    "diamond",
+    "geometric",
+    "inside",
+    "sign",
+    "symbol"
+  ],
+  "radio_button": [
+    "button",
+    "geometric",
+    "radio",
+    "sign",
+    "symbol"
+  ],
+  "black_square_button": [
+    "button",
+    "geometric",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "white_square_button": [
+    "button",
+    "geometric",
+    "outlined",
+    "sign",
+    "square",
+    "symbol"
+  ],
+  "medium_white_circle": [
+    "circle",
+    "geometric",
+    "sign",
+    "symbol"
+  ],
+  "medium_black_circle": [
+    "circle",
+    "geometric",
+    "sign",
+    "symbol"
+  ],
+  "large_red_circle": [
+    "circle",
+    "geometric",
+    "red",
+    "sign",
+    "symbol"
+  ],
+  "large_blue_circle": [
+    "blue",
+    "circle",
+    "geometric",
+    "sign",
+    "symbol"
+  ]
+}

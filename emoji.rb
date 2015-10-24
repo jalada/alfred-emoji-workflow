@@ -1,5 +1,7 @@
-require './emoji_symbols'
-require './related_words'
+require 'json'
+
+related = JSON.load(File.read('related.json'))
+symbols = JSON.load(File.read('symbols.json'))
 
 def item_xml(options = {})
   <<-ITEM
@@ -15,11 +17,11 @@ def match?(word, query)
   word.match(/#{query}/i)
 end
 
-images_path = File.expand_path('../images/emoji', __FILE__)
+images_path = File.expand_path('../images', __FILE__)
 
 query = Regexp.escape(ARGV.first).delete(':')
 
-related_matches = RELATED_WORDS.select { |k, v| match?(k, query) || v.any? { |r| match?(r, query) } }
+related_matches = related.select { |k, v| match?(k, query) || v.any? { |r| match?(r, query) } }
 
 # 1.8.7 returns a [['key', 'value']] instead of a Hash.
 related_matches = related_matches.respond_to?(:keys) ? related_matches.keys : related_matches.map(&:first)
@@ -32,10 +34,10 @@ items = matches.uniq.sort.map do |elem|
   path = File.join(images_path, "#{elem}.png")
   emoji_code = ":#{elem}:"
 
-  emoji_arg = ARGV.size > 1 ? EMOJI_SYMBOLS.fetch(elem.to_sym, emoji_code) : emoji_code
+  emoji_arg = ARGV.size > 1 ? symbols.fetch(elem, emoji_code) : emoji_code
 
   item_xml({ :arg => emoji_arg, :uid => elem, :path => path, :title => emoji_code,
-             :subtitle => "Copy #{emoji_arg} to clipboard" })
+             :subtitle => "Copy #{emoji_arg} to clipboard" }).force_encoding('UTF-8')
 end.join
 
 output = "<?xml version='1.0'?>\n<items>\n#{items}</items>"
