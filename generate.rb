@@ -12,24 +12,23 @@ related = {}
 symbols = {}
 
 rows.each do |row|
-  head = row.at_xpath('th[1]/text()').to_s.strip
-  next if 'Count' == head
+  # Skip header row of table
+  next if 'Count' == row.at_xpath('th[1]/text()').to_s.strip
 
-  name = row.at_xpath('td[13]/text()').to_s.strip
-  filename = name.gsub(/\s/, '_').downcase
+  # Replace spaces with _ in emoji name to make image filename
+  filename = row.at_xpath('td[13]/text()').to_s.strip.gsub(/\s/, '_').downcase
 
+  # Decode base64 image data for Apple icon and save to file
   icon = Base64.decode64(row.css('td.andr')[1].css('img').attr('src').to_s[22..-1])
-  File.open("images/#{filename}.png", 'wb') do |f|
-    f.write(icon)
-  end
+  File.open("images/#{filename}.png", 'wb') { |f| f.write(icon) }
 
+  # Use annotations for related words
+  related[filename] = row.css('td[16]/a').children.collect { |a| a.to_s }
 
-  notes = row.css('td[16]/a').children.collect { |ann| ann.to_s }
-  related[filename] = notes
-
-  symbol = [row.at_xpath('td[2]/a/text()').to_s[2..-1].to_s.hex].pack('U')
-  symbols[filename] = symbol
+  # Read the unicode symbol
+  symbols[filename] = [row.at_xpath('td[2]/a/text()').to_s[2..-1].to_s.hex].pack('U')
 end
 
+# Write data files used by emoji.rb
 File.open('symbols.json', 'wb') { |f| f.write(JSON.pretty_generate(symbols)) }
 File.open('related.json', 'wb') { |f| f.write(JSON.pretty_generate(related)) }
