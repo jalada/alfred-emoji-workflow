@@ -2,10 +2,9 @@ require 'nokogiri'
 require 'open-uri'
 require 'base64'
 require 'json'
-require 'pp'
 
-# doc = Nokogiri::HTML(open('http://unicode.org/emoji/charts/full-emoji-list.html'))
-doc = File.open('full-emoji-list.html') { |f| Nokogiri::HTML(f) }
+doc = Nokogiri::HTML(open('http://unicode.org/emoji/charts/full-emoji-list.html'))
+# doc = File.open('full-emoji-list.html') { |f| Nokogiri::HTML(f) }
 
 rows = doc.xpath('//table/tr')
 
