@@ -33,10 +33,29 @@ the whole list of emoji will be presented.__
 
 ![](http://i.imgur.com/g0GbJUY.png)
 
-## Generating the Emoji and Related Words
+## Developing
+
+There are two steps to developing...
+
+1. Run the generate.rb script to produce `related.json` & `symbols.json`
+        
+        ruby generate.rb
+        
+1. Install data files into Alfred
+
+### Generating the Emoji and Related Words
 
 The `generate.rb` script pulls the official [full emoji list](http://unicode.org/emoji/charts/full-emoji-list.html) from the unicode.org website and...
 
 - Extracts the Apple icons
 - Generates the symbols.json file with a map of names to symbols
 - Generates the related.json file with a map of names to annotation keywords & custom related words from custom_related.json
+
+### Installing data files into Alfred
+
+1. Open Alfred preferences and navigate to this workflow
+1. Open the configuration for either of the script actions
+1. Click `Open Workflow Folder`
+1. Copy the changed `symbols.json` & `related.json` into the workflow folder
+1. If there are any new images in the `images/` folder, copy those as well
+1. Enjoy!
