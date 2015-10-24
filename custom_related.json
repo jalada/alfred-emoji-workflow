@@ -2,7 +2,8 @@
   "grinning_face": [
     "smile",
     "happy",
-    "joy"
+    "joy",
+    "grinning"
   ],
   "grinning_face_with_smiling_eyes": [
     "happy",
@@ -18,7 +19,8 @@
   "smiling_face_with_open_mouth": [
     "happy",
     "joy",
-    "haha"
+    "haha",
+    "smiley"
   ],
   "smiling_face_with_open_mouth_and_smiling_eyes": [
     "happy",
@@ -26,11 +28,13 @@
   ],
   "smiling_face_with_open_mouth_and_cold_sweat": [
     "hot",
-    "happy"
+    "happy",
+    "sweat_smile"
   ],
   "smiling_face_with_open_mouth_and_tightly-closed_eyes": [
     "happy",
-    "joy"
+    "joy",
+    "laughing"
   ],
   "winking_face": [
     "happy"
@@ -49,29 +53,34 @@
   "smiling_face_with_heart-shaped_eyes": [
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "heart_eyes"
   ],
   "face_throwing_a_kiss": [
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "kissing_heart"
   ],
   "kissing_face": [
     "love",
     "like",
     "3",
-    "valentines"
+    "valentines",
+    "kissing"
   ],
   "kissing_face_with_smiling_eyes": [
     "affection",
-    "valentines"
+    "valentines",
+    "kissing_smiling_eyes"
   ],
   "kissing_face_with_closed_eyes": [
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "kissing_closed_eyes"
   ],
   "white_smiling_face": [
     "blush",
@@ -82,13 +91,15 @@
     "heaven"
   ],
   "neutral_face": [
-    "indifference"
+    "indifference",
+    "neutral_face"
   ],
   "expressionless_face": [
     "indifferent"
   ],
   "face_without_mouth": [
-    "hellokitty"
+    "hellokitty",
+    "no_mouth"
   ],
   "smirking_face": [
     "smile",
@@ -101,6 +112,10 @@
     "upset"
   ],
   "disappointed_but_relieved_face": [
+    "phew",
+    "sweat",
+    "nervous",
+    "disappointed_relieved",
     "relaxed",
     "phew",
     "massage",
@@ -109,39 +124,47 @@
   "face_with_open_mouth": [
     "surprise",
     "impressed",
-    "wow"
+    "wow",
+    "open_mouth"
   ],
   "hushed_face": [
     "woo"
   ],
   "sleepy_face": [
-    "tired"
+    "tired",
+    "sleepy"
   ],
   "tired_face": [
     "sick",
     "whine",
-    "upset"
+    "upset",
+    "tired_face"
   ],
   "sleeping_face": [
     "tired",
-    "sleepy"
+    "sleepy",
+    "sleeping"
   ],
   "relieved_face": [
     "haha",
     "happy",
     "joy",
-    "glad"
+    "glad",
+    "satisfied"
   ],
   "face_with_stuck-out_tongue": [
     "prank",
-    "childish"
+    "childish",
+    "stuck_out_tongue"
   ],
   "face_with_stuck-out_tongue_and_winking_eye": [
     "prank",
-    "childish"
+    "childish",
+    "stuck_out_tongue_winking_eye"
   ],
   "face_with_stuck-out_tongue_and_tightly-closed_eyes": [
-    "prank"
+    "prank",
+    "stuck_out_tongue_closed_eyes"
   ],
   "unamused_face": [
     "indifference",
@@ -188,7 +211,8 @@
     "upset"
   ],
   "frowning_face_with_open_mouth": [
-    "aw"
+    "aw",
+    "frowning"
   ],
   "anguished_face": [
     "stunned",
@@ -203,8 +227,12 @@
     "sleepy",
     "sad"
   ],
+  "grimacing_face": [
+    "grimacing"
+  ],
   "face_with_open_mouth_and_cold_sweat": [
-    "nervous"
+    "nervous",
+    "cold_sweat"
   ],
   "flushed_face": [
     "blush",
@@ -214,7 +242,8 @@
   "dizzy_face": [
     "spent",
     "unconscious",
-    "xox"
+    "xox",
+    "dizzy_face"
   ],
   "angry_face": [
     "annoyed"
@@ -225,7 +254,8 @@
     "horns"
   ],
   "smiling_face_with_horns": [
-    "devil"
+    "devil",
+    "smiling_imp"
   ],
   "boy": [
     "man",
@@ -250,19 +280,22 @@
   "older_man": [
     "human",
     "male",
-    "men"
+    "men",
+    "older_man"
   ],
   "older_woman": [
     "female",
     "women",
-    "girl"
+    "girl",
+    "older_woman"
   ],
   "baby": [
     "child"
   ],
   "person_with_blond_hair": [
     "man",
-    "male"
+    "male",
+    "person_with_blond_hair"
   ],
   "police_officer": [
     "man",
@@ -272,16 +305,19 @@
   ],
   "man_with_gua_pi_mao": [
     "male",
-    "boy"
+    "boy",
+    "man_with_gua_pi_mao"
   ],
   "man_with_turban": [
-    "male"
+    "male",
+    "man_with_turban"
   ],
   "construction_worker": [
     "man",
     "male",
     "human",
-    "wip"
+    "wip",
+    "construction_worker"
   ],
   "princess": [
     "girl",
@@ -310,7 +346,8 @@
   "woman_with_bunny_ears": [
     "female",
     "women",
-    "girls"
+    "girls",
+    "dancers"
   ],
   "face_massage": [
     "female",
@@ -324,45 +361,59 @@
   ],
   "bride_with_veil": [
     "couple",
-    "marriage"
+    "marriage",
+    "bride_with_veil"
   ],
   "person_frowning": [
     "female",
     "girl",
-    "woman"
+    "woman",
+    "person_frowning"
   ],
   "person_with_pouting_face": [
     "female",
     "girl",
-    "woman"
+    "woman",
+    "person_with_pouting_face"
   ],
   "face_with_no_good_gesture": [
     "female",
     "girl",
-    "woman"
+    "woman",
+    "no_good"
   ],
   "face_with_ok_gesture": [
     "women",
     "girl",
     "female",
     "pink",
-    "human"
+    "human",
+    "ok_woman"
   ],
   "information_desk_person": [
     "female",
     "girl",
     "woman",
-    "human"
+    "human",
+    "information_desk_person"
   ],
   "happy_person_raising_one_hand": [
     "female",
     "girl",
-    "woman"
+    "woman",
+    "raised_hand",
+    "female",
+    "girl",
+    "woman",
+    "raising_hand"
   ],
   "person_bowing_deeply": [
     "man",
     "male",
     "boy"
+  ],
+  "person_raising_both_hands_in_celebration": [
+    "raised_hands"
   ],
   "person_with_folded_hands": [
     "hope",
@@ -371,20 +422,25 @@
   "bust_in_silhouette": [
     "man",
     "user",
-    "human"
+    "human",
+    "bust_in_silhouette"
   ],
   "busts_in_silhouette": [
     "man",
     "user",
     "human",
     "group",
-    "team"
+    "team",
+    "busts_in_silhouette"
   ],
   "pedestrian": [
     "man",
     "human"
   ],
   "runner": [
+    "man",
+    "walking",
+    "exercise",
     "man",
     "walking",
     "exercise"
@@ -399,7 +455,8 @@
     "love",
     "like",
     "dating",
-    "marriage"
+    "marriage",
+    "couplekiss"
   ],
   "couple_with_heart": [
     "like",
@@ -407,7 +464,8 @@
     "human",
     "dating",
     "valentines",
-    "marriage"
+    "marriage",
+    "couple_with_heart"
   ],
   "family": [
     "home",
@@ -432,37 +490,59 @@
     "bromance",
     "friends",
     "valentines",
-    "marriage"
+    "marriage",
+    "two_men_holding_hands"
   ],
   "two_women_holding_hands": [
     "friends",
     "love",
     "like",
     "valentines",
-    "marriage"
+    "marriage",
+    "two_women_holding_hands"
+  ],
+  "emoji_modifier_fitzpatrick_type-1-2": [
+    "skin-tone-2"
+  ],
+  "emoji_modifier_fitzpatrick_type-3": [
+    "skin-tone-3"
+  ],
+  "emoji_modifier_fitzpatrick_type-4": [
+    "skin-tone-4"
+  ],
+  "emoji_modifier_fitzpatrick_type-5": [
+    "skin-tone-5"
+  ],
+  "emoji_modifier_fitzpatrick_type-6": [
+    "skin-tone-6"
   ],
   "flexed_biceps": [
     "hand"
   ],
   "white_left_pointing_backhand_index": [
     "direction",
-    "fingers"
+    "fingers",
+    "point_left"
   ],
   "white_right_pointing_backhand_index": [
     "fingers",
-    "direction"
+    "direction",
+    "point_right"
   ],
   "white_up_pointing_index": [
     "fingers",
-    "direction"
+    "direction",
+    "point_up"
   ],
   "white_up_pointing_backhand_index": [
     "fingers",
-    "direction"
+    "direction",
+    "point_up_2"
   ],
   "white_down_pointing_backhand_index": [
     "fingers",
-    "direction"
+    "direction",
+    "point_down"
   ],
   "victory_hand": [
     "fingers",
@@ -476,9 +556,27 @@
     "stop",
     "highfive"
   ],
+  "fisted_hand_sign": [
+    "angry",
+    "violence",
+    "hit",
+    "attack",
+    "facepunch"
+  ],
   "ok_hand_sign": [
     "fingers",
-    "limbs"
+    "limbs",
+    "ok_hand"
+  ],
+  "thumbs_up_sign": [
+    "thumbs",
+    "thumbsup",
+    "thumbsup"
+  ],
+  "thumbs_down_sign": [
+    "thumbs",
+    "thumbsdown",
+    "thumbsdown"
   ],
   "waving_hand_sign": [
     "hands",
@@ -494,19 +592,25 @@
   ],
   "open_hands_sign": [
     "fingers",
-    "butterfly"
+    "butterfly",
+    "open_hands"
   ],
   "nail_polish": [
-    "beauty"
+    "beauty",
+    "nail_care"
   ],
   "footprints": [
-    "feet"
+    "animal",
+    "feet",
+    "feet",
+    "footprints"
   ],
   "eyes": [
     "look",
     "watch",
     "stalk",
-    "peek"
+    "peek",
+    "eyes"
   ],
   "ear": [
     "face",
@@ -539,18 +643,21 @@
   ],
   "broken_heart": [
     "sad",
-    "sorry"
+    "sorry",
+    "broken_heart"
   ],
   "two_hearts": [
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "two_hearts"
   ],
   "sparkling_heart": [
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "sparkling_heart"
   ],
   "growing_heart": [
     "like",
@@ -562,56 +669,68 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "blue_heart"
   ],
   "green_heart": [
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "green_heart"
   ],
   "yellow_heart": [
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "yellow_heart"
   ],
   "purple_heart": [
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "purple_heart"
   ],
   "heart_with_ribbon": [
     "love",
-    "valentines"
+    "valentines",
+    "gift_heart"
   ],
   "revolving_hearts": [
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "revolving_hearts"
   ],
   "heart_decoration": [
     "purple-square",
     "love",
-    "like"
+    "like",
+    "heart_decoration"
   ],
   "love_letter": [
     "email",
     "like",
     "affection",
     "envelope",
-    "valentines"
+    "valentines",
+    "love_letter"
   ],
   "droplet": [
     "water",
     "drip",
-    "faucet"
+    "faucet",
+    "droplet"
   ],
   "sleeping_symbol": [
     "sleepy",
     "tired"
+  ],
+  "anger_symbol": [
+    "anger"
   ],
   "bomb": [
     "boom",
@@ -619,10 +738,12 @@
   ],
   "collision_symbol": [
     "bomb",
+    "bomb",
     "blown"
   ],
   "splashing_sweat_symbol": [
-    "water"
+    "water",
+    "sweat_drops"
   ],
   "dash_symbol": [
     "wind",
@@ -635,11 +756,13 @@
     "shoot"
   ],
   "speech_balloon": [
-    "words"
+    "words",
+    "speech_balloon"
   ],
   "thought_balloon": [
     "cloud",
-    "speech"
+    "speech",
+    "thought_balloon"
   ],
   "eyeglasses": [
     "fashion",
@@ -653,6 +776,8 @@
     "cloth"
   ],
   "t-shirt": [
+    "fashion",
+    "cloth",
     "fashion"
   ],
   "jeans": [
@@ -678,7 +803,8 @@
     "beach"
   ],
   "womans_clothes": [
-    "fashion"
+    "fashion",
+    "womans_clothes"
   ],
   "purse": [
     "fashion",
@@ -694,20 +820,26 @@
     "accessories"
   ],
   "school_satchel": [
-    "student"
+    "student",
+    "school_satchel"
   ],
   "mans_shoe": [
+    "fashion",
+    "male",
+    "mans_shoe",
     "accessories",
     "fashion"
   ],
   "athletic_shoe": [
     "shoes",
-    "sports"
+    "sports",
+    "athletic_shoe"
   ],
   "high-heeled_shoe": [
     "fashion",
     "shoes",
-    "female"
+    "female",
+    "high_heel"
   ],
   "womans_sandal": [
     "shoes",
@@ -722,7 +854,8 @@
   ],
   "womans_hat": [
     "fashion",
-    "accessories"
+    "accessories",
+    "womans_hat"
   ],
   "top_hat": [
     "magic",
@@ -744,6 +877,12 @@
     "blue",
     "ruby"
   ],
+  "japanese_ogre": [
+    "japanese_ogre"
+  ],
+  "japanese_goblin": [
+    "japanese_goblin"
+  ],
   "ghost": [
     "halloween",
     "scary"
@@ -756,7 +895,28 @@
     "paul"
   ],
   "alien_monster": [
-    "game"
+    "game",
+    "space_invader"
+  ],
+  "pile_of_poo": [
+    "shit",
+    "shitface",
+    "hankey",
+    "shit",
+    "shitface",
+    "shit"
+  ],
+  "monkey_face": [
+    "monkey_face"
+  ],
+  "see-no-evil_monkey": [
+    "see_no_evil"
+  ],
+  "hear-no-evil_monkey": [
+    "hear_no_evil"
+  ],
+  "speak-no-evil_monkey": [
+    "speak_no_evil"
   ],
   "dog_face": [
     "friend",
@@ -764,53 +924,67 @@
   ],
   "dog": [
     "friend",
-    "doge"
+    "doge",
+    "dog2"
   ],
   "poodle": [
     "101"
   ],
   "grinning_cat_face_with_smiling_eyes": [
-    "cats"
+    "cats",
+    "smile_cat"
   ],
   "cat_face_with_tears_of_joy": [
     "cats",
     "haha",
     "happy",
-    "tears"
+    "tears",
+    "joy_cat"
   ],
   "smiling_cat_face_with_open_mouth": [
     "cats",
-    "happy"
+    "happy",
+    "smiley_cat"
   ],
   "smiling_cat_face_with_heart-shaped_eyes": [
     "like",
     "affection",
     "cats",
-    "valentines"
+    "valentines",
+    "heart_eyes_cat"
   ],
   "cat_face_with_wry_smile": [
-    "cats"
+    "cats",
+    "smirk_cat"
   ],
   "kissing_cat_face_with_closed_eyes": [
-    "cats"
+    "cats",
+    "kissing_cat"
   ],
   "pouting_cat_face": [
-    "cats"
+    "cats",
+    "pouting_cat"
   ],
   "crying_cat_face": [
     "tears",
     "weep",
-    "cats"
+    "cats",
+    "crying_cat_face"
   ],
   "weary_cat_face": [
     "cats",
-    "munch"
+    "munch",
+    "scream_cat"
+  ],
+  "cat": [
+    "cat2"
   ],
   "tiger_face": [
     "feline"
   ],
   "tiger": [
-    "feline"
+    "feline",
+    "tiger2"
   ],
   "horse": [
     "gamble"
@@ -825,18 +999,27 @@
   ],
   "water_buffalo": [
     "ox",
-    "cow"
+    "cow",
+    "water_buffalo"
   ],
   "cow": [
     "beef",
-    "ox"
+    "ox",
+    "cow2"
   ],
   "pig_face": [
     "swine"
   ],
+  "pig": [
+    "pig2"
+  ],
+  "pig_nose": [
+    "pig_nose"
+  ],
   "dromedary_camel": [
     "hot",
-    "desert"
+    "desert",
+    "dromedary_camel"
   ],
   "bactrian_camel": [
     "hot"
@@ -846,8 +1029,20 @@
     "thailand",
     "trunk"
   ],
+  "mouse": [
+    "mouse2"
+  ],
   "rat": [
     "mouse"
+  ],
+  "rabbit": [
+    "rabbit2"
+  ],
+  "panda_face": [
+    "panda_face"
+  ],
+  "paw_prints": [
+    "paw_prints"
   ],
   "chicken": [
     "hen"
@@ -858,13 +1053,16 @@
   "hatching_chick": [
     "chicken",
     "egg",
-    "born"
+    "born",
+    "hatching_chick"
   ],
   "baby_chick": [
-    "chicken"
+    "chicken",
+    "baby_chick"
   ],
   "front-facing_baby_chick": [
-    "chicken"
+    "chicken",
+    "hatched_chick"
   ],
   "turtle": [
     "slow"
@@ -875,7 +1073,8 @@
   "dragon_face": [
     "myth",
     "chinese",
-    "green"
+    "green",
+    "dragon_face"
   ],
   "dragon": [
     "myth",
@@ -886,13 +1085,17 @@
     "sea"
   ],
   "whale": [
-    "sea"
+    "sea",
+    "whale2"
   ],
   "dolphin": [
     "fish"
   ],
   "fish": [
     "food"
+  ],
+  "tropical_fish": [
+    "tropical_fish"
   ],
   "blowfish": [
     "food",
@@ -911,8 +1114,12 @@
     "flowers",
     "valentines"
   ],
+  "cherry_blossom": [
+    "cherry_blossom"
+  ],
   "white_flower": [
-    "japanese"
+    "japanese",
+    "white_flower"
   ],
   "rose": [
     "flowers",
@@ -934,11 +1141,21 @@
     "grass",
     "lawn"
   ],
+  "evergreen_tree": [
+    "evergreen_tree"
+  ],
+  "deciduous_tree": [
+    "deciduous_tree"
+  ],
   "palm_tree": [
-    "vegetable"
+    "vegetable",
+    "palm_tree"
   ],
   "cactus": [
     "vegetable"
+  ],
+  "ear_of_rice": [
+    "ear_of_rice"
   ],
   "herb": [
     "vegetable",
@@ -949,23 +1166,36 @@
   ],
   "four_leaf_clover": [
     "vegetable",
-    "lucky"
+    "lucky",
+    "four_leaf_clover"
   ],
   "maple_leaf": [
-    "vegetable"
+    "vegetable",
+    "maple_leaf"
   ],
   "fallen_leaf": [
     "vegetable",
-    "leaves"
+    "leaves",
+    "fallen_leaf"
   ],
   "leaf_fluttering_in_wind": [
     "tree",
     "vegetable",
     "grass",
-    "lawn"
+    "lawn",
+    "leaves"
+  ],
+  "grapes": [
+    "grapes"
   ],
   "red_apple": [
     "mac"
+  ],
+  "green_apple": [
+    "green_apple"
+  ],
+  "cherries": [
+    "cherries"
   ],
   "tomato": [
     "fruit"
@@ -987,10 +1217,12 @@
     "toast"
   ],
   "meat_on_bone": [
-    "good"
+    "good",
+    "meat_on_bone"
   ],
   "poultry_leg": [
-    "meat"
+    "meat",
+    "poultry_leg"
   ],
   "hamburger": [
     "fastfood"
@@ -1002,7 +1234,11 @@
     "japanese"
   ],
   "rice_cracker": [
-    "japanese"
+    "japanese",
+    "rice_cracker"
+  ],
+  "rice_ball": [
+    "rice_ball"
   ],
   "steaming_bowl": [
     "japanese",
@@ -1012,6 +1248,9 @@
     "italian",
     "noodle"
   ],
+  "roasted_sweet_potato": [
+    "sweet_potato"
+  ],
   "oden": [
     "japanese"
   ],
@@ -1019,7 +1258,11 @@
     "japanese"
   ],
   "fried_shrimp": [
-    "animal"
+    "animal",
+    "fried_shrimp"
+  ],
+  "fish_cake_with_swirl_design": [
+    "fish_cake"
   ],
   "soft_ice_cream": [
     "hot",
@@ -1027,11 +1270,13 @@
   ],
   "shaved_ice": [
     "hot",
-    "desert"
+    "desert",
+    "shaved_ice"
   ],
   "ice_cream": [
     "hot",
-    "desert"
+    "desert",
+    "ice_cream"
   ],
   "doughnut": [
     "desert",
@@ -1050,7 +1295,8 @@
   ],
   "chocolate_bar": [
     "snack",
-    "desert"
+    "desert",
+    "chocolate_bar"
   ],
   "candy": [
     "snack",
@@ -1063,11 +1309,13 @@
     "desert"
   ],
   "honey_pot": [
-    "bees"
+    "bees",
+    "honey_pot"
   ],
   "baby_bottle": [
     "food",
-    "container"
+    "container",
+    "baby_bottle"
   ],
   "hot_beverage": [
     "cafe",
@@ -1084,7 +1332,8 @@
     "drunk"
   ],
   "wine_glass": [
-    "drunk"
+    "drunk",
+    "wine_glass"
   ],
   "cocktail_glass": [
     "drunk",
@@ -1092,7 +1341,8 @@
     "beverage"
   ],
   "tropical_drink": [
-    "beverage"
+    "beverage",
+    "tropical_drink"
   ],
   "beer_mug": [
     "relax",
@@ -1106,36 +1356,44 @@
     "beverage",
     "drunk",
     "party",
-    "pub"
+    "pub",
+    "beers"
   ],
   "fork_and_knife": [
     "cutlery",
-    "kitchen"
+    "kitchen",
+    "fork_and_knife"
   ],
   "earth_globe_europe-africa": [
-    "international"
+    "international",
+    "earth_africa"
   ],
   "earth_globe_americas": [
     "USA",
-    "international"
+    "international",
+    "earth_americas"
   ],
   "earth_globe_asia-australia": [
     "east",
-    "international"
+    "international",
+    "earth_asia"
   ],
   "globe_with_meridians": [
-    "international"
+    "international",
+    "globe_with_meridians"
   ],
   "volcano": [
     "photo"
   ],
   "mount_fuji": [
     "photo",
-    "japan"
+    "japan",
+    "mount_fuji"
   ],
   "house_with_garden": [
     "plant",
-    "nature"
+    "nature",
+    "house_with_garden"
   ],
   "church": [
     "christ"
@@ -1146,7 +1404,11 @@
   ],
   "japanese_post_office": [
     "email",
-    "communication"
+    "communication",
+    "post_office"
+  ],
+  "european_post_office": [
+    "european_post_office"
   ],
   "hospital": [
     "health",
@@ -1161,14 +1423,23 @@
   "love_hotel": [
     "like",
     "affection",
-    "dating"
+    "dating",
+    "love_hotel"
+  ],
+  "convenience_store": [
+    "convenience_store"
   ],
   "department_store": [
     "shopping",
-    "mall"
+    "mall",
+    "department_store"
   ],
   "japanese_castle": [
-    "photo"
+    "photo",
+    "japanese_castle"
+  ],
+  "european_castle": [
+    "european_castle"
   ],
   "wedding": [
     "love",
@@ -1179,11 +1450,13 @@
   ],
   "tokyo_tower": [
     "photo",
-    "japan"
+    "japan",
+    "tokyo_tower"
   ],
   "statue_of_liberty": [
     "american",
-    "newyork"
+    "newyork",
+    "statue_of_liberty"
   ],
   "silhouette_of_japan": [
     "nation"
@@ -1197,15 +1470,18 @@
     "outdoors"
   ],
   "foggy": [
-    "photo"
+    "photo",
+    "foggy"
   ],
   "night_with_stars": [
-    "photo"
+    "photo",
+    "stars"
   ],
   "sunrise_over_mountains": [
     "view",
     "vacation",
-    "photo"
+    "photo",
+    "sunrise_over_mountains"
   ],
   "sunrise": [
     "view",
@@ -1213,14 +1489,17 @@
     "photo"
   ],
   "cityscape_at_dusk": [
-    "photo"
+    "photo",
+    "city_sunset"
   ],
   "sunset_over_buildings": [
-    "photo"
+    "photo",
+    "city_sunrise"
   ],
   "bridge_at_night": [
     "photo",
-    "sanfrancisco"
+    "sanfrancisco",
+    "bridge_at_night"
   ],
   "water_wave": [
     "sea"
@@ -1232,23 +1511,27 @@
     "stone"
   ],
   "milky_way": [
-    "photo"
+    "photo",
+    "milky_way"
   ],
   "carousel_horse": [
     "photo",
-    "carnival"
+    "carnival",
+    "carousel_horse"
   ],
   "ferris_wheel": [
     "photo",
     "carnival",
-    "londoneye"
+    "londoneye",
+    "ferris_wheel"
   ],
   "roller_coaster": [
     "carnival",
     "playground",
     "photo",
     "play",
-    "fun"
+    "fun",
+    "roller_coaster"
   ],
   "barber_pole": [
     "hair",
@@ -1258,11 +1541,13 @@
   "circus_tent": [
     "festival",
     "carnival",
-    "party"
+    "party",
+    "circus_tent"
   ],
   "performing_arts": [
     "acting",
-    "drama"
+    "drama",
+    "performing_arts"
   ],
   "artist_palette": [
     "design",
@@ -1272,22 +1557,29 @@
   "slot_machine": [
     "bet",
     "gamble",
-    "vegas"
+    "vegas",
+    "slot_machine"
   ],
   "steam_locomotive": [
-    "transportation"
+    "transportation",
+    "steam_locomotive"
   ],
   "railway_car": [
+    "transportation",
+    "railway_car",
     "transportation"
   ],
   "high-speed_train": [
-    "transportation"
+    "transportation",
+    "bullettrain_side"
   ],
   "high-speed_train_with_bullet_nose": [
-    "transportation"
+    "transportation",
+    "bullettrain_front"
   ],
   "train": [
-    "transportation"
+    "transportation",
+    "train2"
   ],
   "metro": [
     "transportation",
@@ -1297,7 +1589,8 @@
     "tube"
   ],
   "light_rail": [
-    "transportation"
+    "transportation",
+    "light_rail"
   ],
   "station": [
     "transportation",
@@ -1310,14 +1603,16 @@
     "transportation"
   ],
   "mountain_railway": [
-    "transportation"
+    "transportation",
+    "mountain_railway"
   ],
   "bus": [
     "car",
     "transportation"
   ],
   "oncoming_bus": [
-    "transportation"
+    "transportation",
+    "oncoming_bus"
   ],
   "trolleybus": [
     "bart",
@@ -1336,19 +1631,22 @@
   ],
   "fire_engine": [
     "transportation",
-    "cars"
+    "cars",
+    "fire_engine"
   ],
   "police_car": [
     "cars",
     "transportation",
     "law",
     "enforcement",
-    "cops"
+    "cops",
+    "police_car"
   ],
   "oncoming_police_car": [
     "law",
     "enforcement",
-    "cops"
+    "cops",
+    "oncoming_police_car"
   ],
   "taxi": [
     "uber",
@@ -1357,16 +1655,21 @@
   ],
   "oncoming_taxi": [
     "cars",
-    "uber"
+    "uber",
+    "oncoming_taxi"
   ],
   "automobile": [
-    "transportation"
+    "transportation",
+    "transportation",
+    "red_car"
   ],
   "oncoming_automobile": [
-    "transportation"
+    "transportation",
+    "oncoming_automobile"
   ],
   "recreational_vehicle": [
-    "car"
+    "car",
+    "blue_car"
   ],
   "delivery_truck": [
     "cars",
@@ -1374,7 +1677,8 @@
   ],
   "articulated_lorry": [
     "cars",
-    "transportation"
+    "transportation",
+    "articulated_lorry"
   ],
   "tractor": [
     "car",
@@ -1386,13 +1690,17 @@
     "exercise",
     "hipster"
   ],
+  "no_bicycles": [
+    "no_bicycles"
+  ],
   "fuel_pump": [
     "gas station"
   ],
   "police_cars_revolving_light": [
     "ambulance",
     "911",
-    "emergency"
+    "emergency",
+    "rotating_light"
   ],
   "anchor": [
     "ferry"
@@ -1402,6 +1710,7 @@
     "spear"
   ],
   "sailboat": [
+    "transportation",
     "transportation",
     "ship"
   ],
@@ -1430,13 +1739,16 @@
     "transportation"
   ],
   "suspension_railway": [
-    "transportation"
+    "transportation",
+    "suspension_railway"
   ],
   "mountain_cableway": [
-    "transportation"
+    "transportation",
+    "mountain_cableway"
   ],
   "aerial_tramway": [
-    "transportation"
+    "transportation",
+    "aerial_tramway"
   ],
   "rocket": [
     "launch",
@@ -1449,54 +1761,71 @@
     "blue-square"
   ],
   "put_litter_in_its_place_symbol": [
-    "blue-square"
+    "blue-square",
+    "put_litter_in_its_place"
   ],
   "horizontal_traffic_light": [
-    "transportation"
+    "transportation",
+    "traffic_light"
   ],
   "vertical_traffic_light": [
-    "transportation"
+    "transportation",
+    "vertical_traffic_light"
   ],
   "construction_sign": [
     "wip"
   ],
+  "no_entry_sign": [
+    "no_entry_sign"
+  ],
   "no_smoking_symbol": [
-    "cigarette"
+    "cigarette",
+    "no_smoking"
   ],
   "do_not_litter_symbol": [
     "trash",
     "bin",
-    "garbage"
+    "garbage",
+    "do_not_litter"
   ],
   "potable_water_symbol": [
     "blue-square",
     "liquid",
     "restroom",
     "cleaning",
-    "faucet"
+    "faucet",
+    "potable_water"
+  ],
+  "non-potable_water_symbol": [
+    "non-potable_water"
   ],
   "no_pedestrians": [
-    "limit"
+    "limit",
+    "no_pedestrians"
   ],
   "children_crossing": [
-    "school"
+    "school",
+    "children_crossing"
   ],
   "wheelchair_symbol": [
     "blue-square",
     "disabled"
   ],
   "mens_symbol": [
-    "toilet"
+    "toilet",
+    "mens"
   ],
   "womens_symbol": [
-    "purple-square"
+    "purple-square",
+    "womens"
   ],
   "restroom": [
     "blue-square"
   ],
   "baby_symbol": [
     "orange-square",
-    "child"
+    "child",
+    "baby_symbol"
   ],
   "water_closet": [
     "toilet",
@@ -1504,7 +1833,8 @@
   ],
   "passport_control": [
     "custom",
-    "blue-square"
+    "blue-square",
+    "passport_control"
   ],
   "customs": [
     "passport",
@@ -1513,10 +1843,12 @@
   "baggage_claim": [
     "blue-square",
     "airport",
-    "transport"
+    "transport",
+    "baggage_claim"
   ],
   "left_luggage": [
-    "blue-square"
+    "blue-square",
+    "left_luggage"
   ],
   "warning_sign": [
     "exclamation",
@@ -1525,7 +1857,8 @@
   "no_entry": [
     "limit",
     "security",
-    "privacy"
+    "privacy",
+    "no_entry"
   ],
   "door": [
     "house",
@@ -1554,13 +1887,87 @@
   ],
   "hourglass_with_flowing_sand": [
     "oldschool",
-    "countdown"
+    "countdown",
+    "hourglass_flowing_sand"
   ],
   "watch": [
     "accessories"
   ],
   "alarm_clock": [
-    "wake"
+    "wake",
+    "alarm_clock"
+  ],
+  "clock_face_twelve_oclock": [
+    "clock12"
+  ],
+  "clock_face_twelve-thirty": [
+    "clock1230"
+  ],
+  "clock_face_one_oclock": [
+    "clock1"
+  ],
+  "clock_face_one-thirty": [
+    "clock130"
+  ],
+  "clock_face_two_oclock": [
+    "clock2"
+  ],
+  "clock_face_two-thirty": [
+    "clock230"
+  ],
+  "clock_face_three_oclock": [
+    "clock3"
+  ],
+  "clock_face_three-thirty": [
+    "clock330"
+  ],
+  "clock_face_four_oclock": [
+    "clock4"
+  ],
+  "clock_face_four-thirty": [
+    "clock430"
+  ],
+  "clock_face_five_oclock": [
+    "clock5"
+  ],
+  "clock_face_five-thirty": [
+    "clock530"
+  ],
+  "clock_face_six_oclock": [
+    "clock6"
+  ],
+  "clock_face_six-thirty": [
+    "clock630"
+  ],
+  "clock_face_seven_oclock": [
+    "clock7"
+  ],
+  "clock_face_seven-thirty": [
+    "clock730"
+  ],
+  "clock_face_eight_oclock": [
+    "clock8"
+  ],
+  "clock_face_eight-thirty": [
+    "clock830"
+  ],
+  "clock_face_nine_oclock": [
+    "clock9"
+  ],
+  "clock_face_nine-thirty": [
+    "clock930"
+  ],
+  "clock_face_ten_oclock": [
+    "clock10"
+  ],
+  "clock_face_ten-thirty": [
+    "clock1030"
+  ],
+  "clock_face_eleven_oclock": [
+    "clock11"
+  ],
+  "clock_face_eleven-thirty": [
+    "clock1130"
   ],
   "aries": [
     "sign",
@@ -1608,17 +2015,59 @@
     "sign",
     "purple-square"
   ],
+  "new_moon_symbol": [
+    "new_moon"
+  ],
+  "waxing_crescent_moon_symbol": [
+    "waxing_crescent_moon"
+  ],
+  "first_quarter_moon_symbol": [
+    "first_quarter_moon"
+  ],
+  "waxing_gibbous_moon_symbol": [
+    "waxing_gibbous_moon"
+  ],
+  "full_moon_symbol": [
+    "full_moon"
+  ],
+  "waning_gibbous_moon_symbol": [
+    "waning_gibbous_moon"
+  ],
+  "last_quarter_moon_symbol": [
+    "last_quarter_moon"
+  ],
+  "waning_crescent_moon_symbol": [
+    "waning_crescent_moon"
+  ],
+  "crescent_moon": [
+    "night",
+    "crescent_moon"
+  ],
+  "new_moon_with_face": [
+    "new_moon_with_face"
+  ],
+  "first_quarter_moon_with_face": [
+    "first_quarter_moon_with_face"
+  ],
+  "last_quarter_moon_with_face": [
+    "last_quarter_moon_with_face"
+  ],
   "black_sun_with_rays": [
     "brightness"
   ],
+  "full_moon_with_face": [
+    "full_moon_with_face"
+  ],
   "sun_with_face": [
-    "morning"
+    "morning",
+    "sun_with_face"
   ],
   "cloud": [
     "sky"
   ],
   "sun_behind_cloud": [
-    "morning"
+    "morning",
+    "partly_sunny"
   ],
   "cyclone": [
     "swirl"
@@ -1628,6 +2077,9 @@
     "unicorn",
     "photo",
     "sky"
+  ],
+  "closed_umbrella": [
+    "closed_umbrella"
   ],
   "snowflake": [
     "winter",
@@ -1642,20 +2094,23 @@
     "xmas"
   ],
   "glowing_star": [
-    "night"
+    "night",
+    "star2"
   ],
   "fire": [
     "hot",
     "cook"
   ],
   "jack-o-lantern": [
-    "pumpkin"
+    "pumpkin",
+    "jack_o_lantern"
   ],
   "christmas_tree": [
     "festival",
     "vacation",
     "december",
-    "xmas"
+    "xmas",
+    "christmas_tree"
   ],
   "fireworks": [
     "photo",
@@ -1666,13 +2121,15 @@
   "firework_sparkler": [
     "stars",
     "night",
-    "shine"
+    "shine",
+    "sparkler"
   ],
   "sparkles": [
     "stars",
     "shine",
     "shiny",
-    "cool"
+    "cool",
+    "sparkles"
   ],
   "balloon": [
     "party"
@@ -1682,14 +2139,17 @@
   ],
   "confetti_ball": [
     "festival",
-    "party"
+    "party",
+    "confetti_ball"
   ],
   "tanabata_tree": [
     "plant",
-    "nature"
+    "nature",
+    "tanabata_tree"
   ],
   "crossed_flags": [
-    "japan"
+    "japan",
+    "crossed_flags"
   ],
   "pine_decoration": [
     "nature",
@@ -1697,28 +2157,36 @@
   ],
   "japanese_dolls": [
     "toy",
-    "kimono"
+    "kimono",
+    "dolls"
   ],
   "carp_streamer": [
     "fish",
     "japanese",
-    "koinobori"
+    "koinobori",
+    "flags"
   ],
   "wind_chime": [
     "nature",
-    "ding"
+    "ding",
+    "wind_chime"
   ],
   "moon_viewing_ceremony": [
-    "photo"
+    "photo",
+    "rice_scene"
   ],
   "graduation_cap": [
     "school",
     "college",
     "degree",
-    "university"
+    "university",
+    "mortar_board"
   ],
   "direct_hit": [
     "bar"
+  ],
+  "flower_playing_cards": [
+    "flower_playing_cards"
   ],
   "ribbon": [
     "decoration",
@@ -1755,7 +2223,8 @@
     "balls"
   ],
   "rugby_football": [
-    "sports"
+    "sports",
+    "rugby_football"
   ],
   "tennis_racquet_and_ball": [
     "sports",
@@ -1763,7 +2232,8 @@
     "green"
   ],
   "billiards": [
-    "pool"
+    "pool",
+    "8ball"
   ],
   "bowling": [
     "sports",
@@ -1776,10 +2246,12 @@
   ],
   "fishing_pole_and_fish": [
     "food",
-    "hobby"
+    "hobby",
+    "fishing_pole_and_fish"
   ],
   "running_shirt_with_sash": [
-    "play"
+    "play",
+    "running_shirt_with_sash"
   ],
   "ski_and_ski_boot": [
     "sports",
@@ -1787,7 +2259,8 @@
     "cold"
   ],
   "snowboarder": [
-    "sports"
+    "sports",
+    "snowboarder"
   ],
   "surfer": [
     "sports",
@@ -1796,7 +2269,8 @@
   ],
   "horse_racing": [
     "animal",
-    "betting"
+    "betting",
+    "horse_racing"
   ],
   "swimmer": [
     "sports",
@@ -1810,7 +2284,8 @@
   "mountain_bicyclist": [
     "transportation",
     "sports",
-    "human"
+    "human",
+    "mountain_bicyclist"
   ],
   "trophy": [
     "win",
@@ -1820,11 +2295,16 @@
     "ceremony"
   ],
   "video_game": [
-    "play"
+    "play",
+    "video_game"
+  ],
+  "game_die": [
+    "game_die"
   ],
   "black_spade_suit": [
     "poker",
-    "cards"
+    "cards",
+    "spades"
   ],
   "black_heart_suit": [
     "poker",
@@ -1840,7 +2320,8 @@
   ],
   "playing_card_black_joker": [
     "poker",
-    "cards"
+    "cards",
+    "black_joker"
   ],
   "mahjong_tile_red_dragon": [
     "chinese",
@@ -1851,11 +2332,13 @@
   ],
   "cheering_megaphone": [
     "speaker",
-    "volume"
+    "volume",
+    "mega"
   ],
   "postal_horn": [
     "instrument",
-    "music"
+    "music",
+    "postal_horn"
   ],
   "bell": [
     "notification",
@@ -1863,10 +2346,12 @@
     "xmas"
   ],
   "bell_with_cancellation_stroke": [
-    "volume"
+    "volume",
+    "no_bell"
   ],
   "twisted_rightwards_arrows": [
-    "blue-square"
+    "blue-square",
+    "twisted_rightwards_arrows"
   ],
   "clockwise_rightwards_and_leftwards_open_circle_arrows": [
     "loop",
@@ -1874,35 +2359,47 @@
   ],
   "clockwise_rightwards_and_leftwards_open_circle_arrows_with_circled_one_overlay": [
     "blue-square",
-    "loop"
+    "loop",
+    "repeat_one"
   ],
   "black_right-pointing_triangle": [
-    "blue-square"
+    "blue-square",
+    "arrow_forward"
   ],
   "black_right-pointing_double_triangle": [
-    "blue-square"
+    "blue-square",
+    "fast_forward"
   ],
   "black_left-pointing_triangle": [
-    "blue-square"
+    "blue-square",
+    "arrow_backward"
   ],
   "black_left-pointing_double_triangle": [
     "play",
     "blue-square"
   ],
   "up-pointing_small_red_triangle": [
-    "blue-square"
+    "blue-square",
+    "arrow_up_small"
   ],
   "black_up-pointing_double_triangle": [
-    "blue-square"
+    "blue-square",
+    "arrow_double_up"
   ],
   "down-pointing_small_red_triangle": [
-    "blue-square"
+    "blue-square",
+    "arrow_down_small"
   ],
   "black_down-pointing_double_triangle": [
-    "blue-square"
+    "blue-square",
+    "arrow_double_down"
+  ],
+  "musical_score": [
+    "musical_score"
   ],
   "musical_note": [
-    "score"
+    "score",
+    "musical_note"
   ],
   "multiple_musical_notes": [
     "score"
@@ -1914,7 +2411,11 @@
   "headphone": [
     "music",
     "score",
-    "gadgets"
+    "gadgets",
+    "headphones"
+  ],
+  "musical_keyboard": [
+    "musical_keyboard"
   ],
   "radio": [
     "communication",
@@ -1925,28 +2426,36 @@
   "mobile_phone": [
     "technology",
     "apple",
-    "gadgets"
+    "gadgets",
+    "iphone"
   ],
   "vibration_mode": [
-    "orange-square"
+    "orange-square",
+    "vibration_mode"
   ],
   "mobile_phone_off": [
-    "mute"
+    "mute",
+    "mobile_phone_off"
   ],
   "mobile_phone_with_rightwards_arrow_at_left": [
     "iphone",
-    "incoming"
+    "incoming",
+    "calling"
   ],
   "no_mobile_phones": [
     "iphone",
-    "mute"
+    "mute",
+    "no_mobile_phones"
   ],
   "black_telephone": [
+    "technology",
+    "communication",
     "communication",
     "technology"
   ],
   "telephone_receiver": [
-    "technology"
+    "technology",
+    "telephone_receiver"
   ],
   "keycap_digit_zero": [
     "numbers",
@@ -1994,10 +2503,12 @@
   ],
   "keycap_ten": [
     "numbers",
-    "blue-square"
+    "blue-square",
+    "keycap_ten"
   ],
   "antenna_with_bars": [
-    "blue-square"
+    "blue-square",
+    "signal_strength"
   ],
   "pager": [
     "bbcall",
@@ -2014,7 +2525,8 @@
   ],
   "electric_plug": [
     "charger",
-    "power"
+    "power",
+    "electric_plug"
   ],
   "personal_computer": [
     "tech",
@@ -2023,20 +2535,23 @@
   "minidisc": [
     "technology",
     "record",
-    "data"
+    "data",
+    "minidisc"
   ],
   "floppy_disk": [
     "oldschool",
     "technology",
     "save",
-    "vintage"
+    "vintage",
+    "floppy_disk"
   ],
   "optical_disc": [
     "technology"
   ],
   "movie_camera": [
     "film",
-    "record"
+    "record",
+    "movie_camera"
   ],
   "cinema": [
     "blue-square",
@@ -2057,24 +2572,29 @@
     "photo"
   ],
   "video_camera": [
-    "film"
+    "film",
+    "video_camera"
   ],
   "videocassette": [
     "record",
     "oldschool"
   ],
   "low_brightness_symbol": [
-    "sun"
+    "sun",
+    "low_brightness"
   ],
   "high_brightness_symbol": [
     "sun",
-    "light"
+    "light",
+    "high_brightness"
   ],
   "left-pointing_magnifying_glass": [
-    "zoom"
+    "zoom",
+    "mag"
   ],
   "right-pointing_magnifying_glass": [
-    "zoom"
+    "zoom",
+    "mag_right"
   ],
   "microscope": [
     "laboratory",
@@ -2091,30 +2611,43 @@
   "electric_torch": [
     "dark"
   ],
+  "izakaya_lantern": [
+    "izakaya_lantern"
+  ],
+  "notebook_with_decorative_cover": [
+    "notebook_with_decorative_cover"
+  ],
   "closed_book": [
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "closed_book"
   ],
   "open_book": [
+    "library",
+    "literature",
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "open_book"
   ],
   "green_book": [
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "green_book"
   ],
   "blue_book": [
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "blue_book"
   ],
   "orange_book": [
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "orange_book"
   ],
   "books": [
     "literature",
@@ -2127,19 +2660,22 @@
     "notes"
   ],
   "page_with_curl": [
-    "documents"
+    "documents",
+    "page_with_curl"
   ],
   "scroll": [
     "documents"
   ],
   "page_facing_up": [
-    "documents"
+    "documents",
+    "page_facing_up"
   ],
   "newspaper": [
     "press"
   ],
   "bookmark_tabs": [
-    "favorite"
+    "favorite",
+    "bookmark_tabs"
   ],
   "bookmark": [
     "favorite"
@@ -2159,20 +2695,28 @@
     "england"
   ],
   "money_with_wings": [
-    "bills"
+    "bills",
+    "money_with_wings"
   ],
   "currency_exchange": [
-    "dollar"
+    "dollar",
+    "currency_exchange"
+  ],
+  "heavy_dollar_sign": [
+    "heavy_dollar_sign"
   ],
   "credit_card": [
     "pay",
     "dollar",
-    "bill"
+    "bill",
+    "credit_card"
   ],
   "chart_with_upwards_trend_and_yen_sign": [
     "green-square"
   ],
   "envelope": [
+    "inbox",
+    "communication",
     "mail",
     "letter",
     "postal",
@@ -2182,14 +2726,17 @@
     "inbox"
   ],
   "incoming_envelope": [
-    "inbox"
+    "inbox",
+    "incoming_envelope"
   ],
   "outbox_tray": [
     "inbox",
-    "email"
+    "email",
+    "outbox_tray"
   ],
   "inbox_tray": [
-    "email"
+    "email",
+    "inbox_tray"
   ],
   "package": [
     "mail",
@@ -2201,15 +2748,18 @@
   ],
   "closed_mailbox_with_lowered_flag": [
     "email",
-    "inbox"
+    "inbox",
+    "mailbox_closed"
   ],
   "open_mailbox_with_raised_flag": [
     "email",
-    "inbox"
+    "inbox",
+    "mailbox_with_mail"
   ],
   "open_mailbox_with_lowered_flag": [
     "email",
-    "inbox"
+    "inbox",
+    "mailbox_with_no_mail"
   ],
   "postbox": [
     "email",
@@ -2217,10 +2767,12 @@
     "envelope"
   ],
   "pencil": [
-    "stationery"
+    "stationery",
+    "pencil2"
   ],
   "black_nib": [
-    "stationery"
+    "stationery",
+    "black_nib"
   ],
   "memo": [
     "documents",
@@ -2234,10 +2786,12 @@
     "work"
   ],
   "file_folder": [
-    "documents"
+    "documents",
+    "file_folder"
   ],
   "open_file_folder": [
-    "documents"
+    "documents",
+    "open_file_folder"
   ],
   "calendar": [
     "schedule"
@@ -2247,11 +2801,19 @@
   ],
   "card_index": [
     "business",
-    "stationery"
+    "stationery",
+    "card_index"
+  ],
+  "chart_with_upwards_trend": [
+    "chart_with_upwards_trend"
+  ],
+  "chart_with_downwards_trend": [
+    "chart_with_downwards_trend"
   ],
   "bar_chart": [
     "presentation",
-    "stats"
+    "stats",
+    "bar_chart"
   ],
   "clipboard": [
     "stationery",
@@ -2261,23 +2823,27 @@
     "stationery"
   ],
   "round_pushpin": [
-    "stationery"
+    "stationery",
+    "round_pushpin"
   ],
   "paperclip": [
     "documents",
     "stationery"
   ],
   "straight_ruler": [
-    "stationery"
+    "stationery",
+    "straight_ruler"
   ],
   "triangular_ruler": [
     "stationery",
     "math",
     "architect",
-    "sketch"
+    "sketch",
+    "triangular_ruler"
   ],
   "name_badge": [
-    "fire"
+    "fire",
+    "name_badge"
   ],
   "black_scissors": [
     "stationery",
@@ -2292,11 +2858,13 @@
   ],
   "lock_with_ink_pen": [
     "security",
-    "secret"
+    "secret",
+    "lock_with_ink_pen"
   ],
   "closed_lock_with_key": [
     "security",
-    "privacy"
+    "privacy",
+    "closed_lock_with_key"
   ],
   "key": [
     "door"
@@ -2314,7 +2882,8 @@
   ],
   "nut_and_bolt": [
     "handy",
-    "tools"
+    "tools",
+    "nut_and_bolt"
   ],
   "link_symbol": [
     "rings",
@@ -2344,50 +2913,74 @@
     "contest",
     "finishline",
     "rase",
-    "gokart"
+    "gokart",
+    "checkered_flag"
+  ],
+  "triangular_flag_on_post": [
+    "triangular_flag_on_post"
   ],
   "upwards_black_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_up"
   ],
   "north_east_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_upper_right"
   ],
   "black_rightwards_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_right"
   ],
   "south_east_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_lower_right"
   ],
   "downwards_black_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_down"
   ],
   "south_west_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_lower_left"
   ],
   "leftwards_black_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_left"
   ],
   "north_west_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_upper_left"
   ],
   "up_down_arrow": [
-    "blue-square"
+    "blue-square",
+    "arrow_up_down"
+  ],
+  "left_right_arrow": [
+    "left_right_arrow"
+  ],
+  "leftwards_arrow_with_hook": [
+    "leftwards_arrow_with_hook"
   ],
   "rightwards_arrow_with_hook": [
-    "blue-square"
+    "blue-square",
+    "arrow_right_hook"
   ],
   "arrow_pointing_rightwards_then_curving_upwards": [
-    "blue-square"
+    "blue-square",
+    "arrow_heading_up"
   ],
   "arrow_pointing_rightwards_then_curving_downwards": [
-    "blue-square"
+    "blue-square",
+    "arrow_heading_down"
   ],
   "clockwise_downwards_and_upwards_open_circle_arrows": [
-    "sync"
+    "sync",
+    "arrows_clockwise"
   ],
   "anticlockwise_downwards_and_upwards_open_circle_arrows": [
     "blue-square",
-    "sync"
+    "sync",
+    "arrows_counterclockwise"
   ],
   "end_with_leftwards_arrow_above": [
     "words"
@@ -2408,10 +3001,12 @@
   ],
   "crystal_ball": [
     "disco",
-    "party"
+    "party",
+    "crystal_ball"
   ],
   "six_pointed_star_with_middle_dot": [
-    "purple-square"
+    "purple-square",
+    "six_pointed_star"
   ],
   "black_universal_recycling_symbol": [
     "arrow",
@@ -2433,11 +3028,13 @@
   "white_heavy_check_mark": [
     "green-square",
     "ok",
-    "agree"
+    "agree",
+    "white_check_mark"
   ],
   "ballot_box_with_check": [
     "ok",
-    "agree"
+    "agree",
+    "ballot_box_with_check"
   ],
   "cross_mark": [
     "no"
@@ -2446,32 +3043,42 @@
     "x",
     "green-square",
     "no",
-    "deny"
+    "deny",
+    "negative_squared_cross_mark"
   ],
   "heavy_plus_sign": [
-    "calculation"
+    "calculation",
+    "heavy_plus_sign"
   ],
   "heavy_minus_sign": [
-    "calculation"
+    "calculation",
+    "heavy_minus_sign"
   ],
   "heavy_division_sign": [
     "divide",
-    "calculation"
+    "calculation",
+    "heavy_division_sign"
   ],
   "curly_loop": [
-    "scribble"
+    "scribble",
+    "curly_loop"
   ],
   "double_curly_loop": [
     "tape",
     "cassette"
   ],
   "part_alternation_mark": [
-    "graph"
+    "graph",
+    "part_alternation_mark"
   ],
   "eight_spoked_asterisk": [
     "star",
     "sparkle",
-    "green-square"
+    "green-square",
+    "eight_spoked_asterisk"
+  ],
+  "eight_pointed_black_star": [
+    "eight_pointed_black_star"
   ],
   "sparkle": [
     "stars",
@@ -2488,15 +3095,22 @@
     "confused"
   ],
   "white_question_mark_ornament": [
-    "doubts"
+    "doubts",
+    "grey_question"
+  ],
+  "white_exclamation_mark_ornament": [
+    "grey_exclamation"
   ],
   "heavy_exclamation_mark_symbol": [
     "surprise",
-    "wow"
+    "surprise",
+    "wow",
+    "heavy_exclamation_mark"
   ],
   "wavy_dash": [
     "draw",
-    "line"
+    "line",
+    "wavy_dash"
   ],
   "copyright_sign": [
     "ip",
@@ -2521,7 +3135,8 @@
   "input_symbol_for_latin_capital_letters": [
     "alphabet",
     "words",
-    "blue-square"
+    "blue-square",
+    "capital_abcd"
   ],
   "input_symbol_for_latin_small_letters": [
     "blue-square",
@@ -2531,7 +3146,8 @@
     "blue-square"
   ],
   "input_symbol_for_symbols": [
-    "blue-square"
+    "blue-square",
+    "symbols"
   ],
   "input_symbol_for_latin_letters": [
     "blue-square"
@@ -2563,7 +3179,8 @@
   ],
   "information_source": [
     "blue-square",
-    "alphabet"
+    "alphabet",
+    "information_source"
   ],
   "squared_id": [
     "purple-square",
@@ -2581,7 +3198,8 @@
   ],
   "negative_squared_latin_capital_letter_o": [
     "alphabet",
-    "red-square"
+    "red-square",
+    "o2"
   ],
   "squared_ok": [
     "good",
@@ -2610,76 +3228,89 @@
     "blue-square",
     "here",
     "katakana",
-    "destination"
+    "destination",
+    "koko"
   ],
   "squared_katakana_sa": [
-    "blue-square"
+    "blue-square",
+    "sa"
   ],
   "squared_cjk_unified_ideograph-6708": [
     "chinese",
     "moon",
     "orange-square",
-    "kanji"
+    "kanji",
+    "u6708"
   ],
   "squared_cjk_unified_ideograph-6709": [
     "orange-square",
     "chinese",
     "have",
-    "kanji"
+    "kanji",
+    "u6709"
   ],
   "squared_cjk_unified_ideograph-6307": [
     "chinese",
     "point",
     "green-square",
-    "kanji"
+    "kanji",
+    "u6307"
   ],
   "circled_ideograph_advantage": [
     "chinese",
     "kanji",
     "obtain",
-    "get"
+    "get",
+    "ideograph_advantage"
   ],
   "squared_cjk_unified_ideograph-5272": [
     "cut",
     "divide",
     "chinese",
     "kanji",
-    "pink"
+    "pink",
+    "u5272"
   ],
   "squared_cjk_unified_ideograph-7121": [
     "no",
     "nothing",
     "chinese",
     "kanji",
-    "orange-square"
+    "orange-square",
+    "u7121"
   ],
   "squared_cjk_unified_ideograph-7981": [
     "kanji",
     "chinese",
     "forbidden",
     "limit",
-    "restricted"
+    "restricted",
+    "u7981"
   ],
   "circled_ideograph_accept": [
     "ok",
     "good",
     "kanji",
     "agree",
-    "yes"
+    "yes",
+    "accept"
   ],
   "squared_cjk_unified_ideograph-7533": [
     "japanese",
-    "kanji"
+    "kanji",
+    "u7533"
   ],
   "squared_cjk_unified_ideograph-5408": [
     "japanese",
     "join",
-    "kanji"
+    "kanji",
+    "u5408"
   ],
   "squared_cjk_unified_ideograph-7a7a": [
     "kanji",
     "japanese",
-    "empty"
+    "empty",
+    "u7a7a"
   ],
   "circled_ideograph_congratulation": [
     "kanji",
@@ -2690,18 +3321,82 @@
   ],
   "squared_cjk_unified_ideograph-55b6": [
     "japanese",
-    "opening hours"
+    "opening hours",
+    "u55b6"
   ],
   "squared_cjk_unified_ideograph-6e80": [
     "full",
     "japanese",
     "red-square",
-    "kanji"
+    "kanji",
+    "u6e80"
+  ],
+  "black_small_square": [
+    "black_small_square"
+  ],
+  "white_small_square": [
+    "white_small_square"
+  ],
+  "white_medium_square": [
+    "white_medium_square"
+  ],
+  "black_medium_square": [
+    "black_medium_square"
+  ],
+  "white_medium_small_square": [
+    "white_medium_small_square"
+  ],
+  "black_medium_small_square": [
+    "black_medium_small_square"
+  ],
+  "black_large_square": [
+    "black_large_square"
+  ],
+  "white_large_square": [
+    "white_large_square"
+  ],
+  "large_orange_diamond": [
+    "large_orange_diamond"
+  ],
+  "large_blue_diamond": [
+    "large_blue_diamond"
+  ],
+  "small_orange_diamond": [
+    "small_orange_diamond"
+  ],
+  "small_blue_diamond": [
+    "small_blue_diamond"
+  ],
+  "up-pointing_red_triangle": [
+    "small_red_triangle"
+  ],
+  "down-pointing_red_triangle": [
+    "small_red_triangle_down"
+  ],
+  "diamond_shape_with_a_dot_inside": [
+    "diamond_shape_with_a_dot_inside"
   ],
   "radio_button": [
-    "input"
+    "input",
+    "radio_button"
+  ],
+  "black_square_button": [
+    "black_square_button"
+  ],
+  "white_square_button": [
+    "white_square_button"
+  ],
+  "medium_white_circle": [
+    "white_circle"
+  ],
+  "medium_black_circle": [
+    "black_circle"
   ],
   "large_red_circle": [
-    "shape"
+    "shape",
+    "red_circle"
+  ],
+  "large_blue_circle": [
+    "large_blue_circle"
   ]
 }

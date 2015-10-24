@@ -5,7 +5,8 @@
     "person",
     "smile",
     "happy",
-    "joy"
+    "joy",
+    "grinning"
   ],
   "grinning_face_with_smiling_eyes": [
     "eye",
@@ -35,7 +36,8 @@
     "smile",
     "happy",
     "joy",
-    "haha"
+    "haha",
+    "smiley"
   ],
   "smiling_face_with_open_mouth_and_smiling_eyes": [
     "eye",
@@ -55,7 +57,8 @@
     "smile",
     "sweat",
     "hot",
-    "happy"
+    "happy",
+    "sweat_smile"
   ],
   "smiling_face_with_open_mouth_and_tightly-closed_eyes": [
     "face",
@@ -66,7 +69,8 @@
     "satisfied",
     "smile",
     "happy",
-    "joy"
+    "joy",
+    "laughing"
   ],
   "winking_face": [
     "face",
@@ -118,7 +122,8 @@
     "smile",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "heart_eyes"
   ],
   "face_throwing_a_kiss": [
     "face",
@@ -128,7 +133,8 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "kissing_heart"
   ],
   "kissing_face": [
     "face",
@@ -137,7 +143,8 @@
     "love",
     "like",
     "3",
-    "valentines"
+    "valentines",
+    "kissing"
   ],
   "kissing_face_with_smiling_eyes": [
     "eye",
@@ -146,7 +153,8 @@
     "person",
     "smile",
     "affection",
-    "valentines"
+    "valentines",
+    "kissing_smiling_eyes"
   ],
   "kissing_face_with_closed_eyes": [
     "closed",
@@ -157,7 +165,8 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "kissing_closed_eyes"
   ],
   "white_smiling_face": [
     "face",
@@ -201,7 +210,8 @@
     "face",
     "neutral",
     "person",
-    "indifference"
+    "indifference",
+    "neutral_face"
   ],
   "expressionless_face": [
     "expressionless",
@@ -217,7 +227,8 @@
     "person",
     "quiet",
     "silent",
-    "hellokitty"
+    "hellokitty",
+    "no_mouth"
   ],
   "face_with_rolling_eyes": [
     "eyes",
@@ -247,8 +258,11 @@
     "person",
     "relieved",
     "whew",
-    "relaxed",
     "phew",
+    "sweat",
+    "nervous",
+    "disappointed_relieved",
+    "relaxed",
     "massage",
     "happiness"
   ],
@@ -260,7 +274,8 @@
     "sympathy",
     "surprise",
     "impressed",
-    "wow"
+    "wow",
+    "open_mouth"
   ],
   "zipper-mouth_face": [
     "face",
@@ -280,7 +295,8 @@
     "face",
     "person",
     "sleep",
-    "tired"
+    "tired",
+    "sleepy"
   ],
   "tired_face": [
     "face",
@@ -288,7 +304,8 @@
     "tired",
     "sick",
     "whine",
-    "upset"
+    "upset",
+    "tired_face"
   ],
   "sleeping_face": [
     "face",
@@ -296,7 +313,8 @@
     "sleep",
     "zzz",
     "tired",
-    "sleepy"
+    "sleepy",
+    "sleeping"
   ],
   "relieved_face": [
     "face",
@@ -305,7 +323,8 @@
     "haha",
     "happy",
     "joy",
-    "glad"
+    "glad",
+    "satisfied"
   ],
   "nerd_face": [
     "face",
@@ -318,7 +337,8 @@
     "person",
     "tongue",
     "prank",
-    "childish"
+    "childish",
+    "stuck_out_tongue"
   ],
   "face_with_stuck-out_tongue_and_winking_eye": [
     "eye",
@@ -328,7 +348,8 @@
     "tongue",
     "wink",
     "prank",
-    "childish"
+    "childish",
+    "stuck_out_tongue_winking_eye"
   ],
   "face_with_stuck-out_tongue_and_tightly-closed_eyes": [
     "eye",
@@ -337,7 +358,8 @@
     "person",
     "taste",
     "tongue",
-    "prank"
+    "prank",
+    "stuck_out_tongue_closed_eyes"
   ],
   "white_frowning_face": [
     "face",
@@ -475,7 +497,8 @@
     "mouth",
     "open",
     "person",
-    "aw"
+    "aw",
+    "frowning"
   ],
   "anguished_face": [
     "anguished",
@@ -505,7 +528,8 @@
   "grimacing_face": [
     "face",
     "grimace",
-    "person"
+    "person",
+    "grimacing"
   ],
   "face_with_open_mouth_and_cold_sweat": [
     "blue",
@@ -516,7 +540,8 @@
     "person",
     "rushed",
     "sweat",
-    "nervous"
+    "nervous",
+    "cold_sweat"
   ],
   "face_screaming_in_fear": [
     "face",
@@ -542,7 +567,8 @@
     "person",
     "spent",
     "unconscious",
-    "xox"
+    "xox",
+    "dizzy_face"
   ],
   "pouting_face": [
     "angry",
@@ -578,7 +604,8 @@
     "horns",
     "person",
     "smile",
-    "devil"
+    "devil",
+    "smiling_imp"
   ],
   "boy": [
     "boy",
@@ -618,7 +645,8 @@
     "person",
     "human",
     "male",
-    "men"
+    "men",
+    "older_man"
   ],
   "older_woman": [
     "old",
@@ -626,7 +654,8 @@
     "woman",
     "female",
     "women",
-    "girl"
+    "girl",
+    "older_woman"
   ],
   "baby": [
     "baby",
@@ -637,7 +666,8 @@
     "blond",
     "person",
     "man",
-    "male"
+    "male",
+    "person_with_blond_hair"
   ],
   "police_officer": [
     "cop",
@@ -655,13 +685,15 @@
     "man",
     "person",
     "male",
-    "boy"
+    "boy",
+    "man_with_gua_pi_mao"
   ],
   "man_with_turban": [
     "man",
     "person",
     "turban",
-    "male"
+    "male",
+    "man_with_turban"
   ],
   "construction_worker": [
     "construction",
@@ -671,7 +703,8 @@
     "man",
     "male",
     "human",
-    "wip"
+    "wip",
+    "construction_worker"
   ],
   "helmet_with_white_cross": [
     "aid",
@@ -740,7 +773,8 @@
     "woman",
     "female",
     "women",
-    "girls"
+    "girls",
+    "dancers"
   ],
   "face_massage": [
     "massage",
@@ -766,7 +800,8 @@
     "veil",
     "wedding",
     "couple",
-    "marriage"
+    "marriage",
+    "bride_with_veil"
   ],
   "person_frowning": [
     "frown",
@@ -774,7 +809,8 @@
     "person",
     "female",
     "girl",
-    "woman"
+    "woman",
+    "person_frowning"
   ],
   "person_with_pouting_face": [
     "gesture",
@@ -782,7 +818,8 @@
     "pouting",
     "female",
     "girl",
-    "woman"
+    "woman",
+    "person_with_pouting_face"
   ],
   "face_with_no_good_gesture": [
     "forbidden",
@@ -794,7 +831,8 @@
     "prohibited",
     "female",
     "girl",
-    "woman"
+    "woman",
+    "no_good"
   ],
   "face_with_ok_gesture": [
     "gesture",
@@ -805,7 +843,8 @@
     "girl",
     "female",
     "pink",
-    "human"
+    "human",
+    "ok_woman"
   ],
   "information_desk_person": [
     "hand",
@@ -816,7 +855,8 @@
     "female",
     "girl",
     "woman",
-    "human"
+    "human",
+    "information_desk_person"
   ],
   "happy_person_raising_one_hand": [
     "gesture",
@@ -826,7 +866,9 @@
     "raised",
     "female",
     "girl",
-    "woman"
+    "woman",
+    "raised_hand",
+    "raising_hand"
   ],
   "person_bowing_deeply": [
     "apology",
@@ -845,7 +887,8 @@
     "hand",
     "hooray",
     "person",
-    "raised"
+    "raised",
+    "raised_hands"
   ],
   "person_with_folded_hands": [
     "ask",
@@ -875,7 +918,8 @@
     "silhouette",
     "man",
     "user",
-    "human"
+    "human",
+    "bust_in_silhouette"
   ],
   "busts_in_silhouette": [
     "bust",
@@ -885,7 +929,8 @@
     "user",
     "human",
     "group",
-    "team"
+    "team",
+    "busts_in_silhouette"
   ],
   "pedestrian": [
     "hike",
@@ -927,7 +972,8 @@
     "love",
     "like",
     "dating",
-    "marriage"
+    "marriage",
+    "couplekiss"
   ],
   "couple_with_heart": [
     "couple",
@@ -940,7 +986,8 @@
     "human",
     "dating",
     "valentines",
-    "marriage"
+    "marriage",
+    "couple_with_heart"
   ],
   "family": [
     "child",
@@ -984,7 +1031,8 @@
     "bromance",
     "friends",
     "valentines",
-    "marriage"
+    "marriage",
+    "two_men_holding_hands"
   ],
   "two_women_holding_hands": [
     "couple",
@@ -996,42 +1044,48 @@
     "love",
     "like",
     "valentines",
-    "marriage"
+    "marriage",
+    "two_women_holding_hands"
   ],
   "emoji_modifier_fitzpatrick_type-1-2": [
     "emoji modifier",
     "fitzpatrick",
     "skin",
     "symbol",
-    "tone"
+    "tone",
+    "skin-tone-2"
   ],
   "emoji_modifier_fitzpatrick_type-3": [
     "emoji modifier",
     "fitzpatrick",
     "skin",
     "symbol",
-    "tone"
+    "tone",
+    "skin-tone-3"
   ],
   "emoji_modifier_fitzpatrick_type-4": [
     "emoji modifier",
     "fitzpatrick",
     "skin",
     "symbol",
-    "tone"
+    "tone",
+    "skin-tone-4"
   ],
   "emoji_modifier_fitzpatrick_type-5": [
     "emoji modifier",
     "fitzpatrick",
     "skin",
     "symbol",
-    "tone"
+    "tone",
+    "skin-tone-5"
   ],
   "emoji_modifier_fitzpatrick_type-6": [
     "emoji modifier",
     "fitzpatrick",
     "skin",
     "symbol",
-    "tone"
+    "tone",
+    "skin-tone-6"
   ],
   "flexed_biceps": [
     "biceps",
@@ -1051,7 +1105,8 @@
     "person",
     "point",
     "direction",
-    "fingers"
+    "fingers",
+    "point_left"
   ],
   "white_right_pointing_backhand_index": [
     "backhand",
@@ -1062,7 +1117,8 @@
     "person",
     "point",
     "fingers",
-    "direction"
+    "direction",
+    "point_right"
   ],
   "white_up_pointing_index": [
     "body",
@@ -1073,7 +1129,8 @@
     "point",
     "up",
     "fingers",
-    "direction"
+    "direction",
+    "point_up"
   ],
   "white_up_pointing_backhand_index": [
     "backhand",
@@ -1085,7 +1142,8 @@
     "point",
     "up",
     "fingers",
-    "direction"
+    "direction",
+    "point_up_2"
   ],
   "reversed_hand_with_middle_finger_extended": [
     "body",
@@ -1104,7 +1162,8 @@
     "person",
     "point",
     "fingers",
-    "direction"
+    "direction",
+    "point_down"
   ],
   "victory_hand": [
     "body",
@@ -1161,7 +1220,12 @@
     "fist",
     "hand",
     "person",
-    "punch"
+    "punch",
+    "angry",
+    "violence",
+    "hit",
+    "attack",
+    "facepunch"
   ],
   "ok_hand_sign": [
     "body",
@@ -1169,7 +1233,8 @@
     "ok",
     "person",
     "fingers",
-    "limbs"
+    "limbs",
+    "ok_hand"
   ],
   "thumbs_up_sign": [
     "+1",
@@ -1178,7 +1243,9 @@
     "person",
     "thumb",
     "thumbs up",
-    "up"
+    "up",
+    "thumbs",
+    "thumbsup"
   ],
   "thumbs_down_sign": [
     "-1",
@@ -1187,7 +1254,9 @@
     "hand",
     "person",
     "thumb",
-    "thumbs down"
+    "thumbs down",
+    "thumbs",
+    "thumbsdown"
   ],
   "waving_hand_sign": [
     "body",
@@ -1216,7 +1285,8 @@
     "open",
     "person",
     "fingers",
-    "butterfly"
+    "butterfly",
+    "open_hands"
   ],
   "writing_hand": [
     "body",
@@ -1233,7 +1303,8 @@
     "nail",
     "person",
     "polish",
-    "beauty"
+    "beauty",
+    "nail_care"
   ],
   "footprints": [
     "body",
@@ -1241,7 +1312,9 @@
     "footprint",
     "person",
     "print",
-    "feet"
+    "animal",
+    "feet",
+    "footprints"
   ],
   "eyes": [
     "body",
@@ -1251,7 +1324,8 @@
     "look",
     "watch",
     "stalk",
-    "peek"
+    "peek",
+    "eyes"
   ],
   "eye": [
     "body",
@@ -1335,7 +1409,8 @@
     "heart",
     "person",
     "sad",
-    "sorry"
+    "sorry",
+    "broken_heart"
   ],
   "two_hearts": [
     "emotion",
@@ -1344,7 +1419,8 @@
     "person",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "two_hearts"
   ],
   "sparkling_heart": [
     "emotion",
@@ -1355,7 +1431,8 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "sparkling_heart"
   ],
   "growing_heart": [
     "emotion",
@@ -1378,7 +1455,8 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "blue_heart"
   ],
   "green_heart": [
     "emotion",
@@ -1388,7 +1466,8 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "green_heart"
   ],
   "yellow_heart": [
     "emotion",
@@ -1398,7 +1477,8 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "yellow_heart"
   ],
   "purple_heart": [
     "emotion",
@@ -1408,7 +1488,8 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "purple_heart"
   ],
   "heart_with_ribbon": [
     "emotion",
@@ -1418,7 +1499,8 @@
     "ribbon",
     "valentine",
     "love",
-    "valentines"
+    "valentines",
+    "gift_heart"
   ],
   "revolving_hearts": [
     "emotion",
@@ -1428,7 +1510,8 @@
     "love",
     "like",
     "affection",
-    "valentines"
+    "valentines",
+    "revolving_hearts"
   ],
   "heart_decoration": [
     "emotion",
@@ -1437,7 +1520,8 @@
     "symbol",
     "purple-square",
     "love",
-    "like"
+    "like",
+    "heart_decoration"
   ],
   "heavy_heart_exclamation_mark_ornament": [
     "emotion",
@@ -1459,7 +1543,8 @@
     "like",
     "affection",
     "envelope",
-    "valentines"
+    "valentines",
+    "love_letter"
   ],
   "droplet": [
     "cold",
@@ -1473,7 +1558,8 @@
     "weather",
     "water",
     "drip",
-    "faucet"
+    "faucet",
+    "droplet"
   ],
   "sleeping_symbol": [
     "comic",
@@ -1492,7 +1578,8 @@
     "emotion",
     "mad",
     "person",
-    "symbol"
+    "symbol",
+    "anger"
   ],
   "bomb": [
     "bomb",
@@ -1517,7 +1604,8 @@
     "person",
     "splashing",
     "sweat",
-    "water"
+    "water",
+    "sweat_drops"
   ],
   "dash_symbol": [
     "comic",
@@ -1549,7 +1637,8 @@
     "object",
     "person",
     "speech",
-    "words"
+    "words",
+    "speech_balloon"
   ],
   "right_anger_bubble": [
     "angry",
@@ -1568,7 +1657,8 @@
     "person",
     "thought",
     "cloud",
-    "speech"
+    "speech",
+    "thought_balloon"
   ],
   "hole": [
     "hole",
@@ -1610,7 +1700,8 @@
     "person",
     "shirt",
     "tshirt",
-    "fashion"
+    "fashion",
+    "cloth"
   ],
   "jeans": [
     "clothing",
@@ -1658,7 +1749,8 @@
     "object",
     "person",
     "woman",
-    "fashion"
+    "fashion",
+    "womans_clothes"
   ],
   "purse": [
     "clothing",
@@ -1701,7 +1793,8 @@
     "object",
     "satchel",
     "school",
-    "student"
+    "student",
+    "school_satchel"
   ],
   "mans_shoe": [
     "clothing",
@@ -1709,8 +1802,10 @@
     "object",
     "person",
     "shoe",
-    "accessories",
-    "fashion"
+    "fashion",
+    "male",
+    "mans_shoe",
+    "accessories"
   ],
   "athletic_shoe": [
     "athletic",
@@ -1720,7 +1815,8 @@
     "shoe",
     "sneaker",
     "shoes",
-    "sports"
+    "sports",
+    "athletic_shoe"
   ],
   "high-heeled_shoe": [
     "clothing",
@@ -1731,7 +1827,8 @@
     "woman",
     "fashion",
     "shoes",
-    "female"
+    "female",
+    "high_heel"
   ],
   "womans_sandal": [
     "clothing",
@@ -1769,7 +1866,8 @@
     "person",
     "woman",
     "fashion",
-    "accessories"
+    "accessories",
+    "womans_hat"
   ],
   "top_hat": [
     "activity",
@@ -1834,7 +1932,8 @@
     "japanese",
     "monster",
     "ogre",
-    "person"
+    "person",
+    "japanese_ogre"
   ],
   "japanese_goblin": [
     "creature",
@@ -1844,7 +1943,8 @@
     "goblin",
     "japanese",
     "monster",
-    "person"
+    "person",
+    "japanese_goblin"
   ],
   "ghost": [
     "creature",
@@ -1903,7 +2003,8 @@
     "person",
     "space",
     "ufo",
-    "game"
+    "game",
+    "space_invader"
   ],
   "robot_face": [
     "face",
@@ -1919,13 +2020,17 @@
     "nature",
     "object",
     "poo",
-    "poop"
+    "poop",
+    "shit",
+    "shitface",
+    "hankey"
   ],
   "monkey_face": [
     "animal",
     "face",
     "monkey",
-    "nature"
+    "nature",
+    "monkey_face"
   ],
   "see-no-evil_monkey": [
     "animal",
@@ -1938,7 +2043,8 @@
     "no",
     "not",
     "prohibited",
-    "see"
+    "see",
+    "see_no_evil"
   ],
   "hear-no-evil_monkey": [
     "animal",
@@ -1951,7 +2057,8 @@
     "nature",
     "no",
     "not",
-    "prohibited"
+    "prohibited",
+    "hear_no_evil"
   ],
   "speak-no-evil_monkey": [
     "animal",
@@ -1964,7 +2071,8 @@
     "no",
     "not",
     "prohibited",
-    "speak"
+    "speak",
+    "speak_no_evil"
   ],
   "monkey": [
     "animal",
@@ -1986,7 +2094,8 @@
     "nature",
     "pet",
     "friend",
-    "doge"
+    "doge",
+    "dog2"
   ],
   "poodle": [
     "animal",
@@ -2016,7 +2125,8 @@
     "grin",
     "nature",
     "smile",
-    "cats"
+    "cats",
+    "smile_cat"
   ],
   "cat_face_with_tears_of_joy": [
     "animal",
@@ -2028,7 +2138,8 @@
     "cats",
     "haha",
     "happy",
-    "tears"
+    "tears",
+    "joy_cat"
   ],
   "smiling_cat_face_with_open_mouth": [
     "animal",
@@ -2039,7 +2150,8 @@
     "open",
     "smile",
     "cats",
-    "happy"
+    "happy",
+    "smiley_cat"
   ],
   "smiling_cat_face_with_heart-shaped_eyes": [
     "animal",
@@ -2053,7 +2165,8 @@
     "like",
     "affection",
     "cats",
-    "valentines"
+    "valentines",
+    "heart_eyes_cat"
   ],
   "cat_face_with_wry_smile": [
     "animal",
@@ -2063,7 +2176,8 @@
     "nature",
     "smile",
     "wry",
-    "cats"
+    "cats",
+    "smirk_cat"
   ],
   "kissing_cat_face_with_closed_eyes": [
     "animal",
@@ -2072,7 +2186,8 @@
     "face",
     "kiss",
     "nature",
-    "cats"
+    "cats",
+    "kissing_cat"
   ],
   "pouting_cat_face": [
     "animal",
@@ -2080,7 +2195,8 @@
     "face",
     "nature",
     "pouting",
-    "cats"
+    "cats",
+    "pouting_cat"
   ],
   "crying_cat_face": [
     "animal",
@@ -2092,7 +2208,8 @@
     "tear",
     "tears",
     "weep",
-    "cats"
+    "cats",
+    "crying_cat_face"
   ],
   "weary_cat_face": [
     "animal",
@@ -2103,13 +2220,15 @@
     "surprised",
     "weary",
     "cats",
-    "munch"
+    "munch",
+    "scream_cat"
   ],
   "cat": [
     "animal",
     "cat",
     "nature",
-    "pet"
+    "pet",
+    "cat2"
   ],
   "lion_face": [
     "animal",
@@ -2130,7 +2249,8 @@
     "animal",
     "nature",
     "tiger",
-    "feline"
+    "feline",
+    "tiger2"
   ],
   "leopard": [
     "animal",
@@ -2182,14 +2302,16 @@
     "nature",
     "water",
     "ox",
-    "cow"
+    "cow",
+    "water_buffalo"
   ],
   "cow": [
     "animal",
     "cow",
     "nature",
     "beef",
-    "ox"
+    "ox",
+    "cow2"
   ],
   "pig_face": [
     "animal",
@@ -2202,7 +2324,8 @@
     "animal",
     "nature",
     "pig",
-    "sow"
+    "sow",
+    "pig2"
   ],
   "boar": [
     "animal",
@@ -2215,7 +2338,8 @@
     "face",
     "nature",
     "nose",
-    "pig"
+    "pig",
+    "pig_nose"
   ],
   "ram": [
     "animal",
@@ -2245,7 +2369,8 @@
     "hump",
     "nature",
     "hot",
-    "desert"
+    "desert",
+    "dromedary_camel"
   ],
   "bactrian_camel": [
     "animal",
@@ -2272,7 +2397,8 @@
   "mouse": [
     "animal",
     "mouse",
-    "nature"
+    "nature",
+    "mouse2"
   ],
   "rat": [
     "animal",
@@ -2300,7 +2426,8 @@
     "bunny",
     "nature",
     "pet",
-    "rabbit"
+    "rabbit",
+    "rabbit2"
   ],
   "chipmunk": [
     "animal",
@@ -2323,14 +2450,16 @@
     "animal",
     "face",
     "nature",
-    "panda"
+    "panda",
+    "panda_face"
   ],
   "paw_prints": [
     "animal",
     "feet",
     "nature",
     "paw",
-    "print"
+    "print",
+    "paw_prints"
   ],
   "turkey": [
     "animal",
@@ -2357,21 +2486,24 @@
     "nature",
     "chicken",
     "egg",
-    "born"
+    "born",
+    "hatching_chick"
   ],
   "baby_chick": [
     "animal",
     "baby",
     "chick",
     "nature",
-    "chicken"
+    "chicken",
+    "baby_chick"
   ],
   "front-facing_baby_chick": [
     "animal",
     "baby",
     "chick",
     "nature",
-    "chicken"
+    "chicken",
+    "hatched_chick"
   ],
   "bird": [
     "animal",
@@ -2426,7 +2558,8 @@
     "nature",
     "myth",
     "chinese",
-    "green"
+    "green",
+    "dragon_face"
   ],
   "dragon": [
     "animal",
@@ -2449,7 +2582,8 @@
     "animal",
     "nature",
     "whale",
-    "sea"
+    "sea",
+    "whale2"
   ],
   "dolphin": [
     "animal",
@@ -2470,7 +2604,8 @@
     "animal",
     "fish",
     "nature",
-    "tropical"
+    "tropical",
+    "tropical_fish"
   ],
   "blowfish": [
     "animal",
@@ -2572,13 +2707,15 @@
     "cherry",
     "flower",
     "nature",
-    "plant"
+    "plant",
+    "cherry_blossom"
   ],
   "white_flower": [
     "flower",
     "object",
     "symbol",
-    "japanese"
+    "japanese",
+    "white_flower"
   ],
   "rosette": [
     "nature",
@@ -2641,21 +2778,24 @@
     "evergreen",
     "nature",
     "plant",
-    "tree"
+    "tree",
+    "evergreen_tree"
   ],
   "deciduous_tree": [
     "deciduous",
     "nature",
     "plant",
     "shedding",
-    "tree"
+    "tree",
+    "deciduous_tree"
   ],
   "palm_tree": [
     "nature",
     "palm",
     "plant",
     "tree",
-    "vegetable"
+    "vegetable",
+    "palm_tree"
   ],
   "cactus": [
     "cactus",
@@ -2667,7 +2807,8 @@
     "ear",
     "nature",
     "plant",
-    "rice"
+    "rice",
+    "ear_of_rice"
   ],
   "herb": [
     "herb",
@@ -2688,7 +2829,8 @@
     "nature",
     "plant",
     "vegetable",
-    "lucky"
+    "lucky",
+    "four_leaf_clover"
   ],
   "maple_leaf": [
     "falling",
@@ -2696,7 +2838,8 @@
     "maple",
     "nature",
     "plant",
-    "vegetable"
+    "vegetable",
+    "maple_leaf"
   ],
   "fallen_leaf": [
     "falling",
@@ -2704,7 +2847,8 @@
     "nature",
     "plant",
     "vegetable",
-    "leaves"
+    "leaves",
+    "fallen_leaf"
   ],
   "leaf_fluttering_in_wind": [
     "blow",
@@ -2716,7 +2860,8 @@
     "tree",
     "vegetable",
     "grass",
-    "lawn"
+    "lawn",
+    "leaves"
   ],
   "grapes": [
     "food",
@@ -2724,7 +2869,8 @@
     "grape",
     "nature",
     "object",
-    "plant"
+    "plant",
+    "grapes"
   ],
   "melon": [
     "food",
@@ -2793,7 +2939,8 @@
     "green",
     "nature",
     "object",
-    "plant"
+    "plant",
+    "green_apple"
   ],
   "pear": [
     "food",
@@ -2817,7 +2964,8 @@
     "fruit",
     "nature",
     "object",
-    "plant"
+    "plant",
+    "cherries"
   ],
   "strawberry": [
     "berry",
@@ -2900,7 +3048,8 @@
     "nature",
     "object",
     "restaurant",
-    "good"
+    "good",
+    "meat_on_bone"
   ],
   "poultry_leg": [
     "bone",
@@ -2911,7 +3060,8 @@
     "object",
     "poultry",
     "restaurant",
-    "meat"
+    "meat",
+    "poultry_leg"
   ],
   "hamburger": [
     "burger",
@@ -2988,7 +3138,8 @@
     "object",
     "restaurant",
     "rice",
-    "japanese"
+    "japanese",
+    "rice_cracker"
   ],
   "rice_ball": [
     "ball",
@@ -2997,7 +3148,8 @@
     "nature",
     "object",
     "restaurant",
-    "rice"
+    "rice",
+    "rice_ball"
   ],
   "cooked_rice": [
     "cooked",
@@ -3044,7 +3196,8 @@
     "potato",
     "restaurant",
     "roasted",
-    "sweet"
+    "sweet",
+    "sweet_potato"
   ],
   "oden": [
     "food",
@@ -3075,7 +3228,8 @@
     "restaurant",
     "shrimp",
     "tempura",
-    "animal"
+    "animal",
+    "fried_shrimp"
   ],
   "fish_cake_with_swirl_design": [
     "cake",
@@ -3085,7 +3239,8 @@
     "object",
     "pastry",
     "restaurant",
-    "swirl"
+    "swirl",
+    "fish_cake"
   ],
   "dango": [
     "dango",
@@ -3123,7 +3278,8 @@
     "shaved",
     "sweet",
     "hot",
-    "desert"
+    "desert",
+    "shaved_ice"
   ],
   "ice_cream": [
     "cream",
@@ -3135,7 +3291,8 @@
     "restaurant",
     "sweet",
     "hot",
-    "desert"
+    "desert",
+    "ice_cream"
   ],
   "doughnut": [
     "dessert",
@@ -3195,7 +3352,8 @@
     "restaurant",
     "sweet",
     "snack",
-    "desert"
+    "desert",
+    "chocolate_bar"
   ],
   "candy": [
     "candy",
@@ -3239,7 +3397,8 @@
     "pot",
     "restaurant",
     "sweet",
-    "bees"
+    "bees",
+    "honey_pot"
   ],
   "baby_bottle": [
     "baby",
@@ -3249,7 +3408,8 @@
     "nature",
     "object",
     "food",
-    "container"
+    "container",
+    "baby_bottle"
   ],
   "hot_beverage": [
     "beverage",
@@ -3306,7 +3466,8 @@
     "object",
     "restaurant",
     "wine",
-    "drunk"
+    "drunk",
+    "wine_glass"
   ],
   "cocktail_glass": [
     "bar",
@@ -3327,7 +3488,8 @@
     "object",
     "restaurant",
     "tropical",
-    "beverage"
+    "beverage",
+    "tropical_drink"
   ],
   "beer_mug": [
     "bar",
@@ -3356,7 +3518,8 @@
     "beverage",
     "drunk",
     "party",
-    "pub"
+    "pub",
+    "beers"
   ],
   "fork_and_knife_with_plate": [
     "cooking",
@@ -3376,7 +3539,8 @@
     "object",
     "restaurant",
     "cutlery",
-    "kitchen"
+    "kitchen",
+    "fork_and_knife"
   ],
   "cooking": [
     "cooking",
@@ -3407,7 +3571,8 @@
     "nature",
     "place",
     "world",
-    "international"
+    "international",
+    "earth_africa"
   ],
   "earth_globe_americas": [
     "americas",
@@ -3417,7 +3582,8 @@
     "place",
     "world",
     "USA",
-    "international"
+    "international",
+    "earth_americas"
   ],
   "earth_globe_asia-australia": [
     "asia",
@@ -3428,7 +3594,8 @@
     "place",
     "world",
     "east",
-    "international"
+    "international",
+    "earth_asia"
   ],
   "globe_with_meridians": [
     "earth",
@@ -3437,7 +3604,8 @@
     "nature",
     "place",
     "world",
-    "international"
+    "international",
+    "globe_with_meridians"
   ],
   "world_map": [
     "map",
@@ -3470,7 +3638,8 @@
     "nature",
     "place",
     "photo",
-    "japan"
+    "japan",
+    "mount_fuji"
   ],
   "camping": [
     "camping",
@@ -3543,7 +3712,8 @@
     "house",
     "place",
     "plant",
-    "nature"
+    "nature",
+    "house_with_garden"
   ],
   "place_of_worship": [
     "place",
@@ -3595,14 +3765,16 @@
     "place",
     "post",
     "email",
-    "communication"
+    "communication",
+    "post_office"
   ],
   "european_post_office": [
     "building",
     "european",
     "office",
     "place",
-    "post"
+    "post",
+    "european_post_office"
   ],
   "hospital": [
     "building",
@@ -3634,13 +3806,15 @@
     "place",
     "like",
     "affection",
-    "dating"
+    "dating",
+    "love_hotel"
   ],
   "convenience_store": [
     "building",
     "convenience",
     "place",
-    "store"
+    "store",
+    "convenience_store"
   ],
   "school": [
     "building",
@@ -3654,7 +3828,8 @@
     "place",
     "store",
     "shopping",
-    "mall"
+    "mall",
+    "department_store"
   ],
   "factory": [
     "building",
@@ -3666,13 +3841,15 @@
     "castle",
     "japanese",
     "place",
-    "photo"
+    "photo",
+    "japanese_castle"
   ],
   "european_castle": [
     "building",
     "castle",
     "european",
-    "place"
+    "place",
+    "european_castle"
   ],
   "wedding": [
     "activity",
@@ -3691,14 +3868,16 @@
     "tokyo",
     "tower",
     "photo",
-    "japan"
+    "japan",
+    "tokyo_tower"
   ],
   "statue_of_liberty": [
     "liberty",
     "place",
     "statue",
     "american",
-    "newyork"
+    "newyork",
+    "statue_of_liberty"
   ],
   "silhouette_of_japan": [
     "japan",
@@ -3726,7 +3905,8 @@
     "nature",
     "place",
     "weather",
-    "photo"
+    "photo",
+    "foggy"
   ],
   "night_with_stars": [
     "nature",
@@ -3734,7 +3914,8 @@
     "place",
     "star",
     "weather",
-    "photo"
+    "photo",
+    "stars"
   ],
   "sunrise_over_mountains": [
     "morning",
@@ -3747,7 +3928,8 @@
     "weather",
     "view",
     "vacation",
-    "photo"
+    "photo",
+    "sunrise_over_mountains"
   ],
   "sunrise": [
     "morning",
@@ -3773,7 +3955,8 @@
     "sunset",
     "time",
     "weather",
-    "photo"
+    "photo",
+    "city_sunset"
   ],
   "sunset_over_buildings": [
     "building",
@@ -3784,7 +3967,8 @@
     "sunset",
     "time",
     "weather",
-    "photo"
+    "photo",
+    "city_sunrise"
   ],
   "bridge_at_night": [
     "bridge",
@@ -3793,7 +3977,8 @@
     "place",
     "weather",
     "photo",
-    "sanfrancisco"
+    "sanfrancisco",
+    "bridge_at_night"
   ],
   "water_wave": [
     "nature",
@@ -3826,7 +4011,8 @@
     "place",
     "space",
     "weather",
-    "photo"
+    "photo",
+    "milky_way"
   ],
   "carousel_horse": [
     "activity",
@@ -3835,7 +4021,8 @@
     "horse",
     "place",
     "photo",
-    "carnival"
+    "carnival",
+    "carousel_horse"
   ],
   "ferris_wheel": [
     "activity",
@@ -3846,7 +4033,8 @@
     "wheel",
     "photo",
     "carnival",
-    "londoneye"
+    "londoneye",
+    "ferris_wheel"
   ],
   "roller_coaster": [
     "activity",
@@ -3859,7 +4047,8 @@
     "playground",
     "photo",
     "play",
-    "fun"
+    "fun",
+    "roller_coaster"
   ],
   "barber_pole": [
     "barber",
@@ -3878,7 +4067,8 @@
     "tent",
     "festival",
     "carnival",
-    "party"
+    "party",
+    "circus_tent"
   ],
   "performing_arts": [
     "activity",
@@ -3891,7 +4081,8 @@
     "theater",
     "theatre",
     "acting",
-    "drama"
+    "drama",
+    "performing_arts"
   ],
   "frame_with_picture": [
     "art",
@@ -3922,7 +4113,8 @@
     "slot",
     "bet",
     "gamble",
-    "vegas"
+    "vegas",
+    "slot_machine"
   ],
   "steam_locomotive": [
     "engine",
@@ -3933,7 +4125,8 @@
     "train",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "steam_locomotive"
   ],
   "railway_car": [
     "car",
@@ -3945,7 +4138,8 @@
     "travel",
     "trolleybus",
     "vehicle",
-    "transportation"
+    "transportation",
+    "railway_car"
   ],
   "high-speed_train": [
     "place",
@@ -3955,7 +4149,8 @@
     "train",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "bullettrain_side"
   ],
   "high-speed_train_with_bullet_nose": [
     "bullet",
@@ -3966,7 +4161,8 @@
     "train",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "bullettrain_front"
   ],
   "train": [
     "place",
@@ -3974,7 +4170,8 @@
     "train",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "train2"
   ],
   "metro": [
     "metro",
@@ -3993,7 +4190,8 @@
     "railway",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "light_rail"
   ],
   "station": [
     "place",
@@ -4027,7 +4225,8 @@
     "railway",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "mountain_railway"
   ],
   "tram_car": [
     "car",
@@ -4051,7 +4250,8 @@
     "place",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "oncoming_bus"
   ],
   "trolleybus": [
     "bus",
@@ -4097,7 +4297,8 @@
     "truck",
     "vehicle",
     "transportation",
-    "cars"
+    "cars",
+    "fire_engine"
   ],
   "police_car": [
     "car",
@@ -4110,7 +4311,8 @@
     "transportation",
     "law",
     "enforcement",
-    "cops"
+    "cops",
+    "police_car"
   ],
   "oncoming_police_car": [
     "car",
@@ -4121,7 +4323,8 @@
     "vehicle",
     "law",
     "enforcement",
-    "cops"
+    "cops",
+    "oncoming_police_car"
   ],
   "taxi": [
     "place",
@@ -4139,7 +4342,8 @@
     "travel",
     "vehicle",
     "cars",
-    "uber"
+    "uber",
+    "oncoming_taxi"
   ],
   "automobile": [
     "automobile",
@@ -4147,7 +4351,8 @@
     "place",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "red_car"
   ],
   "oncoming_automobile": [
     "automobile",
@@ -4156,7 +4361,8 @@
     "place",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "oncoming_automobile"
   ],
   "recreational_vehicle": [
     "place",
@@ -4164,7 +4370,8 @@
     "rv",
     "travel",
     "vehicle",
-    "car"
+    "car",
+    "blue_car"
   ],
   "delivery_truck": [
     "delivery",
@@ -4183,7 +4390,8 @@
     "truck",
     "vehicle",
     "cars",
-    "transportation"
+    "transportation",
+    "articulated_lorry"
   ],
   "tractor": [
     "place",
@@ -4217,7 +4425,8 @@
     "sport",
     "symbol",
     "travel",
-    "vehicle"
+    "vehicle",
+    "no_bicycles"
   ],
   "fuel_pump": [
     "fuel",
@@ -4258,7 +4467,8 @@
     "vehicle",
     "ambulance",
     "911",
-    "emergency"
+    "emergency",
+    "rotating_light"
   ],
   "anchor": [
     "anchor",
@@ -4393,7 +4603,8 @@
     "suspension",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "suspension_railway"
   ],
   "mountain_cableway": [
     "cable",
@@ -4402,7 +4613,8 @@
     "place",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "mountain_cableway"
   ],
   "aerial_tramway": [
     "aerial",
@@ -4414,7 +4626,8 @@
     "tramway",
     "travel",
     "vehicle",
-    "transportation"
+    "transportation",
+    "aerial_tramway"
   ],
   "rocket": [
     "place",
@@ -4450,7 +4663,8 @@
     "place",
     "symbol",
     "travel",
-    "blue-square"
+    "blue-square",
+    "put_litter_in_its_place"
   ],
   "horizontal_traffic_light": [
     "light",
@@ -4458,7 +4672,8 @@
     "signal",
     "traffic",
     "travel",
-    "transportation"
+    "transportation",
+    "traffic_light"
   ],
   "vertical_traffic_light": [
     "light",
@@ -4466,7 +4681,8 @@
     "signal",
     "traffic",
     "travel",
-    "transportation"
+    "transportation",
+    "vertical_traffic_light"
   ],
   "construction_sign": [
     "barrier",
@@ -4482,7 +4698,8 @@
     "not",
     "prohibited",
     "symbol",
-    "travel"
+    "travel",
+    "no_entry_sign"
   ],
   "no_smoking_symbol": [
     "forbidden",
@@ -4493,7 +4710,8 @@
     "smoking",
     "symbol",
     "travel",
-    "cigarette"
+    "cigarette",
+    "no_smoking"
   ],
   "do_not_litter_symbol": [
     "forbidden",
@@ -4506,7 +4724,8 @@
     "travel",
     "trash",
     "bin",
-    "garbage"
+    "garbage",
+    "do_not_litter"
   ],
   "potable_water_symbol": [
     "drink",
@@ -4519,7 +4738,8 @@
     "liquid",
     "restroom",
     "cleaning",
-    "faucet"
+    "faucet",
+    "potable_water"
   ],
   "non-potable_water_symbol": [
     "drink",
@@ -4531,7 +4751,8 @@
     "sign",
     "symbol",
     "travel",
-    "water"
+    "water",
+    "non-potable_water"
   ],
   "no_pedestrians": [
     "forbidden",
@@ -4543,7 +4764,8 @@
     "sign",
     "symbol",
     "travel",
-    "limit"
+    "limit",
+    "no_pedestrians"
   ],
   "children_crossing": [
     "child",
@@ -4554,7 +4776,8 @@
     "symbol",
     "traffic",
     "travel",
-    "school"
+    "school",
+    "children_crossing"
   ],
   "wheelchair_symbol": [
     "access",
@@ -4573,7 +4796,8 @@
     "symbol",
     "travel",
     "wc",
-    "toilet"
+    "toilet",
+    "mens"
   ],
   "womens_symbol": [
     "lavatory",
@@ -4583,7 +4807,8 @@
     "travel",
     "wc",
     "woman",
-    "purple-square"
+    "purple-square",
+    "womens"
   ],
   "restroom": [
     "lavatory",
@@ -4601,7 +4826,8 @@
     "symbol",
     "travel",
     "orange-square",
-    "child"
+    "child",
+    "baby_symbol"
   ],
   "water_closet": [
     "closet",
@@ -4624,7 +4850,8 @@
     "symbol",
     "travel",
     "custom",
-    "blue-square"
+    "blue-square",
+    "passport_control"
   ],
   "customs": [
     "customs",
@@ -4644,7 +4871,8 @@
     "travel",
     "blue-square",
     "airport",
-    "transport"
+    "transport",
+    "baggage_claim"
   ],
   "left_luggage": [
     "baggage",
@@ -4655,7 +4883,8 @@
     "sign",
     "symbol",
     "travel",
-    "blue-square"
+    "blue-square",
+    "left_luggage"
   ],
   "warning_sign": [
     "place",
@@ -4676,7 +4905,8 @@
     "travel",
     "limit",
     "security",
-    "privacy"
+    "privacy",
+    "no_entry"
   ],
   "bellhop_bell": [
     "bell",
@@ -4760,7 +4990,8 @@
     "time",
     "timer",
     "oldschool",
-    "countdown"
+    "countdown",
+    "hourglass_flowing_sand"
   ],
   "watch": [
     "clock",
@@ -4774,7 +5005,8 @@
     "clock",
     "object",
     "time",
-    "wake"
+    "wake",
+    "alarm_clock"
   ],
   "stopwatch": [
     "clock",
@@ -4800,7 +5032,8 @@
     "o’clock",
     "symbol",
     "time",
-    "twelve"
+    "twelve",
+    "clock12"
   ],
   "clock_face_twelve-thirty": [
     "12",
@@ -4810,7 +5043,8 @@
     "symbol",
     "thirty",
     "time",
-    "twelve"
+    "twelve",
+    "clock1230"
   ],
   "clock_face_one_oclock": [
     "00",
@@ -4820,7 +5054,8 @@
     "o’clock",
     "one",
     "symbol",
-    "time"
+    "time",
+    "clock1"
   ],
   "clock_face_one-thirty": [
     "1",
@@ -4830,7 +5065,8 @@
     "one",
     "symbol",
     "thirty",
-    "time"
+    "time",
+    "clock130"
   ],
   "clock_face_two_oclock": [
     "00",
@@ -4840,7 +5076,8 @@
     "o’clock",
     "symbol",
     "time",
-    "two"
+    "two",
+    "clock2"
   ],
   "clock_face_two-thirty": [
     "2",
@@ -4850,7 +5087,8 @@
     "symbol",
     "thirty",
     "time",
-    "two"
+    "two",
+    "clock230"
   ],
   "clock_face_three_oclock": [
     "00",
@@ -4860,7 +5098,8 @@
     "o’clock",
     "symbol",
     "three",
-    "time"
+    "time",
+    "clock3"
   ],
   "clock_face_three-thirty": [
     "3",
@@ -4870,7 +5109,8 @@
     "symbol",
     "thirty",
     "three",
-    "time"
+    "time",
+    "clock330"
   ],
   "clock_face_four_oclock": [
     "00",
@@ -4880,7 +5120,8 @@
     "four",
     "o’clock",
     "symbol",
-    "time"
+    "time",
+    "clock4"
   ],
   "clock_face_four-thirty": [
     "30",
@@ -4890,7 +5131,8 @@
     "four",
     "symbol",
     "thirty",
-    "time"
+    "time",
+    "clock430"
   ],
   "clock_face_five_oclock": [
     "00",
@@ -4900,7 +5142,8 @@
     "five",
     "o’clock",
     "symbol",
-    "time"
+    "time",
+    "clock5"
   ],
   "clock_face_five-thirty": [
     "30",
@@ -4910,7 +5153,8 @@
     "five",
     "symbol",
     "thirty",
-    "time"
+    "time",
+    "clock530"
   ],
   "clock_face_six_oclock": [
     "00",
@@ -4920,7 +5164,8 @@
     "o’clock",
     "six",
     "symbol",
-    "time"
+    "time",
+    "clock6"
   ],
   "clock_face_six-thirty": [
     "30",
@@ -4930,7 +5175,8 @@
     "six",
     "symbol",
     "thirty",
-    "time"
+    "time",
+    "clock630"
   ],
   "clock_face_seven_oclock": [
     "00",
@@ -4940,7 +5186,8 @@
     "o’clock",
     "seven",
     "symbol",
-    "time"
+    "time",
+    "clock7"
   ],
   "clock_face_seven-thirty": [
     "30",
@@ -4950,7 +5197,8 @@
     "seven",
     "symbol",
     "thirty",
-    "time"
+    "time",
+    "clock730"
   ],
   "clock_face_eight_oclock": [
     "00",
@@ -4960,7 +5208,8 @@
     "eight",
     "o’clock",
     "symbol",
-    "time"
+    "time",
+    "clock8"
   ],
   "clock_face_eight-thirty": [
     "30",
@@ -4970,7 +5219,8 @@
     "eight",
     "symbol",
     "thirty",
-    "time"
+    "time",
+    "clock830"
   ],
   "clock_face_nine_oclock": [
     "00",
@@ -4980,7 +5230,8 @@
     "nine",
     "o’clock",
     "symbol",
-    "time"
+    "time",
+    "clock9"
   ],
   "clock_face_nine-thirty": [
     "30",
@@ -4990,7 +5241,8 @@
     "nine",
     "symbol",
     "thirty",
-    "time"
+    "time",
+    "clock930"
   ],
   "clock_face_ten_oclock": [
     "00",
@@ -5000,7 +5252,8 @@
     "o’clock",
     "symbol",
     "ten",
-    "time"
+    "time",
+    "clock10"
   ],
   "clock_face_ten-thirty": [
     "10",
@@ -5010,7 +5263,8 @@
     "symbol",
     "ten",
     "thirty",
-    "time"
+    "time",
+    "clock1030"
   ],
   "clock_face_eleven_oclock": [
     "00",
@@ -5020,7 +5274,8 @@
     "eleven",
     "o’clock",
     "symbol",
-    "time"
+    "time",
+    "clock11"
   ],
   "clock_face_eleven-thirty": [
     "11",
@@ -5030,7 +5285,8 @@
     "eleven",
     "symbol",
     "thirty",
-    "time"
+    "time",
+    "clock1130"
   ],
   "aries": [
     "aries",
@@ -5157,7 +5413,8 @@
     "place",
     "space",
     "time",
-    "weather"
+    "weather",
+    "new_moon"
   ],
   "waxing_crescent_moon_symbol": [
     "crescent",
@@ -5167,7 +5424,8 @@
     "space",
     "time",
     "waxing",
-    "weather"
+    "weather",
+    "waxing_crescent_moon"
   ],
   "first_quarter_moon_symbol": [
     "moon",
@@ -5176,7 +5434,8 @@
     "quarter",
     "space",
     "time",
-    "weather"
+    "weather",
+    "first_quarter_moon"
   ],
   "waxing_gibbous_moon_symbol": [
     "gibbous",
@@ -5186,7 +5445,8 @@
     "space",
     "time",
     "waxing",
-    "weather"
+    "weather",
+    "waxing_gibbous_moon"
   ],
   "full_moon_symbol": [
     "full",
@@ -5195,7 +5455,8 @@
     "place",
     "space",
     "time",
-    "weather"
+    "weather",
+    "full_moon"
   ],
   "waning_gibbous_moon_symbol": [
     "gibbous",
@@ -5205,7 +5466,8 @@
     "space",
     "time",
     "waning",
-    "weather"
+    "weather",
+    "waning_gibbous_moon"
   ],
   "last_quarter_moon_symbol": [
     "moon",
@@ -5214,7 +5476,8 @@
     "quarter",
     "space",
     "time",
-    "weather"
+    "weather",
+    "last_quarter_moon"
   ],
   "waning_crescent_moon_symbol": [
     "crescent",
@@ -5224,7 +5487,8 @@
     "space",
     "time",
     "waning",
-    "weather"
+    "weather",
+    "waning_crescent_moon"
   ],
   "crescent_moon": [
     "crescent",
@@ -5233,7 +5497,9 @@
     "place",
     "space",
     "time",
-    "weather"
+    "weather",
+    "night",
+    "crescent_moon"
   ],
   "new_moon_with_face": [
     "face",
@@ -5242,7 +5508,8 @@
     "place",
     "space",
     "time",
-    "weather"
+    "weather",
+    "new_moon_with_face"
   ],
   "first_quarter_moon_with_face": [
     "face",
@@ -5251,7 +5518,8 @@
     "place",
     "quarter",
     "space",
-    "weather"
+    "weather",
+    "first_quarter_moon_with_face"
   ],
   "last_quarter_moon_with_face": [
     "face",
@@ -5260,7 +5528,8 @@
     "place",
     "quarter",
     "space",
-    "weather"
+    "weather",
+    "last_quarter_moon_with_face"
   ],
   "thermometer": [
     "nature",
@@ -5285,7 +5554,8 @@
     "nature",
     "place",
     "space",
-    "weather"
+    "weather",
+    "full_moon_with_face"
   ],
   "sun_with_face": [
     "bright",
@@ -5295,7 +5565,8 @@
     "space",
     "sun",
     "weather",
-    "morning"
+    "morning",
+    "sun_with_face"
   ],
   "cloud": [
     "cloud",
@@ -5308,7 +5579,8 @@
     "nature",
     "sun",
     "weather",
-    "morning"
+    "morning",
+    "partly_sunny"
   ],
   "thunder_cloud_and_rain": [
     "cloud",
@@ -5400,7 +5672,8 @@
     "person",
     "rain",
     "umbrella",
-    "weather"
+    "weather",
+    "closed_umbrella"
   ],
   "umbrella": [
     "clothing",
@@ -5462,7 +5735,8 @@
     "shining",
     "sparkle",
     "star",
-    "night"
+    "night",
+    "star2"
   ],
   "shooting_star": [
     "activity",
@@ -5494,7 +5768,8 @@
     "jack",
     "lantern",
     "object",
-    "pumpkin"
+    "pumpkin",
+    "jack_o_lantern"
   ],
   "christmas_tree": [
     "activity",
@@ -5506,7 +5781,8 @@
     "festival",
     "vacation",
     "december",
-    "xmas"
+    "xmas",
+    "christmas_tree"
   ],
   "menorah_with_nine_branches": [
     "candelabrum",
@@ -5536,7 +5812,8 @@
     "sparkle",
     "stars",
     "night",
-    "shine"
+    "shine",
+    "sparkler"
   ],
   "sparkles": [
     "emotion",
@@ -5548,7 +5825,8 @@
     "stars",
     "shine",
     "shiny",
-    "cool"
+    "cool",
+    "sparkles"
   ],
   "balloon": [
     "activity",
@@ -5576,7 +5854,8 @@
     "entertainment",
     "object",
     "festival",
-    "party"
+    "party",
+    "confetti_ball"
   ],
   "tanabata_tree": [
     "activity",
@@ -5587,7 +5866,8 @@
     "object",
     "tree",
     "plant",
-    "nature"
+    "nature",
+    "tanabata_tree"
   ],
   "crossed_flags": [
     "activity",
@@ -5597,7 +5877,8 @@
     "flag",
     "japanese",
     "object",
-    "japan"
+    "japan",
+    "crossed_flags"
   ],
   "pine_decoration": [
     "activity",
@@ -5619,7 +5900,8 @@
     "japanese",
     "object",
     "toy",
-    "kimono"
+    "kimono",
+    "dolls"
   ],
   "carp_streamer": [
     "activity",
@@ -5631,7 +5913,8 @@
     "streamer",
     "fish",
     "japanese",
-    "koinobori"
+    "koinobori",
+    "flags"
   ],
   "wind_chime": [
     "activity",
@@ -5642,7 +5925,8 @@
     "object",
     "wind",
     "nature",
-    "ding"
+    "ding",
+    "wind_chime"
   ],
   "moon_viewing_ceremony": [
     "activity",
@@ -5652,7 +5936,8 @@
     "moon",
     "nature",
     "object",
-    "photo"
+    "photo",
+    "rice_scene"
   ],
   "graduation_cap": [
     "activity",
@@ -5666,7 +5951,8 @@
     "school",
     "college",
     "degree",
-    "university"
+    "university",
+    "mortar_board"
   ],
   "direct_hit": [
     "activity",
@@ -5689,7 +5975,8 @@
     "game",
     "japanese",
     "object",
-    "playing"
+    "playing",
+    "flower_playing_cards"
   ],
   "ribbon": [
     "celebration",
@@ -5802,7 +6089,8 @@
     "place",
     "rugby",
     "sport",
-    "sports"
+    "sports",
+    "rugby_football"
   ],
   "tennis_racquet_and_ball": [
     "ball",
@@ -5825,7 +6113,8 @@
     "object",
     "place",
     "sport",
-    "pool"
+    "pool",
+    "8ball"
   ],
   "bowling": [
     "ball",
@@ -5870,7 +6159,8 @@
     "pole",
     "sport",
     "food",
-    "hobby"
+    "hobby",
+    "fishing_pole_and_fish"
   ],
   "running_shirt_with_sash": [
     "person",
@@ -5879,7 +6169,8 @@
     "sash",
     "shirt",
     "sport",
-    "play"
+    "play",
+    "running_shirt_with_sash"
   ],
   "ski_and_ski_boot": [
     "object",
@@ -5903,7 +6194,8 @@
     "snow",
     "snowboard",
     "sport",
-    "sports"
+    "sports",
+    "snowboarder"
   ],
   "surfer": [
     "person",
@@ -5923,7 +6215,8 @@
     "sport",
     "travel",
     "animal",
-    "betting"
+    "betting",
+    "horse_racing"
   ],
   "swimmer": [
     "person",
@@ -5971,7 +6264,8 @@
     "travel",
     "transportation",
     "sports",
-    "human"
+    "human",
+    "mountain_bicyclist"
   ],
   "racing_car": [
     "car",
@@ -6061,7 +6355,8 @@
     "game",
     "object",
     "video game",
-    "play"
+    "play",
+    "video_game"
   ],
   "joystick": [
     "entertainment",
@@ -6075,7 +6370,8 @@
     "die",
     "entertainment",
     "game",
-    "object"
+    "object",
+    "game_die"
   ],
   "black_spade_suit": [
     "card",
@@ -6084,7 +6380,8 @@
     "suit",
     "symbol",
     "poker",
-    "cards"
+    "cards",
+    "spades"
   ],
   "black_heart_suit": [
     "card",
@@ -6125,7 +6422,8 @@
     "object",
     "playing",
     "poker",
-    "cards"
+    "cards",
+    "black_joker"
   ],
   "mahjong_tile_red_dragon": [
     "game",
@@ -6185,7 +6483,8 @@
     "object",
     "sound",
     "speaker",
-    "volume"
+    "volume",
+    "mega"
   ],
   "postal_horn": [
     "communication",
@@ -6196,7 +6495,8 @@
     "postal",
     "sound",
     "instrument",
-    "music"
+    "music",
+    "postal_horn"
   ],
   "bell": [
     "bell",
@@ -6217,13 +6517,15 @@
     "quiet",
     "silent",
     "sound",
-    "volume"
+    "volume",
+    "no_bell"
   ],
   "twisted_rightwards_arrows": [
     "arrow",
     "crossed",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "twisted_rightwards_arrows"
   ],
   "clockwise_rightwards_and_leftwards_open_circle_arrows": [
     "arrow",
@@ -6239,7 +6541,8 @@
     "once",
     "symbol",
     "blue-square",
-    "loop"
+    "loop",
+    "repeat_one"
   ],
   "black_right-pointing_triangle": [
     "arrow",
@@ -6248,7 +6551,8 @@
     "sound",
     "symbol",
     "triangle",
-    "blue-square"
+    "blue-square",
+    "arrow_forward"
   ],
   "black_right-pointing_double_triangle": [
     "arrow",
@@ -6257,7 +6561,8 @@
     "forward",
     "sound",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "fast_forward"
   ],
   "black_right-pointing_double_triangle_with_vertical_bar": [
     "arrow",
@@ -6283,7 +6588,8 @@
     "sound",
     "symbol",
     "triangle",
-    "blue-square"
+    "blue-square",
+    "arrow_backward"
   ],
   "black_left-pointing_double_triangle": [
     "arrow",
@@ -6307,14 +6613,16 @@
     "button",
     "red",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_up_small"
   ],
   "black_up-pointing_double_triangle": [
     "arrow",
     "double",
     "sound",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_double_up"
   ],
   "down-pointing_small_red_triangle": [
     "arrow",
@@ -6322,7 +6630,8 @@
     "down",
     "red",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_down_small"
   ],
   "black_down-pointing_double_triangle": [
     "arrow",
@@ -6330,7 +6639,8 @@
     "down",
     "sound",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_double_down"
   ],
   "double_vertical_bar": [
     "bar",
@@ -6363,7 +6673,8 @@
     "music",
     "object",
     "score",
-    "sound"
+    "sound",
+    "musical_score"
   ],
   "musical_note": [
     "activity",
@@ -6372,7 +6683,8 @@
     "note",
     "object",
     "sound",
-    "score"
+    "score",
+    "musical_note"
   ],
   "multiple_musical_notes": [
     "activity",
@@ -6426,7 +6738,8 @@
     "sound",
     "music",
     "score",
-    "gadgets"
+    "gadgets",
+    "headphones"
   ],
   "saxophone": [
     "activity",
@@ -6455,7 +6768,8 @@
     "music",
     "object",
     "piano",
-    "sound"
+    "sound",
+    "musical_keyboard"
   ],
   "trumpet": [
     "activity",
@@ -6494,7 +6808,8 @@
     "telephone",
     "technology",
     "apple",
-    "gadgets"
+    "gadgets",
+    "iphone"
   ],
   "vibration_mode": [
     "cell",
@@ -6506,7 +6821,8 @@
     "symbol",
     "telephone",
     "vibration",
-    "orange-square"
+    "orange-square",
+    "vibration_mode"
   ],
   "mobile_phone_off": [
     "cell",
@@ -6517,7 +6833,8 @@
     "phone",
     "symbol",
     "telephone",
-    "mute"
+    "mute",
+    "mobile_phone_off"
   ],
   "mobile_phone_with_rightwards_arrow_at_left": [
     "arrow",
@@ -6530,7 +6847,8 @@
     "receive",
     "telephone",
     "iphone",
-    "incoming"
+    "incoming",
+    "calling"
   ],
   "no_mobile_phones": [
     "cell",
@@ -6545,7 +6863,8 @@
     "symbol",
     "telephone",
     "iphone",
-    "mute"
+    "mute",
+    "no_mobile_phones"
   ],
   "black_telephone": [
     "object",
@@ -6553,8 +6872,8 @@
     "phone",
     "sound",
     "telephone",
-    "communication",
-    "technology"
+    "technology",
+    "communication"
   ],
   "telephone_receiver": [
     "communication",
@@ -6563,7 +6882,8 @@
     "receiver",
     "sound",
     "telephone",
-    "technology"
+    "technology",
+    "telephone_receiver"
   ],
   "keycap_number_sign": [
     "hash",
@@ -6679,7 +6999,8 @@
     "ten",
     "word",
     "numbers",
-    "blue-square"
+    "blue-square",
+    "keycap_ten"
   ],
   "antenna_with_bars": [
     "antenna",
@@ -6692,7 +7013,8 @@
     "signal",
     "symbol",
     "telephone",
-    "blue-square"
+    "blue-square",
+    "signal_strength"
   ],
   "pager": [
     "communication",
@@ -6723,7 +7045,8 @@
     "object",
     "plug",
     "charger",
-    "power"
+    "power",
+    "electric_plug"
   ],
   "personal_computer": [
     "computer",
@@ -6777,7 +7100,8 @@
     "optical",
     "technology",
     "record",
-    "data"
+    "data",
+    "minidisc"
   ],
   "floppy_disk": [
     "computer",
@@ -6788,7 +7112,8 @@
     "oldschool",
     "technology",
     "save",
-    "vintage"
+    "vintage",
+    "floppy_disk"
   ],
   "optical_disc": [
     "blu-ray",
@@ -6820,7 +7145,8 @@
     "movie",
     "object",
     "film",
-    "record"
+    "record",
+    "movie_camera"
   ],
   "cinema": [
     "activity",
@@ -6882,7 +7208,8 @@
     "entertainment",
     "object",
     "video",
-    "film"
+    "film",
+    "video_camera"
   ],
   "videocassette": [
     "entertainment",
@@ -6900,7 +7227,8 @@
     "low",
     "sign",
     "symbol",
-    "sun"
+    "sun",
+    "low_brightness"
   ],
   "high_brightness_symbol": [
     "bright",
@@ -6908,7 +7236,8 @@
     "sign",
     "symbol",
     "sun",
-    "light"
+    "light",
+    "high_brightness"
   ],
   "left-pointing_magnifying_glass": [
     "glass",
@@ -6916,7 +7245,8 @@
     "object",
     "search",
     "tool",
-    "zoom"
+    "zoom",
+    "mag"
   ],
   "right-pointing_magnifying_glass": [
     "glass",
@@ -6924,7 +7254,8 @@
     "object",
     "search",
     "tool",
-    "zoom"
+    "zoom",
+    "mag_right"
   ],
   "microscope": [
     "microscope",
@@ -6979,7 +7310,8 @@
     "light",
     "place",
     "red",
-    "restaurant"
+    "restaurant",
+    "izakaya_lantern"
   ],
   "notebook_with_decorative_cover": [
     "book",
@@ -6988,7 +7320,8 @@
     "education",
     "notebook",
     "object",
-    "office"
+    "office",
+    "notebook_with_decorative_cover"
   ],
   "closed_book": [
     "book",
@@ -6998,7 +7331,8 @@
     "office",
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "closed_book"
   ],
   "open_book": [
     "book",
@@ -7006,9 +7340,11 @@
     "object",
     "office",
     "open",
-    "read",
     "library",
-    "knowledge"
+    "literature",
+    "read",
+    "knowledge",
+    "open_book"
   ],
   "green_book": [
     "book",
@@ -7018,7 +7354,8 @@
     "office",
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "green_book"
   ],
   "blue_book": [
     "blue",
@@ -7028,7 +7365,8 @@
     "office",
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "blue_book"
   ],
   "orange_book": [
     "book",
@@ -7038,7 +7376,8 @@
     "orange",
     "read",
     "library",
-    "knowledge"
+    "knowledge",
+    "orange_book"
   ],
   "books": [
     "book",
@@ -7068,7 +7407,8 @@
     "object",
     "office",
     "page",
-    "documents"
+    "documents",
+    "page_with_curl"
   ],
   "scroll": [
     "object",
@@ -7082,7 +7422,8 @@
     "object",
     "office",
     "page",
-    "documents"
+    "documents",
+    "page_facing_up"
   ],
   "newspaper": [
     "communication",
@@ -7106,7 +7447,8 @@
     "object",
     "office",
     "tabs",
-    "favorite"
+    "favorite",
+    "bookmark_tabs"
   ],
   "bookmark": [
     "bookmark",
@@ -7185,7 +7527,8 @@
     "object",
     "office",
     "wings",
-    "bills"
+    "bills",
+    "money_with_wings"
   ],
   "currency_exchange": [
     "bank",
@@ -7195,7 +7538,8 @@
     "object",
     "office",
     "symbol",
-    "dollar"
+    "dollar",
+    "currency_exchange"
   ],
   "heavy_dollar_sign": [
     "currency",
@@ -7203,7 +7547,8 @@
     "money",
     "object",
     "office",
-    "symbol"
+    "symbol",
+    "heavy_dollar_sign"
   ],
   "credit_card": [
     "bank",
@@ -7214,7 +7559,8 @@
     "office",
     "pay",
     "dollar",
-    "bill"
+    "bill",
+    "credit_card"
   ],
   "chart_with_upwards_trend_and_yen_sign": [
     "bank",
@@ -7239,10 +7585,11 @@
     "envelope",
     "object",
     "office",
+    "inbox",
+    "communication",
     "mail",
     "letter",
-    "postal",
-    "communication"
+    "postal"
   ],
   "e-mail_symbol": [
     "communication",
@@ -7265,7 +7612,8 @@
     "object",
     "office",
     "receive",
-    "inbox"
+    "inbox",
+    "incoming_envelope"
   ],
   "envelope_with_downwards_arrow_above": [
     "arrow",
@@ -7292,7 +7640,8 @@
     "sent",
     "tray",
     "inbox",
-    "email"
+    "email",
+    "outbox_tray"
   ],
   "inbox_tray": [
     "box",
@@ -7304,7 +7653,8 @@
     "office",
     "receive",
     "tray",
-    "email"
+    "email",
+    "inbox_tray"
   ],
   "package": [
     "box",
@@ -7339,7 +7689,8 @@
     "office",
     "postbox",
     "email",
-    "inbox"
+    "inbox",
+    "mailbox_closed"
   ],
   "open_mailbox_with_raised_flag": [
     "communication",
@@ -7351,7 +7702,8 @@
     "open",
     "postbox",
     "email",
-    "inbox"
+    "inbox",
+    "mailbox_with_mail"
   ],
   "open_mailbox_with_lowered_flag": [
     "communication",
@@ -7364,7 +7716,8 @@
     "open",
     "postbox",
     "email",
-    "inbox"
+    "inbox",
+    "mailbox_with_no_mail"
   ],
   "postbox": [
     "communication",
@@ -7386,14 +7739,16 @@
     "object",
     "office",
     "pencil",
-    "stationery"
+    "stationery",
+    "pencil2"
   ],
   "black_nib": [
     "nib",
     "object",
     "office",
     "pen",
-    "stationery"
+    "stationery",
+    "black_nib"
   ],
   "lower_left_fountain_pen": [
     "communication",
@@ -7447,7 +7802,8 @@
     "folder",
     "object",
     "office",
-    "documents"
+    "documents",
+    "file_folder"
   ],
   "open_file_folder": [
     "file",
@@ -7455,7 +7811,8 @@
     "object",
     "office",
     "open",
-    "documents"
+    "documents",
+    "open_file_folder"
   ],
   "card_index_dividers": [
     "card",
@@ -7498,7 +7855,8 @@
     "office",
     "rolodex",
     "business",
-    "stationery"
+    "stationery",
+    "card_index"
   ],
   "chart_with_upwards_trend": [
     "chart",
@@ -7507,7 +7865,8 @@
     "object",
     "office",
     "trend",
-    "upward"
+    "upward",
+    "chart_with_upwards_trend"
   ],
   "chart_with_downwards_trend": [
     "chart",
@@ -7515,7 +7874,8 @@
     "graph",
     "object",
     "office",
-    "trend"
+    "trend",
+    "chart_with_downwards_trend"
   ],
   "bar_chart": [
     "bar",
@@ -7524,7 +7884,8 @@
     "object",
     "office",
     "presentation",
-    "stats"
+    "stats",
+    "bar_chart"
   ],
   "clipboard": [
     "clipboard",
@@ -7546,7 +7907,8 @@
     "pin",
     "place",
     "pushpin",
-    "stationery"
+    "stationery",
+    "round_pushpin"
   ],
   "paperclip": [
     "object",
@@ -7567,7 +7929,8 @@
     "office",
     "ruler",
     "straight edge",
-    "stationery"
+    "stationery",
+    "straight_ruler"
   ],
   "triangular_ruler": [
     "object",
@@ -7578,14 +7941,16 @@
     "stationery",
     "math",
     "architect",
-    "sketch"
+    "sketch",
+    "triangular_ruler"
   ],
   "name_badge": [
     "badge",
     "name",
     "object",
     "office",
-    "fire"
+    "fire",
+    "name_badge"
   ],
   "black_scissors": [
     "object",
@@ -7635,7 +8000,8 @@
     "pen",
     "privacy",
     "security",
-    "secret"
+    "secret",
+    "lock_with_ink_pen"
   ],
   "closed_lock_with_key": [
     "closed",
@@ -7644,7 +8010,8 @@
     "object",
     "secure",
     "security",
-    "privacy"
+    "privacy",
+    "closed_lock_with_key"
   ],
   "key": [
     "key",
@@ -7701,7 +8068,8 @@
     "object",
     "tool",
     "handy",
-    "tools"
+    "tools",
+    "nut_and_bolt"
   ],
   "gear": [
     "gear",
@@ -7839,7 +8207,8 @@
     "contest",
     "finishline",
     "rase",
-    "gokart"
+    "gokart",
+    "checkered_flag"
   ],
   "waving_white_flag": [
     "flag",
@@ -7856,7 +8225,8 @@
     "object",
     "place",
     "post",
-    "travel"
+    "travel",
+    "triangular_flag_on_post"
   ],
   "flag_for_ascension_island": [
     "ascension",
@@ -9286,7 +9656,8 @@
     "direction",
     "north",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_up"
   ],
   "north_east_arrow": [
     "arrow",
@@ -9294,7 +9665,8 @@
     "intercardinal",
     "northeast",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_upper_right"
   ],
   "black_rightwards_arrow": [
     "arrow",
@@ -9302,7 +9674,8 @@
     "direction",
     "east",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_right"
   ],
   "south_east_arrow": [
     "arrow",
@@ -9310,7 +9683,8 @@
     "intercardinal",
     "southeast",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_lower_right"
   ],
   "downwards_black_arrow": [
     "arrow",
@@ -9319,7 +9693,8 @@
     "down",
     "south",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_down"
   ],
   "south_west_arrow": [
     "arrow",
@@ -9327,7 +9702,8 @@
     "intercardinal",
     "southwest",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_lower_left"
   ],
   "leftwards_black_arrow": [
     "arrow",
@@ -9335,7 +9711,8 @@
     "direction",
     "symbol",
     "west",
-    "blue-square"
+    "blue-square",
+    "arrow_left"
   ],
   "north_west_arrow": [
     "arrow",
@@ -9343,43 +9720,51 @@
     "intercardinal",
     "northwest",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_upper_left"
   ],
   "up_down_arrow": [
     "arrow",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_up_down"
   ],
   "left_right_arrow": [
     "arrow",
-    "symbol"
+    "symbol",
+    "left_right_arrow"
   ],
   "leftwards_arrow_with_hook": [
     "arrow",
-    "symbol"
+    "symbol",
+    "leftwards_arrow_with_hook"
   ],
   "rightwards_arrow_with_hook": [
     "arrow",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_right_hook"
   ],
   "arrow_pointing_rightwards_then_curving_upwards": [
     "arrow",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_heading_up"
   ],
   "arrow_pointing_rightwards_then_curving_downwards": [
     "arrow",
     "down",
     "symbol",
-    "blue-square"
+    "blue-square",
+    "arrow_heading_down"
   ],
   "clockwise_downwards_and_upwards_open_circle_arrows": [
     "arrow",
     "clockwise",
     "reload",
     "symbol",
-    "sync"
+    "sync",
+    "arrows_clockwise"
   ],
   "anticlockwise_downwards_and_upwards_open_circle_arrows": [
     "anticlockwise",
@@ -9388,7 +9773,8 @@
     "symbol",
     "withershins",
     "blue-square",
-    "sync"
+    "sync",
+    "arrows_counterclockwise"
   ],
   "back_with_leftwards_arrow_above": [
     "arrow",
@@ -9511,14 +9897,16 @@
     "object",
     "tool",
     "disco",
-    "party"
+    "party",
+    "crystal_ball"
   ],
   "six_pointed_star_with_middle_dot": [
     "fortune",
     "object",
     "star",
     "symbol",
-    "purple-square"
+    "purple-square",
+    "six_pointed_star"
   ],
   "black_universal_recycling_symbol": [
     "recycle",
@@ -9572,7 +9960,8 @@
     "symbol",
     "green-square",
     "ok",
-    "agree"
+    "agree",
+    "white_check_mark"
   ],
   "ballot_box_with_check": [
     "ballot",
@@ -9581,7 +9970,8 @@
     "sign",
     "symbol",
     "ok",
-    "agree"
+    "agree",
+    "ballot_box_with_check"
   ],
   "heavy_check_mark": [
     "check",
@@ -9615,21 +10005,24 @@
     "x",
     "green-square",
     "no",
-    "deny"
+    "deny",
+    "negative_squared_cross_mark"
   ],
   "heavy_plus_sign": [
     "math",
     "plus",
     "sign",
     "symbol",
-    "calculation"
+    "calculation",
+    "heavy_plus_sign"
   ],
   "heavy_minus_sign": [
     "math",
     "minus",
     "sign",
     "symbol",
-    "calculation"
+    "calculation",
+    "heavy_minus_sign"
   ],
   "heavy_division_sign": [
     "division",
@@ -9637,14 +10030,16 @@
     "sign",
     "symbol",
     "divide",
-    "calculation"
+    "calculation",
+    "heavy_division_sign"
   ],
   "curly_loop": [
     "curl",
     "loop",
     "sign",
     "symbol",
-    "scribble"
+    "scribble",
+    "curly_loop"
   ],
   "double_curly_loop": [
     "curl",
@@ -9660,7 +10055,8 @@
     "part",
     "sign",
     "symbol",
-    "graph"
+    "graph",
+    "part_alternation_mark"
   ],
   "eight_spoked_asterisk": [
     "asterisk",
@@ -9668,12 +10064,14 @@
     "symbol",
     "star",
     "sparkle",
-    "green-square"
+    "green-square",
+    "eight_spoked_asterisk"
   ],
   "eight_pointed_black_star": [
     "sign",
     "star",
-    "symbol"
+    "symbol",
+    "eight_pointed_black_star"
   ],
   "sparkle": [
     "sign",
@@ -9717,7 +10115,8 @@
     "question",
     "symbol",
     "word",
-    "doubts"
+    "doubts",
+    "grey_question"
   ],
   "white_exclamation_mark_ornament": [
     "exclamation",
@@ -9725,7 +10124,8 @@
     "outlined",
     "punctuation",
     "symbol",
-    "word"
+    "word",
+    "grey_exclamation"
   ],
   "heavy_exclamation_mark_symbol": [
     "exclamation",
@@ -9734,7 +10134,8 @@
     "symbol",
     "word",
     "surprise",
-    "wow"
+    "wow",
+    "heavy_exclamation_mark"
   ],
   "wavy_dash": [
     "dash",
@@ -9743,7 +10144,8 @@
     "symbol",
     "wavy",
     "draw",
-    "line"
+    "line",
+    "wavy_dash"
   ],
   "copyright_sign": [
     "copyright",
@@ -9801,7 +10203,8 @@
     "word",
     "alphabet",
     "words",
-    "blue-square"
+    "blue-square",
+    "capital_abcd"
   ],
   "input_symbol_for_latin_small_letters": [
     "abcd",
@@ -9826,7 +10229,8 @@
     "input",
     "symbol",
     "word",
-    "blue-square"
+    "blue-square",
+    "symbols"
   ],
   "input_symbol_for_latin_letters": [
     "abc",
@@ -9890,7 +10294,8 @@
     "symbol",
     "word",
     "blue-square",
-    "alphabet"
+    "alphabet",
+    "information_source"
   ],
   "squared_id": [
     "id",
@@ -9927,7 +10332,8 @@
     "symbol",
     "word",
     "alphabet",
-    "red-square"
+    "red-square",
+    "o2"
   ],
   "squared_ok": [
     "ok",
@@ -9979,13 +10385,15 @@
     "blue-square",
     "here",
     "katakana",
-    "destination"
+    "destination",
+    "koko"
   ],
   "squared_katakana_sa": [
     "japanese",
     "symbol",
     "word",
-    "blue-square"
+    "blue-square",
+    "sa"
   ],
   "squared_cjk_unified_ideograph-6708": [
     "japanese",
@@ -9994,7 +10402,8 @@
     "chinese",
     "moon",
     "orange-square",
-    "kanji"
+    "kanji",
+    "u6708"
   ],
   "squared_cjk_unified_ideograph-6709": [
     "japanese",
@@ -10003,7 +10412,8 @@
     "orange-square",
     "chinese",
     "have",
-    "kanji"
+    "kanji",
+    "u6709"
   ],
   "squared_cjk_unified_ideograph-6307": [
     "japanese",
@@ -10012,7 +10422,8 @@
     "chinese",
     "point",
     "green-square",
-    "kanji"
+    "kanji",
+    "u6307"
   ],
   "circled_ideograph_advantage": [
     "japanese",
@@ -10021,7 +10432,8 @@
     "chinese",
     "kanji",
     "obtain",
-    "get"
+    "get",
+    "ideograph_advantage"
   ],
   "squared_cjk_unified_ideograph-5272": [
     "japanese",
@@ -10031,7 +10443,8 @@
     "divide",
     "chinese",
     "kanji",
-    "pink"
+    "pink",
+    "u5272"
   ],
   "squared_cjk_unified_ideograph-7121": [
     "japanese",
@@ -10041,7 +10454,8 @@
     "nothing",
     "chinese",
     "kanji",
-    "orange-square"
+    "orange-square",
+    "u7121"
   ],
   "squared_cjk_unified_ideograph-7981": [
     "japanese",
@@ -10051,7 +10465,8 @@
     "chinese",
     "forbidden",
     "limit",
-    "restricted"
+    "restricted",
+    "u7981"
   ],
   "circled_ideograph_accept": [
     "chinese",
@@ -10061,14 +10476,16 @@
     "good",
     "kanji",
     "agree",
-    "yes"
+    "yes",
+    "accept"
   ],
   "squared_cjk_unified_ideograph-7533": [
     "chinese",
     "symbol",
     "word",
     "japanese",
-    "kanji"
+    "kanji",
+    "u7533"
   ],
   "squared_cjk_unified_ideograph-5408": [
     "chinese",
@@ -10076,7 +10493,8 @@
     "word",
     "japanese",
     "join",
-    "kanji"
+    "kanji",
+    "u5408"
   ],
   "squared_cjk_unified_ideograph-7a7a": [
     "chinese",
@@ -10084,7 +10502,8 @@
     "word",
     "kanji",
     "japanese",
-    "empty"
+    "empty",
+    "u7a7a"
   ],
   "circled_ideograph_congratulation": [
     "chinese",
@@ -10109,7 +10528,8 @@
     "symbol",
     "word",
     "japanese",
-    "opening hours"
+    "opening hours",
+    "u55b6"
   ],
   "squared_cjk_unified_ideograph-6e80": [
     "chinese",
@@ -10118,96 +10538,111 @@
     "full",
     "japanese",
     "red-square",
-    "kanji"
+    "kanji",
+    "u6e80"
   ],
   "black_small_square": [
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "black_small_square"
   ],
   "white_small_square": [
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "white_small_square"
   ],
   "white_medium_square": [
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "white_medium_square"
   ],
   "black_medium_square": [
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "black_medium_square"
   ],
   "white_medium_small_square": [
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "white_medium_small_square"
   ],
   "black_medium_small_square": [
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "black_medium_small_square"
   ],
   "black_large_square": [
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "black_large_square"
   ],
   "white_large_square": [
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "white_large_square"
   ],
   "large_orange_diamond": [
     "diamond",
     "geometric",
     "orange",
     "sign",
-    "symbol"
+    "symbol",
+    "large_orange_diamond"
   ],
   "large_blue_diamond": [
     "blue",
     "diamond",
     "geometric",
     "sign",
-    "symbol"
+    "symbol",
+    "large_blue_diamond"
   ],
   "small_orange_diamond": [
     "diamond",
     "geometric",
     "orange",
     "sign",
-    "symbol"
+    "symbol",
+    "small_orange_diamond"
   ],
   "small_blue_diamond": [
     "blue",
     "diamond",
     "geometric",
     "sign",
-    "symbol"
+    "symbol",
+    "small_blue_diamond"
   ],
   "up-pointing_red_triangle": [
     "geometric",
     "red",
     "sign",
-    "symbol"
+    "symbol",
+    "small_red_triangle"
   ],
   "down-pointing_red_triangle": [
     "down",
     "geometric",
     "red",
     "sign",
-    "symbol"
+    "symbol",
+    "small_red_triangle_down"
   ],
   "diamond_shape_with_a_dot_inside": [
     "comic",
@@ -10215,7 +10650,8 @@
     "geometric",
     "inside",
     "sign",
-    "symbol"
+    "symbol",
+    "diamond_shape_with_a_dot_inside"
   ],
   "radio_button": [
     "button",
@@ -10223,14 +10659,16 @@
     "radio",
     "sign",
     "symbol",
-    "input"
+    "input",
+    "radio_button"
   ],
   "black_square_button": [
     "button",
     "geometric",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "black_square_button"
   ],
   "white_square_button": [
     "button",
@@ -10238,19 +10676,22 @@
     "outlined",
     "sign",
     "square",
-    "symbol"
+    "symbol",
+    "white_square_button"
   ],
   "medium_white_circle": [
     "circle",
     "geometric",
     "sign",
-    "symbol"
+    "symbol",
+    "white_circle"
   ],
   "medium_black_circle": [
     "circle",
     "geometric",
     "sign",
-    "symbol"
+    "symbol",
+    "black_circle"
   ],
   "large_red_circle": [
     "circle",
@@ -10258,13 +10699,15 @@
     "red",
     "sign",
     "symbol",
-    "shape"
+    "shape",
+    "red_circle"
   ],
   "large_blue_circle": [
     "blue",
     "circle",
     "geometric",
     "sign",
-    "symbol"
+    "symbol",
+    "large_blue_circle"
   ]
 }

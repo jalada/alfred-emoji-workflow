@@ -12,18 +12,25 @@ require './related_words.rb'
 related = JSON.load(File.read('related.json'))
 symbols = JSON.load(File.read('symbols.json'))
 
-os = EMOJI_SYMBOLS.invert
+inv = {}
+EMOJI_SYMBOLS.each do |o, s|
+  inv[s] = (inv[s] || []) << o.to_s
+end
 
 # Invert EMOJI_SYMBOLS to perform new name -> symbol -> old name lookup
 renamed = {}
 symbols.each do |n, s|
-  renamed[n] = os[s].to_s
+  renamed[n] = inv[s]
 end
 
 # Map old RELATED_WORDS keys to new canonical emoji names
 renamed_related = {}
 renamed.each do |n, o|
-  renamed_related[n] = RELATED_WORDS[o]
+  next unless o.is_a?(Array)
+  o.each do |old|
+    renamed_related[n] = (renamed_related[n] || []).concat(RELATED_WORDS[old])
+    renamed_related[n] << old
+  end
 end
 
 # Remove any related words that are in the canonical annotations list
