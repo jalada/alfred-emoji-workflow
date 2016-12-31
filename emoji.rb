@@ -5,10 +5,10 @@ symbols = JSON.load(File.read('symbols.json'))
 
 def item_xml(options = {})
   <<-ITEM
-  <item arg="#{options[:arg]}" uid="#{options[:uid]}">
-    <title>#{options[:title]}</title>
-    <subtitle>#{options[:subtitle]}</subtitle>
-    <icon>#{options[:path]}</icon>
+  <item arg=#{options[:arg].encode(xml: :attr)} uid=#{options[:uid].encode(xml: :attr)}>
+    <title>#{options[:title].encode(xml: :text)}</title>
+    <subtitle>#{options[:subtitle].encode(xml: :text)}</subtitle>
+    <icon>#{options[:path].encode(xml: :text)}</icon>
   </item>
   ITEM
 end

@@ -6,7 +6,7 @@ require 'json'
 doc = Nokogiri::HTML(open('http://unicode.org/emoji/charts/full-emoji-list.html'))
 # doc = File.open('full-emoji-list.html') { |f| Nokogiri::HTML(f) }
 
-rows = doc.xpath('//table/tr')
+rows = doc.css('table tr')
 
 related = {}
 symbols = {}
@@ -18,14 +18,20 @@ rows.each do |row|
   next if 'Count' == row.at_xpath('th[1]/text()').to_s.strip
 
   # Replace spaces with _ in emoji name to make image filename
-  filename = row.at_xpath('td[13]/text()').to_s.strip.gsub(/\s/, '_').downcase
+  filename = row.at_css('td.name').text.to_s.strip.gsub(/\s/, '_').downcase rescue nil
+  next unless filename
+  # Skip modifiers
+  next if filename.include? ":"
+
+  puts filename
 
   # Decode base64 image data for Apple icon and save to file
-  icon = Base64.decode64(row.css('td.andr')[1].css('img').attr('src').to_s[22..-1])
+  icon = Base64.decode64(row.css('td.andr')[1].css('img').attr('src').to_s[22..-1]) rescue nil
+  next unless icon
   File.open("images/emoji/#{filename}.png", 'wb') { |f| f.write(icon) }
 
   # Use annotations for related words
-  annotations = row.css('td[16]/a').children.collect { |a| a.to_s }
+  annotations = row.css('td[18]/a').children.collect { |a| a.to_s }
   # Combine annotations with custom related words
   related[filename] = annotations.concat(custom_related[filename] || []).uniq
 
