@@ -23,15 +23,13 @@ rows.each do |row|
   # Skip modifiers
   next if filename.include? ":"
 
-  puts filename
-
   # Decode base64 image data for Apple icon and save to file
   icon = Base64.decode64(row.css('td.andr')[1].css('img').attr('src').to_s[22..-1]) rescue nil
   next unless icon
   File.open("images/emoji/#{filename}.png", 'wb') { |f| f.write(icon) }
 
   # Use annotations for related words
-  annotations = row.css('td[18]/a').children.collect { |a| a.to_s }
+  annotations = row.css('td:last-child a').children.collect { |a| a.text }
   # Combine annotations with custom related words
   related[filename] = annotations.concat(custom_related[filename] || []).uniq
 
