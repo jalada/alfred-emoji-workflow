@@ -3,7 +3,7 @@ require 'open-uri'
 require 'base64'
 require 'json'
 
-doc = Nokogiri::HTML(open('http://unicode.org/emoji/charts/full-emoji-list.html'))
+doc = Nokogiri::HTML(open('http://unicode.org/emoji/charts/emoji-list.html'))
 # doc = File.open('full-emoji-list.html') { |f| Nokogiri::HTML(f) }
 
 rows = doc.css('table tr')
@@ -24,12 +24,12 @@ rows.each do |row|
   next if filename.include? ":"
 
   # Decode base64 image data for Apple icon and save to file
-  icon = Base64.decode64(row.css('td.andr')[1].css('img').attr('src').to_s[22..-1]) rescue nil
+  icon = Base64.decode64(row.css('td.andr')[0].css('img').attr('src').to_s[22..-1]) rescue nil
   next unless icon
   File.open("images/emoji/#{filename}.png", 'wb') { |f| f.write(icon) }
 
   # Use annotations for related words
-  annotations = row.css('td:last-child a').children.collect { |a| a.text }
+  annotations = row.css('td:last-child').text.split(" | ")
   # Combine annotations with custom related words
   related[filename] = annotations.concat(custom_related[filename] || []).uniq
 
